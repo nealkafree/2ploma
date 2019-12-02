@@ -49,4 +49,4 @@ def change_existed_object(path, key, metrics):
             file.write(key + ':' + '|'.join(value) + '\n')
 
 
-change_existed_object('test.txt', 'test1', {'tst1': 'один', 'tst3': 'три'})
+# change_existed_object('test.txt', 'test1', {'tst1': 'один', 'tst3': 'три'})

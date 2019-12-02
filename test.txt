@@ -1,3 +1,4 @@
 tst1|tst2|tst3
-test1:one|four|three
-test2:uno|cuatro|tres
+test1:1|2|3
+test2:1.5|2.5|3.5
+test3:0.5|1.5|2.5
