@@ -1,9 +1,10 @@
-from sklearn.cluster import KMeans
-import metric_reader_writer as metricrw
 from multiprocessing import Pool
 
+from sklearn.cluster import KMeans
 
-# _, data = metricrw.read_metrics('test.txt')
+import metricio
+
+# _, data = metricio.read_metrics('test.txt')
 # train_data = [[float(k) for k in value] for value in data.values()]
 # kmeans = KMeans(n_clusters=2)
 # kmeans.fit(train_data)

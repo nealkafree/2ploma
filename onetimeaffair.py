@@ -1,6 +1,6 @@
 """Здесь будут функции, написанные для одноразового использования"""
 
-import corpus_crawler as crawl
+import corpcrawler as crawl
 
 
 def create_base_for_data(path):

@@ -1,9 +1,11 @@
 """В этом модуле будут функции для подсчета метрик"""
 
-from nltk.tokenize import word_tokenize, sent_tokenize
-import corpus_crawler as crawl
-import metric_reader_writer as metricrw
 from multiprocessing import Pool
+
+from nltk.tokenize import word_tokenize, sent_tokenize
+
+import corpcrawler as crawl
+import metricio
 
 
 def avg_words_in_sentence(cort):
@@ -20,12 +22,12 @@ def avg_words_in_sentence(cort):
     return cort[0], round(word_count / sent_count, 5)
 
 
-data = crawl.get_texts('Corpus')
-if __name__ == '__main__':
-    p = Pool()
-    test = p.map(avg_words_in_sentence, data.items())
-    # for key, value in data.items():
-    #     metric[key] = avg_words_in_sentence(value)
-    p.close()
-    p.join()
-    metricrw.change_existed_metric('data.txt', 'avgwordsen', dict(test))
+# data = crawl.get_texts('Corpus')
+# if __name__ == '__main__':
+#     p = Pool()
+#     test = p.map(avg_words_in_sentence, data.items())
+#     # for key, value in data.items():
+#     #     metric[key] = avg_words_in_sentence(value)
+#     p.close()
+#     p.join()
+#     metricio.change_existed_metric('data.txt', 'avgwordsen', dict(test))
