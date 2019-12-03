@@ -1,0 +1,918 @@
+
+Cказка $ Роальд Даль $ Чарли и шоколадная фабрика.txt:
+братья Гримм Бременские музыканты:
+Винни Пух и все все все.txt:
+Волков Волшебник Изумрудного города:
+Гавальда А. 35 кило надежды.txt:
+Катаев Цветик-семицветик:
+Кир Булычев Сто лет тому вперед:
+Крот в городе.txt:
+Приключения $ Носов $ Рассказы:
+Сказка $ Алексей Толстой $ Золотой ключик, или приключения Буратино:
+Сказка $ Андерсен $ Сказки:
+Сказка $ Джоэль $ Сказки дядюшки Римуса:
+Сказка $ Линдгрен $ Малыш и Карлсон.txt:
+Сказка $ Линдгрен $ Пиппи длинный чулок:
+Сказка $ Шарль Перро $ Красная шапочка:
+фэнтези $ Роулинг $ Гарри Поттер и Кубок огня:
+фэнтези $ Роулинг $ Гарри Поттер и Принц полукровка:
+фэнтези $ Роулинг $ Гарри Поттер и Тайная комната:
+фэнтези $ Роулинг $ Гарри Поттер и узник Азкабана:
+Фэнтези $ Роулинг $ Гарри Поттер и Философский камень:
+Ян Ларри Необыкновенные приключения Карика и Вали:
+Янссон Мемуары папы Муми Тролля:
+Янссон Муми-тролль и комета:
+Янссон Опасное лето:
+Bandit iz Chiertova Kan_ona - Edghar Rais Bierrouz.txt:
+Bieghstvo na Vienieru - Edghar Bierrouz.txt:
+Biezumnyi korol_ - Edghar Rais Bierrouz.txt:
+Boghi Marsa - Edghar Rais Bierrouz.txt:
+Boievoi chieloviek Marsa - Edghar Rais Bierrouz.txt:
+Boksier Billi - Edghar Rais Bierrouz.txt:
+Doch_ tysiachi dzhieddakov - Edghar Rais Bierrouz.txt:
+Gighant s Marsa - Edghar Rais Bierrouz.txt:
+Iskusstviennyie liudi Marsa - Edghar Rais Bierrouz.txt:
+Karson Vienierianskii - Edghar Bierrouz.txt:
+Krasnyi iastrieb - Edghar Rais Bierrouz.txt:
+Lana iz Gatola - Edghar Rais Bierrouz.txt:
+Liudi iz zabytogho vriemieni - Edghar Rais Bierrouz.txt:
+Liudi s Luny - Edghar Rais Bierrouz.txt:
+Liudi-monstry - Edghar Rais Bierrouz.txt:
+Lunnaia dievushka - Edghar Rais Bierrouz.txt:
+Marsianskiie shakhmaty - Edghar Rais Bierrouz.txt:
+Miechi Marsa - Edghar Rais Bierrouz.txt:
+Obratno v kamiennyi viek - Edghar Rais Bierrouz.txt:
+Pielliusidar - Edghar Rais Bierrouz.txt:
+Pieshchiernaia dievushka - Edghar Rais Bierrouz.txt:
+Piraty Vieniery - Edghar Bierrouz.txt:
+Poisk Tarzana - Edghar Bierrouz.txt:
+Posliednii iz plieistotsiena - Edghar Bierrouz.txt:
+Potieriannyi kontinient - Edghar Rais Bierrouz.txt:
+Prikliuchieniia Tarzana v dzhunghliakh - Edghar Rais Bierrouz.txt:
+Prikliuchieniia v niedrakh Ziemli - Edghar Bierrouz.txt:
+Proisshiestviie v Okdieilie - Edghar Rais Bierrouz.txt:
+Skielietoidy s Iupitiera - Edghar Rais Bierrouz.txt:
+Sviriepyi Pielliusidar - Edghar Bierrouz.txt:
+Syn Tarzana - Edghar Bierrouz.txt:
+Tanar iz Pielliusidara - Edghar Bierrouz.txt:
+Tarzan - povielitiel_ dzhunghliei - Edghar Rais Bierrouz.txt:
+Tarzan -- priiemysh obiez_ian - Edghar Rais Bierrouz.txt:
+Tarzan i chieloviek-liev - Edghar Rais Bierrouz.txt:
+Tarzan i chiempion - Edghar Rais Bierrouz.txt:
+Tarzan i Gorod Zolota - Edghar Rais Bierrouz.txt:
+Tarzan i iegho zvieri - Edghar Rais Bierrouz.txt:
+Tarzan i liudi-lieopardy - Edghar Rais Bierrouz.txt:
+Tarzan i liudi-murav_i - Edghar Rais Bierrouz.txt:
+Tarzan i potieriannaia impieriia - Edghar Bierrouz.txt:
+Tarzan i potierpievshiie korabliekrushieniie - Edghar Rais Bierrouz.txt:
+Tarzan i sokrovishcha Opara - Edghar Rais Bierrouz.txt:
+Tarzan i sumasshiedshii - Edghar Rais Bierrouz.txt:
+Tarzan i ubiistvo v dzhunghliakh - Edghar Rais Bierrouz.txt:
+Tarzan i zaprietnyi ghorod - Edghar Bierrouz.txt:
+Tarzan i zolotoi liev - Edghar Rais Bierrouz.txt:
+Tarzan i __Inostrannyi lieghion__ - Edghar Rais Bierrouz.txt:
+Tarzan Niepobiedimyi - Edghar Rais Bierrouz.txt:
+Tarzan nieukrotimyi - Edghar Rais Bierrouz.txt:
+Tarzan torzhiestvuiushchii - Edghar Bierrouz.txt:
+Tarzan Uzhasnyi - Edghar Rais Bierrouz.txt:
+Tarzan v Pielliusidarie - Edghar Rais Bierrouz.txt:
+Tarzan vielikoliepnyi - Edghar Bierrouz.txt:
+Tuviia, dieva Marsa - Edghar Rais Bierrouz.txt:
+V sierdtsie Ziemli - Edghar Rais Bierrouz.txt:
+Viechnyi dikar_ - Edghar Rais Bierrouz.txt:
+Vielikii um Marsa - Edghar Rais Bierrouz.txt:
+Vladyka Marsa - Edghar Rais Bierrouz.txt:
+Vnie biezdny vriemieni - Edghar Rais Bierrouz.txt:
+Vozvrashchieniie v dzhunghli - Edghar Rais Bierrouz.txt:
+Za samoi daliekoi zviezdoi - Edghar Rais Bierrouz.txt:
+Zakorienielyi priestupnik - Edghar Rais Bierrouz.txt:
+Zatieriannyie na Vienierie - Edghar Bierrouz.txt:
+Ziemlia potieriannykh liudiei - Edghar Rais Bierrouz.txt:
+Ziemlia uzhasa - Edghar Rais Bierrouz.txt:
+Ziemlia, pozabytaia vriemieniem - Edghar Rais Bierrouz.txt:
+Marsianin - Endi Vieiier.txt:
+Golodnyie ighry - S_iuzien Kollinz.txt:
+I vspykhniet plamia - Siuzien Kollinz.txt:
+Soika-pieriesmieshnitsa - S_iuzien Kollinz.txt:
+Ekstriennyi sluchai - Maikl Kraiton.txt:
+Gosudarstvo strakha - Maikl Kraiton.txt:
+Kongho - Maikl Kraiton.txt:
+Kryl_ia - Maikl Kraiton.txt:
+Opasnyi patsiient - Maikl Kraiton.txt:
+Park iurskogho pierioda - Maikl Kraiton.txt:
+Piratskiie shiroty - Maikl Kraiton.txt:
+Pozhiratieli miertvykh (13-i voin) - Maikl Kraiton.txt:
+Razoblachieniie - Maikl Kraiton.txt:
+Roi - Maikl Kraiton.txt:
+Sfiera - Maikl Kraiton.txt:
+Shtamm __Andromieda__ - Maikl Kraiton.txt:
+Sluchai nieobkhodimosti - Maikl Kraiton.txt:
+Striela vriemieni - Maikl Kraiton.txt:
+Voskhodiashchieie solntsie - Maikl Kraiton.txt:
+Zatieriannyi mir - Maikl Kraiton.txt:
+Zuby drakona - Maikl Kraiton.txt:
+Lichnyie vospominaniia o Zhannie D`Ark s_ierietaria. Tom Soiier -- syshchik - Mark Tvien.txt:
+Nalieghkie - Mark Tvien.txt:
+Pozolochiennyi viek - Mark Tvien _ Charl_z Dedli Uornier.txt:
+Prostaki za ghranitsiei ili Put_ novykh palomnikov - Mark Tvien.txt:
+Tom 10. Rasskazy. Ochierki. Publitsistika. 1863-1893. - Mark Tvien.txt:
+Tom 11. Rasskazy. Ochierki. Publitsistika. 1894-1909 - Mark Tvien.txt:
+Tom 12. Iz _Avtobioghrafii_. Iz zapisnykh knek 1865-1905. Izbrannyie pis_ma - Mark Tvien.txt:
+Tom 4. Prikliuchieniia Toma Soiiera. Zhizn_ na Missisipi - Mark Tvien.txt:
+Tom 5. Pieshkom po Ievropie. Prints i nishchii. - Mark Tvien.txt:
+Tom 6. Prikliuchieniia Giekl_bierri Finna. Iikuta pri dvorie korolia Artura - Mark Tvien.txt:
+Tom 7. Amierikanskii prietiendient.Tom Soiieranitsiei. Prostofilia Vil_son. - Mark Tvien.txt:
+Tom 9. Po ekvatoru. Tainstviennyi nieznakomiets - Mark Tvien.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 1 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 10 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 11 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 12 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 2 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 3 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 4 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 5 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 6 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 7 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 8 - Lit-Classic.Com.txt:
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 9 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 1 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 10 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 11 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 12 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 13 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 14 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 2 - DzhiekLondon.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 3 - Lit-Classic.ComLondon.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 4 - Lit-Oboz.Ru.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 5 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 6 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 7 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 8 - Lit-Classic.Com.txt:
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 9 - Lit-Classic.Com.txt:
+Bashnia Piepla - Dzhordzh Martin.txt:
+Bitva koroliei - Dzhordzh Martin.txt:
+Bor_ba chieloviechieskogho sierdtsa s samim soboi - Dzhordzh Martin.txt:
+Buria miechiei - Dzhordzh Martin.txt:
+Chieloviek s miasnoi fabriki - Dzhordzh Martin.txt:
+Chieloviek-v-formie-ghrushi - Dzhordzh Martin.txt:
+Chietyriekhtsvietnyi mal_chik-fanat - Dzhordzh Martin.txt:
+Dikiie karty - Dzhordzh Martin.txt:
+Dikiie karty. Knigha 6. Tuz v trudnom polozhienii - Dzhordzh Martin.txt:
+Dorogha v San-Brieta - Dzhordzh Martin.txt:
+Gibridy i uzhasy - Dzhordzh Martin.txt:
+Gieroi - Dzhordzh Martin.txt:
+Griaznyi profiessional - Dzhordzh Martin.txt:
+Griezy Fievra - Dzhordzh Martin.txt:
+I smiert_ iegho nasliediie - Dzhordzh Martin.txt:
+Ighra priestolov - Dzhordzh Martin.txt:
+Kamiennyi ghorod - Dzhordzh Martin.txt:
+Khlieba i ryby - Dzhordzh Martin.txt:
+Khranitieli - Dzhordzh Martin.txt:
+Koroli-pustynniki - Dzhordzh Martin.txt:
+Kozyrnyie tuzy - Dzhordzh Martin.txt:
+Kriepost_ - Dzhordzh Martin.txt:
+Liechieniie martyshkami - Dzhordzh Martin.txt:
+Liedianoi drakon - Dzhordzh Martin.txt:
+Lietiashchiie skvoz_ noch_ - Dzhordzh Martin.txt:
+Manna niebiesnaia - Dzhordzh Martin.txt:
+Miezhievoi Rytsar_ - Dzhordzh Martin.txt:
+Mistfal_ prikhodit utrom - Dzhordzh Martin.txt:
+Nasliedniki Chieriepash_iegho zamka - Dzhordzh Martin.txt:
+Nieistovyie dzhokiery - Dzhordzh Martin.txt:
+Noch_ __Vampirov__ - Dzhordzh Martin.txt:
+Odinokiie piesni Lariena Dora - Dzhordzh Martin.txt:
+Pieschanyie koroli - Dzhordzh Martin.txt:
+Piesn_ ghollivudskoi sirieny - Dzhordzh Martin.txt:
+Piesn_ o Lii - Dzhordzh Martin.txt:
+Pir stierviatnikov - Dzhordzh Martin.txt:
+Plamia i krov_ - Dzhordzh Martin.txt:
+Pora zakryvat_sia - Dzhordzh Martin.txt:
+Portaly - Dzhordzh Martin.txt:
+Portriety iegho dietiei - Dzhordzh Martin.txt:
+Povtornaia pomoshch_ - Dzhordzh Martin.txt:
+Prints-nieghodiai, brat korolia - Dzhordzh Martin.txt:
+Printsiessa i korolieva, ili Chiernyie i zielienyie - Dzhordzh Martin.txt:
+Prisiazhnyi rytsar_ - Dzhordzh Martin.txt:
+Put_ kriesta i drakona - Dzhordzh Martin.txt:
+Ruka miertvietsa - Dzhordzh Martin.txt:
+Ryvok k zviezdnomu svietu - Dzhordzh Martin.txt:
+Shiest_ sieriebrianykh pul_ - Dzhordzh Martin.txt:
+Stiekliannyi tsvietok - Dzhordzh Martin.txt:
+Sumieriechnaia zona - Dzhordzh Martin.txt:
+Sviet daliekikh zviezd - Dzhordzh Martin.txt:
+Taniets s drakonami - Dzhordzh Martin.txt:
+Tasuia Dikiie karty - Dzhordzh Martin.txt:
+Tiemnym-tiemno bylo v tunnieliakh - Dzhordzh Martin.txt:
+Tol_ko dieti boiatsia tiemnoty - Dzhordzh Martin.txt:
+Tupikovyi variant - Dzhordzh Martin.txt:
+Umiraiushchii sviet - Dzhordzh Martin.txt:
+V osadie - Dzhordzh Martin.txt:
+V Potieriannykh ziemliakh - Dzhordzh Martin.txt:
+Vkus Tafa - Dzhordzh Martin.txt:
+Vozvrashchieniie na S_Atlem - Dzhordzh Martin.txt:
+Vspominaia Mielodi - Dzhordzh Martin.txt:
+Vtoroi rod odinochiestva - Dzhordzh Martin.txt:
+Vtoroi vid odinochiestva - Dzhordzh Martin.txt:
+Zlotsviety - Dzhordzh Martin.txt:
+Zovitie iegho Moisieiem - Dzhordzh Martin.txt:
+Zvier_ dlia Norna - Dzhordzh Martin.txt:
+Sobraniie sochinienii, tom 1. Bielyi vozhd_. Kvartieronka. ssv6t-1 - Tomas Main Rid.txt:
+Sobraniie sochinienii, tom 2. Otsieola, vozhdv. Morskoi volchonok ssv6t-2 - Tomas Main Rid.txt:
+Sobraniie sochinienii, tom 3. Okhotniki za raeriannyie v okieanie ssv6t-3 - Tomas Main Rid.txt:
+Sobraniie sochinienii, tom 4. V diebriakh Iuzotniki za zhirafami. ssv6t-4 - Tomas Main Rid.txt:
+Sobraniie sochinienii, tom 5. Bielaia pierchaakh bielogho bizona. ssv6t-5 - Tomas Main Rid.txt:
+Sobraniie sochinienii, tom 6. Marony. Vsadnik biez gholovy. ssv6t-6 - Tomas Main Rid.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 1 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 10 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 11 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 12 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 13 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 14 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 15 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 16 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 17 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 18 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 19 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 2 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 20 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 3 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 4 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 5 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 6 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 7 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 8 - Lit-oboz.ru.txt:
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 9 - Lit-oboz.ru.txt:
+Dietiektivnoie aghientstvo Dirka Dzhientli - Dughlas Noel_ Adams.txt:
+Dolghoie chaiepitiie - Dughlas Noel_ Adams.txt:
+Putievoditiel_ khitch-khaikiera po Galaktikie - Dughlas Noel_ Adams.txt:
+Riestoran na kraiu Vsieliennoi - Dughlas Noel_ Adams.txt:
+V osnovnom biezvriedna - Dughlas Adams.txt:
+Vsiegho khoroshiegho, i spasibo za rybu! - Dughlas Adams.txt:
+Zafod dielaiet chistuiu rabotu - Dughlas Adams.txt:
+Zhizn_, Vsieliennaia i vsie ostal_noie - Dughlas Adams.txt:
+Alisa i drakon_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:
+Drievniie tainy_ Fantastichieskiie poviesti - Kir Bulychiev.txt:
+Dva bilieta v Indiiu_ Fantastichieskiie poviesti - Kir Bulychiev.txt:
+Kosmichieskii diesant_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:
+Million prikliuchienii_ Fantastichieskiie poviesti - Kir Bulychiev.txt:
+Monumienty Marsa_ Fantastichieskiie rasskazy i p_iesy - Kir Bulychiev.txt:
+Opieratsiia __Gadiuka___ Fantastichieskiie romany - Kir Bulychiev.txt:
+Podziemiel_ie vied_m_ Fantastichieskiie poviesti - Kir Bulychiev.txt:
+Pokhishchieniie charodieia_ Fantastichieskiie poviesti - Kir Bulychiev.txt:
+Pokushieniie na Tiesieia_ Fantastichieskiie romany - Kir Bulychiev.txt:
+Posielok_ Poviesti - Kir Bulychiev.txt:
+Posliedniie drakony_ Fantastichieskii roman, poviesti - Kir Bulychiev.txt:
+Sto liet tomu vpieried_ Fantastichieskiie proizviedieniia - Kir Bulychiev.txt:
+Takikh nie ubivaiut_ Romany, poviest_ - Kir Bulychiev.txt:
+Vozvrashchieniie iz Trapiezunda_ Fantastichieskiie romany - Kir Bulychiev.txt:
+Zapoviednik dlia akadiemikov_ Fantastichieskiie romany - Kir Bulychiev.txt:
+Zhiertva vtorzhieniia_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:
+_ Tom 16. Opasnyie skazki - Kir Bulychiev.txt:
+Absoliutnoie oruzhiie - Garri Garrison.txt:
+Amierikanskiie miertviaki - Garri Garrison.txt:
+Bieghliets - Garri Garrison.txt:
+Biezrabotnyi robot - Garri Garrison.txt:
+Bill - Gieroi Galaktiki - Garri Garrison.txt:
+Bill - Gieroi Galaktiki, na planietie zombi-vampirov - Garri Garrison.txt:
+Bill, ghieroi Galaktiki, na planietie niepoznannykh naslazhdienii - Garri Garrison.txt:
+Bill, ghieroi Galaktiki, na planietie robotov-rabov - Garri Garrison.txt:
+Bill, ghieroi Galaktiki, otpravliaietsia v svoi piervyi otpusk - Garri Garrison.txt:
+Bill, ghieroi Galaktiki_ Posliednieie zlopoluchnoie prikliuchieniie - Garri Garrison.txt:
+Bill, Gieroi Galaktiki, na planietie diesiati tysiach barov - Garri Garrison.txt:
+Boievoi rieid - Garri Garrison.txt:
+Chiernoie i bieloie - Garri Garrison.txt:
+Chuma iz kosmosa - Garri Garrison.txt:
+Chuvstvo dolgha (Planieta prokliatykh) - Garri Garrison.txt:
+Chuzhaia aghoniia - Garri Garrison.txt:
+Da zdravstvuiet transatlantichieskii tuniel_! Ura! - Garri Garrison.txt:
+Daliet-effiekt - Garri Garrison.txt:
+Davlieniie - Garri Garrison.txt:
+Dien_ poslie kontsa svieta - Garri Garrison.txt:
+Domoi, na Ziemliu - Garri Garrison.txt:
+Dorogha v 3000 ghod - Garri Garrison.txt:
+Ediem [sbornik] - Garri Garrison.txt:
+Eskadril_ia vampirov - Garri Garrison.txt:
+Etichieskii inzhienier [Spietsialist po etikie_ Moralist] - Garri Garrison.txt:
+Fantastichieskaia sagha - Garri Garrison.txt:
+Gosudarstviennyi sluzhashchii - Garri Garrison.txt:
+Ia tiebia vizhu - Garri Garrison.txt:
+Ia vypolniaiu svoiu rabotu - Garri Garrison.txt:
+Iesli - Garri Garrison.txt:
+Intsidient - Garri Garrison.txt:
+Istochnik opasnosti - Garri Garrison.txt:
+Istoriia kontsa - Garri Garrison.txt:
+Iz fanatizma ili za voznaghrazhdieniie - Garri Garrison.txt:
+K-Faktor - Garri Garrison.txt:
+Kak umiral staryi mir - Garri Garrison.txt:
+Kaliforniiskii aisbiergh - Garri Garrison.txt:
+Kapitan Bork - Garri Garrison.txt:
+Kapitan Gonario Kharpplieiier - Garri Garrison.txt:
+Khranitieli zhizni - Garri Garrison.txt:
+Koghda Boghi kuriat fimiam - Garri Garrison.txt:
+Kol_tsa anakondy - Garri Garrison.txt:
+Koniechnaia stantsiia - Garri Garrison.txt:
+Konnyie varvary - Garri Garrison.txt:
+Kosmichieskii vrach - Garri Garrison.txt:
+Kosmichieskiie krysy DDD - Garri Maksviell Garrison.txt:
+Krugh niedovieriia (Trienirovochnyi poliet) - Garri Garrison.txt:
+Krysa iz nierzhavieiushchiei stali - Garri Garrison.txt:
+Krysa iz nierzhavieiushchiei stali poiavliaietsia na sviet - Garri Garrison.txt:
+Krysa iz nierzhavieiushchiei stali spasaiet mir - Garri Garrison.txt:
+Kvitzielientsiia - Garri Garrison.txt:
+Linkor v naftalinie - Garri Garrison.txt:
+Maghazin ighrushiek - Garri Garrison.txt:
+Mastier na vsie ruki - Garri Garrison.txt:
+Miest_ krysy iz nierzhavieiushchiei stali - Garri Garrison.txt:
+Miest_ Montiesumy - Garri Garrison.txt:
+Mir na koliesakh - Garri Garrison.txt:
+Mir Rodiny - Garri Garrison.txt:
+Mir smierti (Nieukrotimaia planieta) - Garri Garrison.txt:
+Na ghosudarstviennoi sluzhbie - Garri Garrison.txt:
+Nakoniets-to pravdivaia istoriia Frankienshtieina - Garri Garrison.txt:
+Ni voiny, ni zvukov boia - Garri Garrison.txt:
+Niemoi Milton - Garri Garrison.txt:
+Nieukrotimaia planieta - Garri Garrison.txt:
+Novyie prikliuchieniia Stal_noi Krysy - Garri Garrison.txt:
+Obychnaia istoriia - Garri Garrison.txt:
+Odin shagh ot ziemli - Garri Garrison.txt:
+Opravdaniie - Garri Garrison.txt:
+Ot kazhdogho po sposobnostiam - Garri Garrison.txt:
+Otvierzhiennyi - Garri Garrison.txt:
+Padaiushchaia Zviezda - Garri Garrison.txt:
+Parni iz S.V.I.N. i R.O.B.O.T. - Garri Garrison.txt:
+Planieta, s kotoroi nie vozvrashchaiutsia - Garri Garrison.txt:
+Plieniennaia Vsieliennaia - Garri Garrison.txt:
+Pliushievyi mishka - Garri Garrison.txt:
+Podvin_ties_! Podvin_ties_! - Garri Garrison.txt:
+Portriet khudozhnika - Garri Garrison.txt:
+Poslie shtorma - Garri Garrison.txt:
+Posliedniaia vstriecha - Garri Garrison.txt:
+Posliednieie srazhieniie - Garri Garrison.txt:
+Pri vodopadie - Garri Garrison.txt:
+Priestuplieniie - Garri Garrison.txt:
+Prishiel_tsy i K - Garri Garrison.txt:
+Pronikshii v skaly - Garri Garrison.txt:
+Propavshii lainier - Garri Garrison.txt:
+Punkt vtorzhieniia_ Ziemlia - Garri Garrison.txt:
+Rabota na soviest_ - Garri Garrison.txt:
+Radushnaia vstriecha - Garri Garrison.txt:
+Rassliedovaniie - Garri Garrison.txt:
+Robot, kotoryi khotiel vsie znat_ - Garri Garrison.txt:
+Ruka zakona - Garri Garrison.txt:
+Samyi zamiechatiel_nyi avtomobil_ v mirie - Garri Garrison.txt:
+Skorost_ ghieparda, ryk l_va - Garri Garrison.txt:
+Sluchai v podziemkie - Garri Maksviell Garrison.txt:
+Sluzhba _Vampir_ - Garri Garrison.txt:
+Smiertnyie muki prishiel_tsa - Garri Garrison.txt:
+Sosiedi - Garri Garrison.txt:
+Spasatiel_naia opieratsiia - Garri Garrison.txt:
+Spietsialist po kontaktam - Garri Garrison.txt:
+Stal_naia Krysa idiet v armiiu - Garri Garrison.txt:
+Stal_naia Krysa na maniezhie - Garri Garrison.txt:
+Stal_naia krysa otpravliaietsia v ad [= Stalysa v ghostiakh u d_iavola] - Garri Garrison.txt:
+Stal_naia krysa poiot bliuz - Garri Garrison.txt:
+Stal_nuiu Krysu -- v priezidienty - Garri Garrison.txt:
+Stiertyie miry - Garri Garrison.txt:
+Taina Stounkhiedzha - Garri Garrison.txt:
+Tol_ko nie ia, nie Eimos Keibot! - Garri Garrison.txt:
+Trienirovochnyi poliet - Garri Maksviell Garrison.txt:
+Trudnaia rabota - Garri Garrison.txt:
+Ty nuzhien stal_noi krysie! - Garri Garrison.txt:
+U vodopada - Garri Garrison.txt:
+Utsielievshaia planieta - Garri Garrison.txt:
+Uvidiet_ zviozdy v Kosmosie - Garri Garrison.txt:
+V loghovie L_va - Garri Garrison.txt:
+Vietvistoie drievo evoliutsii - Garri Garrison.txt:
+Voina s robotami - Garri Garrison.txt:
+Vozmiezdiie korolievy Viktorii - Garri Garrison.txt:
+Vozvrashchieniie k zviezdam - Garri Garrison.txt:
+Vragh u porogha - Garri Garrison.txt:
+Vriemia dlia miatiezhnika - Garri Garrison.txt:
+Vstriechaiushchaia dielieghatsiia - Garri Garrison.txt:
+Vy liudi nasiliia - Garri Garrison.txt:
+Zaria bieskoniechnoi nochi - Garri Garrison.txt:
+Zhiertvoprinoshieniie - Garri Garrison.txt:
+Zhizn_ khudozhnika - Garri Garrison.txt:
+Znachieniie nabliudatiel_nosti - Garri Garrison.txt:
+Znamienityie piervyie slova - Garri Garrison.txt:
+Zolotyie ghody Stal_noi Krysy - Garri Garrison.txt:
+Zviezdnyie pokhozhdieniia ghalaktichieskikh rieindzhierov - Garri Garrison.txt:
+Chieloviek s ukhmylkoi na litsie - Orson Skott Kard.txt:
+Dieti Razuma - Orson Skott Kard.txt:
+Golos tiekh, kogho niet - Orson Skott Kard.txt:
+Govoriashchii ot imieni miertvykh (Golos tiekh, kogho niet) - Orson Skott Kard.txt:
+Ighra Endiera - Orson Skott Kard.txt:
+Iskuplieniie Khristofora Kolumba - Orson Skott Kard.txt:
+Kapitolii - Orson Skott Kard.txt:
+Khroniki Vortingha - Orson Skott Kard.txt:
+Krasnokozhii prorok - Orson Skott Kard.txt:
+Ksienotsid - Orson Skott Kard.txt:
+Liudi na kraiu pustyni - Orson Skott Kard.txt:
+Na chuzhbinie - Orson Skott Kard _ Dzhiei Parri.txt:
+Oko za Oko (Eye for Eye) - Orson Skott Kard.txt:
+Podmastier_ie Elvin - Orson Skott Kard.txt:
+Sied_moi syn - Orson Skott Kard.txt:
+Skazaniia Liesa Vod - Orson Skott Kard.txt:
+Smiertnyie boghi - Orson Skott Kard.txt:
+Sonata biez soprovozhdieniia - Orson Skott Kard.txt:
+Sovietnik po inviestitsiiam - Orson Skott Kard.txt:
+Tieatr Tieniei - Orson Skott Kard.txt:
+Tien_ Endiera - Orson Skott Kard.txt:
+Tien_ Gieghiemona - Orson Skott Kard.txt:
+Tysiacha smiertiei - Orson Skott Kard.txt:
+Gniev Tiamat - Dzhieims S. A. Kori.txt:
+Ighry Niemiezidy - Dzhieims S.A. Kori.txt:
+Piepiel Vavilona (LP) - Dzhieims S. A. Kori.txt:
+Pozhar Siboly - Dzhieims S. A. Kori.txt:
+Probuzhdieniie Lieviafana - Dzhieims Kori.txt:
+Voina Kalibana - Dzhieims Kori.txt:
+Vosstaniie Piersiepolisa - Dzhieims S. A. Kori.txt:
+Vrata Abaddona - Dzhieims Kori.txt:
+Adskii oghon_ - Aiziek Azimov.txt:
+Akadiemiia - Aiziek Azimov.txt:
+Akadiemiia i Impieriia - Aiziek Azimov.txt:
+Akadiemiia i Ziemlia - Aiziek Azimov.txt:
+Akadiemiia na kraiu ghibieli - Aiziek Azimov.txt:
+Alieksandr Bogh - Aiziek Azimov.txt:
+Batton, Batton - Aiziek Azimov.txt:
+Biessmiertnyi bard - Aiziek Azimov.txt:
+Bil_iardnyi shar - Aiziek Azimov.txt:
+Blaghoie namierieniie - Aiziek Azimov.txt:
+Bratishka - Aiziek Azimov.txt:
+Bukva zakona - Aiziek Azimov.txt:
+Cchastlivchik Starr (Lucky Starr) - Aiziek Azimov.txt:
+Chto eto za shtuka - liubov__ - Aiziek Azimov.txt:
+Chto v imieni - Aiziek Azimov.txt:
+Chto, iesli_. - Aiziek Azimov.txt:
+Chtoby my nie pomnili - Aiziek Azimov.txt:
+Chuvstvo sily - Aiziek Azimov.txt:
+Devid Starr - kosmichieskii rieindzhier (pier. A.Lievkin) - Aiziek Azimov.txt:
+Diedovskii sposob - Aiziek Azimov.txt:
+Dien_ okhotnikov - Aiziek Azimov.txt:
+Dumaitie! [Dumai!] - Aiziek Azimov.txt:
+Dvizhushchaia sila - Aiziek Azimov.txt:
+Dvukhsotlietnii chieloviek - Aiziek Azimov.txt:
+Evieriest - Aiziek Azimov.txt:
+Fantastichieskoie putieshiestviie - Aiziek Azimov.txt:
+Garantirovannoie udovol_stviie [Budietie dovol_ny] - Aiziek Azimov.txt:
+Glazam dano nie tol_ko vidiet_ - Aiziek Azimov.txt:
+Glubina - Aiziek Azimov.txt:
+Godovshchina - Aiziek Azimov.txt:
+Govoriashchii kamien_ - Aiziek Azimov.txt:
+Ia - robot - Aiziek Azimov.txt:
+Ia v marsoportie biez Khil_dy - Aiziek Azimov.txt:
+Istinnaia liubov_ [Nastoiashchaia liubov_] - Aiziek Azimov.txt:
+Kak im bylo viesielo - Aiziek Azimov.txt:
+Kak poimat_ krolika - Aiziek Azimov.txt:
+Kak potierialsia robot - Aiziek Azimov.txt:
+Kak ryby v vodie - Aiziek Azimov.txt:
+Kak zhal_! - Aiziek Azimov.txt:
+Kakoie dielo pchielie_ - Aiziek Azimov.txt:
+Kazhdyi - issliedovatiel_ - Aiziek Azimov.txt:
+Kel - Aiziek Azimov.txt:
+Khellouin - Aiziek Azimov.txt:
+Khomo sol - Aiziek Azimov.txt:
+Khorovod - Aiziek Azimov.txt:
+Khoziaika - Aiziek Azimov.txt:
+Kisieinyie ghrify - Aiziek Azimov.txt:
+Kliuch - Aiziek Azimov.txt:
+Koghda-nibud_ - Aiziek Azimov.txt:
+Koniets viechnosti - Aiziek Azimov.txt:
+Kosmichieskiie tiechieniia - Aiziek Azimov.txt:
+Kotoryi chas - Aiziek Azimov.txt:
+Krai Osnovaniia [Akadiemiia na kraiu ghibieli] - Aiziek Azimov.txt:
+Lakki Starr i bol_shoie solntsie Mierkuriia - Aiziek Azimov.txt:
+Lakki Starr i kol_tsa Saturna - Aiziek Azimov.txt:
+Lakki Starr i luny Iupitiera - Aiziek Azimov.txt:
+Lakki Starr i okieany Vieniery - Aiziek Azimov.txt:
+Lakki Starr i piraty s astieroidov (pier. A.Anpilov) - Aiziek Azimov.txt:
+Lenni - Aiziek Azimov.txt:
+Loghika - Aiziek Azimov.txt:
+Lovushka dlia prostakov - Aiziek Azimov.txt:
+Luchshii drugh mal_chika - Aiziek Azimov.txt:
+Lzhiets - Aiziek Azimov.txt:
+Mashina - pobieditiel_ - Aiziek Azimov.txt:
+Miechty - lichnoie dielo kazhdogho - Aiziek Azimov.txt:
+Miechty robotov - Aiziek Azimov.txt:
+Miesto, ghdie mnogho vody - Aiziek Azimov.txt:
+Miortvoie proshloie - Aiziek Azimov.txt:
+Mnimyie vielichiny - Aiziek Azimov.txt:
+Moi syn - fizik - Aiziek Azimov.txt:
+Molodost_ - Aiziek Azimov.txt:
+Mukhi - Aiziek Azimov.txt:
+Na puti k Akadiemii - Aiziek Azimov.txt:
+Na puti k Osnovaniiu [Na puti k Akadiemii] - Aiziek Azimov.txt:
+Nashli! - Aiziek Azimov.txt:
+Niekrologh - Aiziek Azimov.txt:
+Niemiezida (pier. Iu.Sokolov) - Aiziek Azimov.txt:
+Nieobkhodimoie usloviie - Aiziek Azimov.txt:
+Nieozhidannaia pobieda - Aiziek Azimov.txt:
+Noch_, kotoraia umiraiet - Aiziek Azimov.txt:
+Novaia ighrushka - Aiziek Azimov.txt:
+Obnazhiennoie solntsie (pier. N.Vilienskaia) - Aiziek Azimov.txt:
+Obnazhiennoie solntsie - Aiziek Azimov.txt:
+On priblizhaietsia! - Aiziek Azimov.txt:
+Oni nie prilietiat - Aiziek Azimov.txt:
+Oskolok Vsieliennoi [Pieschinka v niebie] - Aiziek Azimov.txt:
+Osnovaniie i Impieriia [Akadiemiia i Impieriia] - Aiziek Azimov.txt:
+Osnovaniie i Ziemlia - Aiziek Azimov.txt:
+Osnovaniie [Akadiemiia] - Aiziek Azimov.txt:
+Ostriak - Aiziek Azimov.txt:
+Pamiati ottsa - Aiziek Azimov.txt:
+Pashtiet iz ghusinoi piechienki - Aiziek Azimov.txt:
+Pauza - Aiziek Azimov.txt:
+Pierst obiez_iany - Aiziek Azimov.txt:
+Piervyi Zakon - Aiziek Azimov.txt:
+Pishitie moie imia chieriez bukvu _S_ - Aiziek Azimov.txt:
+Poiushchii kolokol_chik - Aiziek Azimov.txt:
+Pokupaiem Iupitier - Aiziek Azimov.txt:
+Posliednii otviet - Aiziek Azimov.txt:
+Posliednii vopros [Posliedniaia probliema] - Aiziek Azimov.txt:
+Postoiannaia dolzhnost_ - Aiziek Azimov.txt:
+Prieliudiia k Akadiemii - Aiziek Azimov.txt:
+Prieliudiia k Osnovaniiu [Prieliudiia k Akadiemii] - Aiziek Azimov.txt:
+Prikol - Aiziek Azimov.txt:
+Profiessiia - Aiziek Azimov.txt:
+Pustiak - Aiziek Azimov.txt:
+Put_ marsian - Aiziek Azimov.txt:
+Rab korriektury - Aiziek Azimov.txt:
+Razrieshimoie protivoriechiie - Aiziek Azimov.txt:
+Risk (pier. M.Nakhmanson) - Aiziek Azimov.txt:
+Robbi - Aiziek Azimov.txt:
+Robot EL-76 popadaiet nie tuda - Aiziek Azimov.txt:
+Robot, kotoryi vidiel sny [Sny robotov] - Aiziek Azimov.txt:
+Roboty i impieriia - Aiziek Azimov.txt:
+Roboty utrienniei zari - Aiziek Azimov.txt:
+Rozhdiestvo biez Rodni - Aiziek Azimov.txt:
+S-shliuz - Aiziek Azimov.txt:
+Salli - Aiziek Azimov.txt:
+Shtrieikbriekhier - Aiziek Azimov.txt:
+Siekrietnaia missiia - Aiziek Azimov.txt:
+Sierdobol_nyie stierviatniki - Aiziek Azimov.txt:
+Sila privychki - Aiziek Azimov.txt:
+Sobieriemsia vmiestie [Davaitie obiedinimsia] - Aiziek Azimov.txt:
+Sovriemiennyi volshiebnik - Aiziek Azimov.txt:
+Stal_nyie pieshchiery - Aiziek Azimov.txt:
+Storonnik sieghrieghatsii - Aiziek Azimov.txt:
+Strannik v raiu - Aiziek Azimov.txt:
+Svietovirshi - Aiziek Azimov.txt:
+Takoi priekrasnyi dien_ - Aiziek Azimov.txt:
+Tiotimolin i kosmichieskii viek - Aiziek Azimov.txt:
+Tochka zrieniia - Aiziek Azimov.txt:
+Tri Zakona robotiekhniki - Aiziek Azimov.txt:
+Tri-chietyrie - Aiziek Azimov.txt:
+Trinadtsatyi dien_ rozhdiestva - Aiziek Azimov.txt:
+Tsiena riska [Risk] - Aiziek Azimov.txt:
+Tupik - Aiziek Azimov.txt:
+Ubiistvo v Ei-Bi-Ei - Aiziek Azimov.txt:
+Uliki - Aiziek Azimov.txt:
+Urodlivyi mal_chughan [Biezobraznyi malysh] - Aiziek Azimov.txt:
+V chietviertom pokolienii - Aiziek Azimov.txt:
+V lieto 2430 ot R. X. - Aiziek Azimov.txt:
+V plienu u Viesty - Aiziek Azimov.txt:
+Viera - Aiziek Azimov.txt:
+Voz_mitie spichku - Aiziek Azimov.txt:
+Vsie ghriekhi mira - Aiziek Azimov.txt:
+Vtoraia Akadiemiia - Aiziek Azimov.txt:
+Vtoroi Fond [Vtoraia Akadiemiia] - Aiziek Azimov.txt:
+Vybory [Naznachaiet Mul_tivak] - Aiziek Azimov.txt:
+Vykhod iz polozhieniia - Aiziek Azimov.txt:
+Vyviedieniie Chielovieka - Aiziek Azimov.txt:
+Zaminka na prazdnovanii Triekhsotlietiia - Aiziek Azimov.txt:
+Zatieriannyie u Viesty - Aiziek Azimov.txt:
+Zdies_ niet nikogho, kromie - Aiziek Azimov.txt:
+Zhienskaia intuitsiia - Aiziek Azimov.txt:
+Zielienyie piatna - Aiziek Azimov.txt:
+Zierkal_noie otrazhieniie - Aiziek Azimov.txt:
+Zviezdy kak pyl_ - Aiziek Azimov.txt:
+_.Vstav_tie shplint A v ghniezdo B_. - Aiziek Azimov.txt:
+___.Iako pomnishi iegho__ - Aiziek Azimov.txt:
+451 ghradus po Farienghieitu - Rei Dughlas Bredbieri.txt:
+Dalieko za polnoch_ - Rei Dughlas Bredbieri.txt:
+Davaitie vsie ub_iom Konstantsiiu - Rei Dughlas Bredbieri.txt:
+I kamni zaghovorili - Rei Bredbieri.txt:
+I vriemieni pobiegh - Rei Bredbieri.txt:
+Iz prakha vosstavshiie - Rei Dughlas Bredbieri.txt:
+Kanun vsiekh sviatykh - Rei Dughlas Bredbieri.txt:
+Kladbische dlya bezumtcev - Rei Dughlas Bredbieri.txt:
+Konviektor Toinbi - Rei Dughlas Bredbieri.txt:
+Koshkina pizhama - Rei Dughlas Bredbieri.txt:
+Krichashchaia zhienshchina - Rei Bredbieri.txt:
+Lieto, proshchai - Rei Dughlas Bredbieri.txt:
+Malchik nevidimka - Rei Dughlas Bredbieri.txt:
+Marsianskiie khroniki - Rei Dughlas Bredbieri.txt:
+Miekhanizmy radosti - Rei Dughlas Bredbieri.txt:
+Nadvighaietsia bieda - Rei Briedbieri.txt:
+Oghniennyi stolp - Rei Bredbieri.txt:
+R -- znachit rakieta - Rei Dughlas Bredbieri.txt:
+Sbornik 12. Na pososhok - Rei Dughlas Bredbieri.txt:
+Sbornik 2 ChIeLOVIeK V KARTINKAKh - Rei Dughlas Bredbieri.txt:
+Sbornik 4 LIeKARSTVO OT MIeLANKhOLII - Rei Dughlas Bredbieri.txt:
+Sbornik 6 ELIeKTRIChIeSKOIe TIeLO POIu! - Rei Dughlas Bredbieri.txt:
+Tiemnyi karnaval - Rei Dughlas Bredbieri.txt:
+V mghnovieniie oka - Rei Dughlas Bredbieri.txt:
+Vino iz oduvanchikov - Rei Dughlas Bredbieri.txt:
+Vospominaniie ob ubiistvie - Rei Dughlas Bredbieri.txt:
+Vozhdieniie vsliepuiu - Rei Dughlas Bredbieri.txt:
+Zielienyie tieni, Bielyi Kit - Rei Dughlas Bredbieri.txt:
+Zolotyie iabloki Solntsa - Rei Dughlas Bredbieri.txt:
+Bibliotieka XXI vieka (sbornik) - Stanislav Liem.txt:
+Bol_nitsa prieobrazhieniia. Vysokii zamok. Rasskazy - Stanislav Liem.txt:
+Futurologhichieskii konghriess. Osmotr na miestie. Mir na ziemlie - Stanislav Liem.txt:
+Maghiellanovo Oblako. Chieloviek s Marsa. Astronavty - Stanislav Liem.txt:
+Prikliuchieniia Iiona Tikhogho - Stanislav Liem.txt:
+Rasskazy o pilotie Pirksie. Fiasko - Stanislav Liem.txt:
+Rassliedovaniie. Rukopis_, naidiennaia v vannie. Nasmork - Stanislav Liem.txt:
+Skazki robotov. Kibieriada - Stanislav Liem.txt:
+Soliaris. Ediem. Niepobiedimyi - Stanislav Liem.txt:
+Vozvrashchieniie so zviezd. Glas Gospoda. Poviesti - Stanislav Liem.txt:
+Britva Darvina - Den Simmons.txt:
+Chiernyie kholmy - Den Simmons.txt:
+Chto takoie kibierpankovskoie dvizhieniie - Den Simmons.txt:
+Dieti Nochi - Den Simmons.txt:
+Drud, ili Chieloviek v chiernom - Den Simmons.txt:
+Dvulikii diemon Mara. Smiert_ v liubvi - Den Simmons.txt:
+Endimion - Den Simmons.txt:
+Fazy ghravitatsii - Den Simmons.txt:
+Fleshbek - Den Simmons.txt:
+Fotoghrafiia klassa za etot ghod - Den Simmons.txt:
+Gipierion - Den Simmons.txt:
+Ilion - Den Simmons.txt:
+Kolokol po Khemu - Den Simmons.txt:
+Kostry Ediema - Den Simmons.txt:
+Kruchie niekuda - Den Simmons.txt:
+Lieto nochi - Den Simmons.txt:
+Liutaia zima [Otmorozhiennyi] - Den Simmons.txt:
+Mierzost_ - Den Simmons.txt:
+Molitvy razbitomu kamniu - Den Simmons.txt:
+Nieghlubokaia moghila - Den Simmons.txt:
+Olimp - Den Simmons.txt:
+Padieniie Gipieriona - Den Simmons.txt:
+Piatoie sierdtsie - Den Simmons.txt:
+Piesn_ Kali - Den Simmons.txt:
+Polyi chieloviek - Den Simmons.txt:
+Siroty Spirali - Den Simmons.txt:
+Tiemnaia ighra smierti. Tom 1 - Den Simmons.txt:
+Tiemnaia ighra smierti. Tom 2 - Den Simmons.txt:
+Tierror - Den Simmons.txt:
+V poiskakh Kielli Dieil - Den Simmons.txt:
+Voskhod Endimiona - Den Simmons.txt:
+Voskhozhdieniie - Den Simmons.txt:
+Zimniie prizraki - Den Simmons.txt:
+Biednyie zlyie liudi - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Bielyi konus Alaida - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Biez oruzhiia - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Blaghoustroiennaia planieta - Arkadii i Boris Strughatskiie.txt:
+Chastnyie priedpolozhieniia - Arkadii Strughatskii _ Boris Strughatskii.txt:
+ChIeLOVIeK IZ PASIFIDY - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Chriezvychainoie proisshiestviie - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Daliokaia Radugha - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Dielo ob ubiistvie, ili Otiel_ __U poghibshi - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Dni Krakiena - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Dni zatmieniia - Paviel Kadochnikov _ Arkadii Strughatskii _ Boris Strughatskii.txt:
+Dolzhien zhit_ - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Ekspieditsiia v prieispodniuiu - Arkadii NatStrughatskii _ Boris Natanovich Strughatskii.txt:
+Gadkiie liebiedi - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Glubokii poisk - Arkadii Strughatskii _ Boris Strughatskii.txt:
+God tridtsat_ sied_moi - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Grad obriechiennyi - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Ispytaniie __SKIBR__ - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Izvnie - Arkadii Strughatskii _ Boris Strughatskii.txt:
+K voprosu o tsiklotatsii - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Khishchnyie vieshchi vieka - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Khromaia sud_ba - Arkadii i Boris Strughatskiie.txt:
+Malysh - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Mir inoi - Grighorii Nikitich Griebniev _ Arkadii Natanovich Strughatskii.txt:
+Mobi Dik - Arkadii Strughatskii _ Boris Strughatskii.txt:
+O stranstvuiushchikh i putieshiestvuiushchik - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Obitaiemyi ostrov (Vosstanovliennyi polnyi trughatskii _ Boris Natanovich Strughatskii.txt:
+Otiaghoshchiennyie zlom, ili Sorok liet spustia - Arkadii i Boris Strughatskiie.txt:
+Parien_ iz prieispodniei - Arkadii i Boris Strughatskiie.txt:
+Piat_ lozhiek eliksira - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Piervyie liudi na piervom plotu - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Pieschanaia ghoriachka - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Piknik na obochinie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:
+Pochti takiie zhie - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Poldien_, XXII viek - Arkadii i Boris Strughatskiie.txt:
+Poniediel_nik nachinaietsia v subbotu - ArkaStrughatskii _ Boris Natanovich Strughatskii.txt:
+Popytka k bieghstvu - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Porazhieniie - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Poviest_ o druzhbie i niedruzhbie - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Put_ na Amal_tieiu - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:
+Shiest_ spichiek - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Skazka o Troikie - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Spontannyi rieflieks - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Stazhiery - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Strana baghrovykh tuch (c illiustr.) - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Trudno byt_ boghom - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Ulitka na sklonie - Arkadii i Boris Strughatskiie.txt:
+V nashie intieriesnoie vriemia - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Volny ghasiat vietier - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Vozvrashchieniie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:
+Vtoroie nashiestviie marsian - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Za milliard liet do kontsa svieta - Arkadii Strughatskii _ Boris Strughatskii.txt:
+ZABYTYI EKSPIeRIMIeNT - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Zhuk v muravieinikie - Arkadii Strughatskii _ Boris Strughatskii.txt:
+Bieghushchaia s diemonom - Tierri Bruks.txt:
+Chiernyi iedinorogh - Tierri Bruks.txt:
+Druid Shannary - Tierri Bruks.txt:
+El_fiiskiie kamni Shannary - Tierri Bruks.txt:
+Koldovskoie ziel_ie - Tierri Bruks.txt:
+Korolieva el_fov Shannary - Tierri Bruks.txt:
+Miech Shannary - Tierri Bruks.txt:
+Piervyi korol_ Shannary - Tierri Bruks.txt:
+Piesn_ Shannary - Tierri Bruks.txt:
+Potomki Shannary - Tierri Bruks.txt:
+Printsiessa Zaziemiel_ia - Tierri Bruks.txt:
+Prodaietsia volshiebnoie korolievstvo - Tierri Bruks.txt:
+Shkatulka khitrosplietienii - Tierri Bruks.txt:
+Talismany Shannary - Tierri Bruks.txt:
+Volshiebnik u vlasti - Tierri Bruks.txt:
+Astra. Shustroie schast_ie, ili Okhota na makogho drakona - Anna Sierghieievna Gavrilova.txt:
+Biespokoinoie schast_ie, ili Siekriety malien_kogho drakona - Anna Gavrilova.txt:
+Blaghoslovitie korolia, ili Kharaktier skvie nie zhienat! - Anna Sierghieievna Gavrilova.txt:
+Bol_shaia i ghriaznaia liubov_ - Anna Sierghieievna Gavrilova.txt:
+Dusha Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:
+Esmi Solniechnyi Vietier - Anna Sierghieievna (SI) Gavrilova.txt:
+Ispytaniie Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:
+Kanikuly v Ravanshirie, ili Svad_by nie budiet! (SI) - Anna Sierghieievna Gavrilova.txt:
+Krov_ na miechakh. Nas rassudiat boghi - Anna Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt:
+Masha i Pozitivnyi mir - Anna Sierghieievna Gavrilova.txt:
+Masha i Riektor v shokie - Anna Sierghieievna Gavrilova.txt:
+Masha i Tiemnyi Vlastielin - Anna Gavrilova.txt:
+Okhotniki na diemonov. Kapkan - Anna Sierghieievna Gavrilova.txt:
+Ostavaities_ s nami - Anna Sierghieievna Gavrilova.txt:
+Pokorieniie Oghnia (litres) - Anna Sierghieievna Gavrilova.txt:
+Primanka - Anna Sierghieievna Gavrilova.txt:
+Put_ dolgha i liubvi - Anna Gavrilova.txt:
+Put_ maghii i sierdtsa - Anna Gavrilova.txt:
+Raskolduitie eto niemiedlienno! - Anna Sierghieievna Gavrilova.txt:
+Schast_ie vdrugh, ili Istoriia malien_kogho drakona - Anna Gavrilova.txt:
+Smiert_ za smiert_. Kara ghroznykh boghov - vich Gavrilov _ Anna Sierghieievna Gavrilova.txt:
+Souli. Dievushka iz ghrioz - Anna Sierghieievna Gavrilova.txt:
+Souli. V obiatiiakh miechty - Anna Sierghieievna Gavrilova.txt:
+Taniets Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:
+Tieoriia bol_shogho sboia - Anna Sierghieievna Gavrilova.txt:
+Trizna po kniaziu Riuriku. Krov_ za krov_! (a Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt:
+Upriamoie schast_ie, ili Vospitaniie malien_kogho drakona - Anna Gavrilova.txt:
+Ushi nie troghat_! - Anna Sierghieievna Gavrilova.txt:
+Vied_ma na diesiert - Anna Sierghieievna Gavrilova.txt:
+Zolotoi kliuchik dlia Nasti - Anna Gavrilova.txt:
+Zolotoi kliuchik dlia Nasti. Knigha vtoraia - Anna Gavrilova.txt:
+01.God krysy.Vidun_ia - Nieizviestnyi.txt:
+02.God Krysy. Putnitsa - Nieizviestnyi.txt:
+1-Profiessiia vied_ma - Nieizviestnyi.txt:
+2-Vied_ma-khranitiel_nitsa - Nieizviestnyi.txt:
+3-Vierkhovnaia Vied_ma - Nieizviestnyi.txt:
+Bielorskiie khroniki - Nieizviestnyi.txt:
+Akadiemiia chiernogho drakona. Stavka na vied_mu - Natal_ia Sierghieievna Zhil_tsova.txt:
+Akadiemiia maghichieskogho prava. Briunietka- Natal_ia Zhil_tsova _ Azaliia Ieriemieieva.txt:
+Akadiemiia maghichieskogho prava. Briunietkarghieievna Zhil_tsova _ Azaliia Ieriemieieva.txt:
+Antimagh - Natal_ia Zhil_tsova.txt:
+Ariia dlia boghov - Natal_ia Sierghieievna Zhil_tsova.txt:
+Bielaia fieia - Natal_ia Sierghieievna Zhil_tsova.txt:
+Gloriia. Kapkan na chietviertogho - Natal_ia Sierghieievna Zhil_tsova.txt:
+Kolodiets Mraka - Natal_ia Zhil_tsova.txt:
+Mar_ia Biessmiertnaia - Natal_ia Zhil_tsova.txt:
+Nasliednitsa magha smierti - Natal_ia Sierghieievna Zhil_tsova.txt:
+Obruchiennyie krov_iu. Vybor - Natal_ia Sierghieievna Zhil_tsova.txt:
+Otbor - Natal_ia Sierghieievna Zhil_tsova.txt:
+Piat_ sierdiets t_my - Natal_ia Zhil_tsova.txt:
+Polunochnyi zamok - Natal_ia Sierghieievna Zhil_tsova.txt:
+Sila vied_my - Natal_ia S. Zhil_tsova.txt:
+Tri znaka smierti - Natal_ia Zhil_tsova.txt:
+Tsikl _Prokliatiie niekromanta_. Tietraloghiia. - Natal_ia Zhil_tsova.txt:
+Vied_ma tiemnogho plamieni - Natal_ia Sierghieievna Zhil_tsova.txt:
+Alieta - Miliena Zavoichinskaia.txt:
+Boievaia praktika knighokhodtsiev - Miliena Valier_ievna Zavoichinskaia.txt:
+Dom na pieriekriestkie (Triloghiia) - Miliena Zavoichinskaia.txt:
+Irzhina. Priednachiertannogho nie izbiezhat_ - Miliena V. Zavoichinskaia.txt:
+Irzhina. Sluchainoie - nie sluchaino - Miliena V. Zavoichinskaia.txt:
+Irzhina. Vsio nie tak, kak kazhietsia_. - Miliena V. Zavoichinskaia.txt:
+Khroniki knighokhodtsiev - Miliena Zavoichinskaia.txt:
+Knighokhodtsy i taina miekhanichieskogho bogha - Miliena Zavoichinskaia.txt:
+Knighokhodtsy osobogho naznachieniia - Miliena Zavoichinskaia.txt:
+LIeTIT K TIeBIe V NOChI MOI GOLOS - Miliena Zavoichunskaia.txt:
+Mistier Smiert_ i choknutaia vied_ma - Miliena Valier_ievna Zavoichinskaia.txt:
+Oranzhievyi tsviet radughi - Miliena Zavoichinskaia.txt:
+Popalas_, ptichka! - Miliena Valier_ievna Zavoichinskaia.txt:
+Primorskaia akadiemiia, ili Ty prosto poka nprivyk - Miliena Valier_ievna Zavoichinskaia.txt:
+Sniezhnyie skazki (sbornik) - Miliena V. Zavoichinskaia.txt:
+Strashnyie skazki zakrytogho korolievstva - Miliena Valier_ievna Zavoichinskaia.txt:
+Trinadtsataia nieviesta - Miliena Zavoichinskaia.txt:
+Tsvietnaia muzyka sidkhie - Miliena Valier_ievna Zavoichinskaia.txt:
+Vysshaia Shkola Bibliotiekariei. Maghiia knighokhodtsiev - Miliena V. Zavoichinskaia.txt:
+01. Желязны Р. - Том 01. Витки. Чёрный трон (Миры Роджера Желязны) - 1995.txt:
+02. Желязны Р. - Том 02. Творец снов. Долина Проклятий. Порождения Света и Тьмы (Миры Роджера Желязны) - 1995.txt:
+03. Желязны Р. - Том 03. Дорожные знаки. Двери в песке (Миры Роджера Желязны) - 1995.txt:
+04. Желязны Р. - Том 04. Остров мёртвых. Умереть в Италбаре (Миры Роджера Желязны) - 1995.txt:
+05. Желязны Р. - Том 05. Валет из Страны Теней. Князь Света (Миры Роджера Желязны) - 1995.txt:
+06. Желязны Р. - Том 06. Сегодня мы выбираем лица. Господь гнева (Миры Роджера Желязны) - 1995.txt:
+07. Желязны Р. - Том 07. Мост из пепла. Глаз кота (Миры Роджера Желязны) - 1995.txt:
+08. Желязны Р. - Том 08. Подменённый. Одержимый магией (Миры Роджера Желязны) - 1995.txt:
+09. Желязны Р. - Том 09. Дилвиш Проклятый. Очарованная земля (Миры Роджера Желязны) - 1995.txt:
+10. Желязны Р. - Том 10. Этот бессмертный. Имя мне легион (Миры Роджера Желязны) - 1995.txt:
+11. Желязны Р. - Том 11. Тоскливой октябрьской ночью... Кладбище слонов. Спящий (Миры Роджера Желязны) - 1996.txt:
+12. Желязны Р. - Том 12. Вспышка (Миры Роджера Желязны) - 1996.txt:
+13. Желязны Р. - Том 13. Двери лица его, пламенники пасти его. Последний защитник Камелота (Миры Роджера Желязны) - 1995.txt:
+14. Желязны Р. - Том 14. Вариант единорога. Мороз и пламя (Миры Роджера Желязны) - 1995.txt:
+15. Желязны Р. - Том 15. Маска Локи (Миры Роджера Желязны) - 1996.txt:
+16. Желязны Р. - Том 16. Принеси мне голову Прекрасного принца (Миры Роджера Желязны) - 1996.txt:
+17. Желязны Р. - Том 17. Коль в роли Фауста тебе не преуспеть (Миры Роджера Желязны) - 1996.txt:
+18. Желязны Р. - Том 18. Театр одного демона (Миры Роджера Желязны) - 1996.txt:
+19. Желязны Р. - Том 19. Тёмное путешествие и др. (Миры Роджера Желязны) - 1996.txt:
+20. Желязны Р. - Том 20. Девять принцев Амбера. Ружья  Авалона (Миры Роджера Желязны) - 1996.txt:
+21. Желязны Р. - Том 21. Знак единорога. Рука Оберона (Миры Роджера Желязны) - 1996.txt:
+22. Желязны Р. - Том 22. Владения Хаоса. Карты Судьбы (Миры Роджера Желязны) - 1996.txt:
+23. Желязны Р. - Том 23. Кровь Амбера. Знак Хаоса (Миры Роджера Желязны) - 1996.txt:
+24. Желязны Р. - Том 24. Рыцарь Теней. Принц Хаоса (Миры Роджера Желязны) - 1997.txt:
+25. Желязны Р. - Том 25. Наглядный путеводитель по замку Амбер. Рассказы (Миры Роджера Желязны) - 1997.txt:
+27. Желязны Р. - Том 27. Хрономастер (Миры Роджера Желязны) - 1997.txt:
+28.-Желязны-Р.-Том-28.-Дикие-земли.-Рассказы-_Миры-Роджера-Желязны_-1997.txt:
+29.-Желязны-Р.-Том-29.-После-победы-_Миры-Роджера-Желязны_-1997.txt:
+Gorod illiuzii - Ursula Lie Guin.txt:
+Korol_ planiety Zima - Ursula Lie Guin.txt:
+Lieghiendy Zapadnogho pobieriezh_ia - Ursula Lie Guin.txt:
+Orsiniia - Ursula Lie Guin.txt:
+Porogh - Ursula Lie Guin.txt:
+Prozrieniie - Ursula Lie Guin.txt:
+Rokannon - Ursula Lie Guin.txt:
+Roza vietrov - Ursula Lie Guin.txt:
+Skazaniia Ziemnomor_ia - Ursula Lie Guin.txt:
+Tolkovatieli - Ursula Lie Guin.txt:
+Volshiebnik Ziemnomor_ia. Grobnitsy Atuana. ierieghu. Tiekhanu_ Romany - Ursula Lie Guin.txt:
+Vsieghda vozvrashchaias_ domoi - Ursula Lie Guin.txt:
+Kon_ i iegho mal_chik - Klaiv Stieiplz L_iuis.txt:
+Liev, Koldun_ia i platianoi shkaf - Klaiv Stieiplz L_iuis.txt:
+Pliemiannik charodieia - Klaiv Stieiplz L_iuis.txt:
+Posliedniaia bitva - Klaiv Stieiplz L_iuis.txt:
+Prints Kaspian - Klaiv Stieiplz L_iuis.txt:
+Sieriebrianoie krieslo - Klaiv Stieiplz L_iuis.txt:
+__Pokoritiel_ Zari__, ili Plavaniie na krai svieta - Klaiv Stieiplz L_iuis.txt:
+Akadiemichieskii ekzortsizm v otdiel_no vziatom Univiersitietie - Tierri Pratchiett.txt:
+Bats! - Tierri Pratchiett.txt:
+Biezumnaia zviezda - Tierri Pratchiett.txt:
+Blaghiie znamieniia - Tierri Pratchiett _ Nil Gieiman.txt:
+Carpe Jugulum. Khvatai za ghorlo! - Tierri Pratchiett.txt:
+Damy i Gospoda - Terry David John Pratchett.txt:
+Dielai dien_ghi! - Tierri Pratchiett.txt:
+Dielo tabak - Tierri Pratchiett.txt:
+Dierzhi marku! - Tierri Pratchiett.txt:
+Dvizhushchiiesia kartinki - Tierri Pratchiett.txt:
+Dzhonni i bomba - Tierri Pratchiett.txt:
+Dzhonni i miertvietsy - Tierri Pratchiett.txt:
+Erik, a takzhie Nochnaia Strazha, vied_my i Koen-Varvar - Tierri Pratchiett.txt:
+Fint - Tierri Pratchiett.txt:
+Gdie moia korova_ - Tierri Pratchiett.txt:
+K oruzhiiu! K oruzhiiu! - Terry David John Pratchett.txt:
+Kot biez prikras - Tierri Devid Dzhon Pratchiett.txt:
+Kryl_ia - Tierri Devid Dzhon Pratchiett.txt:
+Liudi Kovra - Tierri Devid Dzhon Pratchiett.txt:
+Maskarad (pier. S.Uvbarkh pod ried. A.Zhikarientsieva) - Terry David John Pratchett.txt:
+Mielkiie boghi (pier. N.Bierdiennikov pod rihikarientsieva) - Terry David John Pratchett.txt:
+Monstriachii vzvod - Tierri Pratchiett.txt:
+Mor, uchienik Smierti - Tierri Pratchiett.txt:
+Morie i rybki - Tierri Pratchiett.txt:
+Most trolliei - Tierri Pratchiett.txt:
+Mrachnyi Zhniets (pierievod N.Bierdiennikovahikarientsieva) - Terry David John Pratchett.txt:
+Narod, ili Koghda-to my byli diel_finami. - Tierri Pratchiett.txt:
+Nievidimyie akadiemiki - Tierri Pratchiett.txt:
+Nochnaia strazha - Tierri Pratchiett.txt:
+Noghi iz ghliny - Tierri Pratchiett.txt:
+Ochien_ vieskaia prichina povierit_ v Santa-Klausa - Tierri Pretchiett.txt:
+Patriot - Tierri Pratchiett.txt:
+Piatyi eliefant - Tierri Pratchiett.txt:
+Piekhotnaia ballada - Tierri Pratchiett.txt:
+Piramidy - Tierri Pratchiett.txt:
+Poddai paru! - Tierri Pratchiett.txt:
+Posliednii ghieroi. Skazaniie o Ploskom mirie - Tierri Pratchiett.txt:
+Posliednii kontinient - Tierri Pratchiett.txt:
+Posokh i shliapa - Terry David John Pratchett.txt:
+Povariennaia knigha Nianiushki Oghgh - Tierri Pratchiett.txt:
+Pravda - Tierri Pratchiett.txt:
+Rokovaia muzyka - Tierri Devid Dzhon Pratchiett.txt:
+Santa-Khriakus - Terry David John Pratchett.txt:
+Shmiak - Tierri Pratchiett.txt:
+Smiert_ i Chto Sluchaietsia Poslie - Tierri Pratchiett.txt:
+Strata - Tierri Pratchiett.txt:
+Strazha! Strazha! (pier. S. Zhuzhunavy pod rhikarientsieva) - Terry David John Pratchett.txt:
+Tieatr zhiestokosti - Tierri Pratchiett.txt:
+Tiemnaia storona Solntsa - Tierri Pratchiett.txt:
+Tierri Pratchiett.Intieriesnyie vriemiena - Tierri Pratchiett.txt:
+Tol_ko ty mozhiesh_ spasti chieloviechiestvo - Tierri Pratchiett.txt:
+Tsviet volshiebstva (pier. I.Kravtsova pod rhikarientsieva) - Terry David John Pratchett.txt:
+Tvortsy zaklinanii - Tierri Pratchiett.txt:
+Udivitiel_nyi Moris i iegho uchienyie ghryzuny - Tierri Pratchiett.txt:
+Ughonshchiki - Tierri Devid Dzhon Pratchiett.txt:
+Vied_my za ghranitsiei - Terry David John Pratchett.txt:
+Viertushki nochi - Tierri Devid Dzhon Pratchiett.txt:
+Vieshchiie siestrichki - Tierri Pratchiett.txt:
+Vor vriemieni - Tierri Pratchiett.txt:
+Ziemliekopy - Tierri Devid Dzhon Pratchiett.txt:
+Bratstvo Kol_tsa - Dzhon Ronal_d Ruel Tolkin.txt:
+Dieti Khurina - Dzhon Ronal_d Ruel Tolkiien.txt:
+Dvie krieposti - Dzhon Ronal_d Ruel Tolkin.txt:
+Khobbit, ili Tuda i obratno - Dzhon Ronald Ruel Tolkiien.txt:
+Nieokonchiennyie skazaniia - Dzhon Ronal_d Ruel Tolkiien.txt:
+Sil_marillion - Dzhon Ronald Ruel Tolkin _ Kristofier Tolkin.txt:
+Vozvrashchieniie Korolia - Dzhon Ronal_d Ruel Tolkin.txt:
