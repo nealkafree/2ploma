@@ -15,7 +15,7 @@ def add_new_metric(path, label, metric):
     with open(path, 'w', encoding='UTF-8') as file:
         file.write('|'.join(meta) + '|' + label + '\n')
         for key, value in data.items():
-            file.write(key + ':' + '|'.join(value) + '|' + metric[key] + '\n')
+            file.write(key + ':' + '|'.join(value) + '|' + str(metric[key]) + '\n')
 
 
 def change_existed_metric(path, label, metric):
@@ -25,7 +25,7 @@ def change_existed_metric(path, label, metric):
         i = meta.index(label)
         file.write('|'.join(meta) + '\n')
         for key, value in data.items():
-            value[i] = metric[key]
+            value[i] = str(metric[key])
             file.write(key + ':' + '|'.join(value) + '\n')
 
 
@@ -34,7 +34,7 @@ def add_new_object(path, key, metrics):
     # Если метрика не посчитана, пишет 0.
     with open(path, 'r+', encoding='UTF-8') as file:
         meta = file.readline().strip().split('|')
-        line = [metrics[label] if label in metrics else str(0) for label in meta]
+        line = [str(metrics[label]) if label in metrics else str(0) for label in meta]
         file.write(key + ':' + '|'.join(line) + '\n')
 
 
@@ -44,9 +44,10 @@ def change_existed_object(path, key, metrics):
     meta, data = read_metrics(path)
     with open(path, 'w', encoding='UTF-8') as file:
         file.write('|'.join(meta) + '\n')
-        data[key] = [metrics[label] if label in metrics else data[key][meta.index(label)] for label in meta]
+        data[key] = [str(metrics[label]) if label in metrics else data[key][meta.index(label)] for label in meta]
         for key, value in data.items():
             file.write(key + ':' + '|'.join(value) + '\n')
 
 
 # change_existed_object('test.txt', 'test1', {'tst1': 'один', 'tst3': 'три'})
+
