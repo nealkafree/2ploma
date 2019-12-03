@@ -1,918 +1,918 @@
 |avgwordsen
-Cказка $ Роальд Даль $ Чарли и шоколадная фабрика.txt:|7.242112255064763
-братья Гримм Бременские музыканты:|8.35897435897436
-Винни Пух и все все все.txt:|9.128264925373134
-Волков Волшебник Изумрудного города:|9.404427161232427
-Гавальда А. 35 кило надежды.txt:|9.113243761996161
-Катаев Цветик-семицветик:|10.829787234042554
-Кир Булычев Сто лет тому вперед:|7.453489736070381
-Крот в городе.txt:|9.18840579710145
-Приключения $ Носов $ Рассказы:|7.083158995815899
-Сказка $ Алексей Толстой $ Золотой ключик, или приключения Буратино:|11.554088050314466
-Сказка $ Андерсен $ Сказки:|11.733644859813085
-Сказка $ Джоэль $ Сказки дядюшки Римуса:|9.228161668839634
-Сказка $ Линдгрен $ Малыш и Карлсон.txt:|9.733068294760756
-Сказка $ Линдгрен $ Пиппи длинный чулок:|9.628020849786763
-Сказка $ Шарль Перро $ Красная шапочка:|11.035714285714286
-фэнтези $ Роулинг $ Гарри Поттер и Кубок огня:|9.614855119968533
-фэнтези $ Роулинг $ Гарри Поттер и Принц полукровка:|11.929625703335237
-фэнтези $ Роулинг $ Гарри Поттер и Тайная комната:|9.041753112033195
-фэнтези $ Роулинг $ Гарри Поттер и узник Азкабана:|8.652441526466967
-Фэнтези $ Роулинг $ Гарри Поттер и Философский камень:|10.659618898459932
-Ян Ларри Необыкновенные приключения Карика и Вали:|7.237104825291182
-Янссон Мемуары папы Муми Тролля:|8.514906027219702
-Янссон Муми-тролль и комета:|8.980924120389997
-Янссон Опасное лето:|7.889578163771712
-Bandit iz Chiertova Kan_ona - Edghar Rais Bierrouz.txt:|9.901804247165895
-Bieghstvo na Vienieru - Edghar Bierrouz.txt:|9.318046898189374
-Biezumnyi korol_ - Edghar Rais Bierrouz.txt:|11.622081797437248
-Boghi Marsa - Edghar Rais Bierrouz.txt:|12.930714439887762
-Boievoi chieloviek Marsa - Edghar Rais Bierrouz.txt:|9.908375378405651
-Boksier Billi - Edghar Rais Bierrouz.txt:|11.57179619145651
-Doch_ tysiachi dzhieddakov - Edghar Rais Bierrouz.txt:|19.799198250728864
-Gighant s Marsa - Edghar Rais Bierrouz.txt:|11.485086342229199
-Iskusstviennyie liudi Marsa - Edghar Rais Bierrouz.txt:|9.452570445257045
-Karson Vienierianskii - Edghar Bierrouz.txt:|10.284960901982178
-Krasnyi iastrieb - Edghar Rais Bierrouz.txt:|10.211502782931355
-Lana iz Gatola - Edghar Rais Bierrouz.txt:|8.870108396105088
-Liudi iz zabytogho vriemieni - Edghar Rais Bierrouz.txt:|15.384397964951951
-Liudi s Luny - Edghar Rais Bierrouz.txt:|10.149291681801671
-Liudi-monstry - Edghar Rais Bierrouz.txt:|14.494513274336283
-Lunnaia dievushka - Edghar Rais Bierrouz.txt:|13.043290043290042
-Marsianskiie shakhmaty - Edghar Rais Bierrouz.txt:|11.071195652173913
-Miechi Marsa - Edghar Rais Bierrouz.txt:|10.146918526998665
-Obratno v kamiennyi viek - Edghar Rais Bierrouz.txt:|10.156142365097589
-Pielliusidar - Edghar Rais Bierrouz.txt:|13.8247344461305
-Pieshchiernaia dievushka - Edghar Rais Bierrouz.txt:|14.253881541115584
-Piraty Vieniery - Edghar Bierrouz.txt:|12.734189972285211
-Poisk Tarzana - Edghar Bierrouz.txt:|8.54329580348004
-Posliednii iz plieistotsiena - Edghar Bierrouz.txt:|10.518164435946463
-Potieriannyi kontinient - Edghar Rais Bierrouz.txt:|15.108618052014279
-Prikliuchieniia Tarzana v dzhunghliakh - Edghar Rais Bierrouz.txt:|13.939059500959694
-Prikliuchieniia v niedrakh Ziemli - Edghar Bierrouz.txt:|9.324743777452415
-Proisshiestviie v Okdieilie - Edghar Rais Bierrouz.txt:|10.947349177330896
-Skielietoidy s Iupitiera - Edghar Rais Bierrouz.txt:|11.80801944106926
-Sviriepyi Pielliusidar - Edghar Bierrouz.txt:|10.346249716745978
-Syn Tarzana - Edghar Bierrouz.txt:|11.110566829951015
-Tanar iz Pielliusidara - Edghar Bierrouz.txt:|11.775920360631105
-Tarzan - povielitiel_ dzhunghliei - Edghar Rais Bierrouz.txt:|9.704702793029362
-Tarzan -- priiemysh obiez_ian - Edghar Rais Bierrouz.txt:|14.120008067769263
-Tarzan i chieloviek-liev - Edghar Rais Bierrouz.txt:|8.715215479331574
-Tarzan i chiempion - Edghar Rais Bierrouz.txt:|9.723320158102768
-Tarzan i Gorod Zolota - Edghar Rais Bierrouz.txt:|11.32287099007616
-Tarzan i iegho zvieri - Edghar Rais Bierrouz.txt:|13.815731049793847
-Tarzan i liudi-lieopardy - Edghar Rais Bierrouz.txt:|10.452179176755449
-Tarzan i liudi-murav_i - Edghar Rais Bierrouz.txt:|9.202075702075701
-Tarzan i potieriannaia impieriia - Edghar Bierrouz.txt:|10.51234879032258
-Tarzan i potierpievshiie korabliekrushieniie - Edghar Rais Bierrouz.txt:|10.448435277382647
-Tarzan i sokrovishcha Opara - Edghar Rais Bierrouz.txt:|13.728790735254512
-Tarzan i sumasshiedshii - Edghar Rais Bierrouz.txt:|9.23402466367713
-Tarzan i ubiistvo v dzhunghliakh - Edghar Rais Bierrouz.txt:|10.060200668896321
-Tarzan i zaprietnyi ghorod - Edghar Bierrouz.txt:|9.368970755791873
-Tarzan i zolotoi liev - Edghar Rais Bierrouz.txt:|11.424130434782608
-Tarzan i __Inostrannyi lieghion__ - Edghar Rais Bierrouz.txt:|9.439117929050814
-Tarzan Niepobiedimyi - Edghar Rais Bierrouz.txt:|13.192222495692837
-Tarzan nieukrotimyi - Edghar Rais Bierrouz.txt:|11.652712863239179
-Tarzan torzhiestvuiushchii - Edghar Bierrouz.txt:|9.98464040477051
-Tarzan Uzhasnyi - Edghar Rais Bierrouz.txt:|9.745093457943925
-Tarzan v Pielliusidarie - Edghar Rais Bierrouz.txt:|13.477509417239087
-Tarzan vielikoliepnyi - Edghar Bierrouz.txt:|7.827795874049945
-Tuviia, dieva Marsa - Edghar Rais Bierrouz.txt:|13.029122679286495
-V sierdtsie Ziemli - Edghar Rais Bierrouz.txt:|14.492898272552782
-Viechnyi dikar_ - Edghar Rais Bierrouz.txt:|12.74457429048414
-Vielikii um Marsa - Edghar Rais Bierrouz.txt:|14.020367278797996
-Vladyka Marsa - Edghar Rais Bierrouz.txt:|14.252352736144998
-Vnie biezdny vriemieni - Edghar Rais Bierrouz.txt:|12.741337237676916
-Vozvrashchieniie v dzhunghli - Edghar Rais Bierrouz.txt:|14.404185742315239
-Za samoi daliekoi zviezdoi - Edghar Rais Bierrouz.txt:|12.115087040618956
-Zakorienielyi priestupnik - Edghar Rais Bierrouz.txt:|10.328311918475853
-Zatieriannyie na Vienierie - Edghar Bierrouz.txt:|10.698476961634857
-Ziemlia potieriannykh liudiei - Edghar Rais Bierrouz.txt:|12.826767545003914
-Ziemlia uzhasa - Edghar Rais Bierrouz.txt:|11.945576251455181
-Ziemlia, pozabytaia vriemieniem - Edghar Rais Bierrouz.txt:|14.14635842169303
-Marsianin - Endi Vieiier.txt:|7.996030620924298
-Golodnyie ighry - S_iuzien Kollinz.txt:|8.663421261179668
-I vspykhniet plamia - Siuzien Kollinz.txt:|8.79673030753401
-Soika-pieriesmieshnitsa - S_iuzien Kollinz.txt:|8.647547252267016
-Ekstriennyi sluchai - Maikl Kraiton.txt:|7.526176064564086
-Gosudarstvo strakha - Maikl Kraiton.txt:|7.776403054115812
-Kongho - Maikl Kraiton.txt:|11.643018974794675
-Kryl_ia - Maikl Kraiton.txt:|7.728949101514724
-Opasnyi patsiient - Maikl Kraiton.txt:|7.845253367543297
-Park iurskogho pierioda - Maikl Kraiton.txt:|8.25635450251181
-Piratskiie shiroty - Maikl Kraiton.txt:|8.589003263871454
-Pozhiratieli miertvykh (13-i voin) - Maikl Kraiton.txt:|17.73741661613099
-Razoblachieniie - Maikl Kraiton.txt:|8.751635126885846
-Roi - Maikl Kraiton.txt:|8.21686167655073
-Sfiera - Maikl Kraiton.txt:|7.298662704309064
-Shtamm __Andromieda__ - Maikl Kraiton.txt:|10.639338097028958
-Sluchai nieobkhodimosti - Maikl Kraiton.txt:|9.347058823529412
-Striela vriemieni - Maikl Kraiton.txt:|9.148241035721549
-Voskhodiashchieie solntsie - Maikl Kraiton.txt:|9.441824592331423
-Zatieriannyi mir - Maikl Kraiton.txt:|7.516575226025809
-Zuby drakona - Maikl Kraiton.txt:|9.644398766700926
-Lichnyie vospominaniia o Zhannie D`Ark s_ierietaria. Tom Soiier -- syshchik - Mark Tvien.txt:|13.577637174566954
-Nalieghkie - Mark Tvien.txt:|17.073814787521492
-Pozolochiennyi viek - Mark Tvien _ Charl_z Dedli Uornier.txt:|14.096155736899027
-Prostaki za ghranitsiei ili Put_ novykh palomnikov - Mark Tvien.txt:|15.507260791724686
-Tom 10. Rasskazy. Ochierki. Publitsistika. 1863-1893. - Mark Tvien.txt:|14.355855855855856
-Tom 11. Rasskazy. Ochierki. Publitsistika. 1894-1909 - Mark Tvien.txt:|13.254202401372213
-Tom 12. Iz _Avtobioghrafii_. Iz zapisnykh knek 1865-1905. Izbrannyie pis_ma - Mark Tvien.txt:|16.275160510297674
-Tom 4. Prikliuchieniia Toma Soiiera. Zhizn_ na Missisipi - Mark Tvien.txt:|15.028716770594027
-Tom 5. Pieshkom po Ievropie. Prints i nishchii. - Mark Tvien.txt:|15.894784416523548
-Tom 6. Prikliuchieniia Giekl_bierri Finna. Iikuta pri dvorie korolia Artura - Mark Tvien.txt:|14.926299644817565
-Tom 7. Amierikanskii prietiendient.Tom Soiieranitsiei. Prostofilia Vil_son. - Mark Tvien.txt:|13.810335917312662
-Tom 9. Po ekvatoru. Tainstviennyi nieznakomiets - Mark Tvien.txt:|16.188839711880586
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 1 - Lit-Classic.Com.txt:|11.556673855739277
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 10 - Lit-Classic.Com.txt:|11.940851861773373
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 11 - Lit-Classic.Com.txt:|15.798605440040204
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 12 - Lit-Classic.Com.txt:|15.037476866132018
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 2 - Lit-Classic.Com.txt:|10.3385621512851
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 3 - Lit-Classic.Com.txt:|9.906593627905103
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 4 - Lit-Classic.Com.txt:|10.940350317200654
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 5 - Lit-Classic.Com.txt:|12.92705209246528
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 6 - Lit-Classic.Com.txt:|10.73410950283197
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 7 - Lit-Classic.Com.txt:|11.680591617210682
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 8 - Lit-Classic.Com.txt:|12.664635958395245
-Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 9 - Lit-Classic.Com.txt:|14.460535919090814
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 1 - Lit-Classic.Com.txt:|12.684755219582433
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 10 - Lit-Classic.Com.txt:|10.305990180032733
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 11 - Lit-Classic.Com.txt:|13.308877534727767
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 12 - Lit-Classic.Com.txt:|12.013174114021572
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 13 - Lit-Classic.Com.txt:|13.854906484304193
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 14 - Lit-Classic.Com.txt:|12.87477092241906
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 2 - DzhiekLondon.txt:|11.221899736147757
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 3 - Lit-Classic.ComLondon.txt:|14.452614015572859
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 4 - Lit-Oboz.Ru.txt:|12.634129274905973
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 5 - Lit-Classic.Com.txt:|11.825644556652131
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 6 - Lit-Classic.Com.txt:|11.166697479509459
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 7 - Lit-Classic.Com.txt:|12.228681851821396
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 8 - Lit-Classic.Com.txt:|11.992624728850325
-Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 9 - Lit-Classic.Com.txt:|10.816127497621313
+Cказка $ Роальд Даль $ Чарли и шоколадная фабрика.txt:|7.24211
+братья Гримм Бременские музыканты:|8.35897
+Винни Пух и все все все.txt:|9.12826
+Волков Волшебник Изумрудного города:|9.40443
+Гавальда А. 35 кило надежды.txt:|9.11324
+Катаев Цветик-семицветик:|10.82979
+Кир Булычев Сто лет тому вперед:|7.45349
+Крот в городе.txt:|9.18841
+Приключения $ Носов $ Рассказы:|7.08316
+Сказка $ Алексей Толстой $ Золотой ключик, или приключения Буратино:|11.55409
+Сказка $ Андерсен $ Сказки:|11.73364
+Сказка $ Джоэль $ Сказки дядюшки Римуса:|9.22816
+Сказка $ Линдгрен $ Малыш и Карлсон.txt:|9.73307
+Сказка $ Линдгрен $ Пиппи длинный чулок:|9.62802
+Сказка $ Шарль Перро $ Красная шапочка:|11.03571
+фэнтези $ Роулинг $ Гарри Поттер и Кубок огня:|9.61486
+фэнтези $ Роулинг $ Гарри Поттер и Принц полукровка:|11.92963
+фэнтези $ Роулинг $ Гарри Поттер и Тайная комната:|9.04175
+фэнтези $ Роулинг $ Гарри Поттер и узник Азкабана:|8.65244
+Фэнтези $ Роулинг $ Гарри Поттер и Философский камень:|10.65962
+Ян Ларри Необыкновенные приключения Карика и Вали:|7.2371
+Янссон Мемуары папы Муми Тролля:|8.51491
+Янссон Муми-тролль и комета:|8.98092
+Янссон Опасное лето:|7.88958
+Bandit iz Chiertova Kan_ona - Edghar Rais Bierrouz.txt:|9.9018
+Bieghstvo na Vienieru - Edghar Bierrouz.txt:|9.31805
+Biezumnyi korol_ - Edghar Rais Bierrouz.txt:|11.62208
+Boghi Marsa - Edghar Rais Bierrouz.txt:|12.93071
+Boievoi chieloviek Marsa - Edghar Rais Bierrouz.txt:|9.90838
+Boksier Billi - Edghar Rais Bierrouz.txt:|11.5718
+Doch_ tysiachi dzhieddakov - Edghar Rais Bierrouz.txt:|19.7992
+Gighant s Marsa - Edghar Rais Bierrouz.txt:|11.48509
+Iskusstviennyie liudi Marsa - Edghar Rais Bierrouz.txt:|9.45257
+Karson Vienierianskii - Edghar Bierrouz.txt:|10.28496
+Krasnyi iastrieb - Edghar Rais Bierrouz.txt:|10.2115
+Lana iz Gatola - Edghar Rais Bierrouz.txt:|8.87011
+Liudi iz zabytogho vriemieni - Edghar Rais Bierrouz.txt:|15.3844
+Liudi s Luny - Edghar Rais Bierrouz.txt:|10.14929
+Liudi-monstry - Edghar Rais Bierrouz.txt:|14.49451
+Lunnaia dievushka - Edghar Rais Bierrouz.txt:|13.04329
+Marsianskiie shakhmaty - Edghar Rais Bierrouz.txt:|11.0712
+Miechi Marsa - Edghar Rais Bierrouz.txt:|10.14692
+Obratno v kamiennyi viek - Edghar Rais Bierrouz.txt:|10.15614
+Pielliusidar - Edghar Rais Bierrouz.txt:|13.82473
+Pieshchiernaia dievushka - Edghar Rais Bierrouz.txt:|14.25388
+Piraty Vieniery - Edghar Bierrouz.txt:|12.73419
+Poisk Tarzana - Edghar Bierrouz.txt:|8.5433
+Posliednii iz plieistotsiena - Edghar Bierrouz.txt:|10.51816
+Potieriannyi kontinient - Edghar Rais Bierrouz.txt:|15.10862
+Prikliuchieniia Tarzana v dzhunghliakh - Edghar Rais Bierrouz.txt:|13.93906
+Prikliuchieniia v niedrakh Ziemli - Edghar Bierrouz.txt:|9.32474
+Proisshiestviie v Okdieilie - Edghar Rais Bierrouz.txt:|10.94735
+Skielietoidy s Iupitiera - Edghar Rais Bierrouz.txt:|11.80802
+Sviriepyi Pielliusidar - Edghar Bierrouz.txt:|10.34625
+Syn Tarzana - Edghar Bierrouz.txt:|11.11057
+Tanar iz Pielliusidara - Edghar Bierrouz.txt:|11.77592
+Tarzan - povielitiel_ dzhunghliei - Edghar Rais Bierrouz.txt:|9.7047
+Tarzan -- priiemysh obiez_ian - Edghar Rais Bierrouz.txt:|14.12001
+Tarzan i chieloviek-liev - Edghar Rais Bierrouz.txt:|8.71522
+Tarzan i chiempion - Edghar Rais Bierrouz.txt:|9.72332
+Tarzan i Gorod Zolota - Edghar Rais Bierrouz.txt:|11.32287
+Tarzan i iegho zvieri - Edghar Rais Bierrouz.txt:|13.81573
+Tarzan i liudi-lieopardy - Edghar Rais Bierrouz.txt:|10.45218
+Tarzan i liudi-murav_i - Edghar Rais Bierrouz.txt:|9.20208
+Tarzan i potieriannaia impieriia - Edghar Bierrouz.txt:|10.51235
+Tarzan i potierpievshiie korabliekrushieniie - Edghar Rais Bierrouz.txt:|10.44844
+Tarzan i sokrovishcha Opara - Edghar Rais Bierrouz.txt:|13.72879
+Tarzan i sumasshiedshii - Edghar Rais Bierrouz.txt:|9.23402
+Tarzan i ubiistvo v dzhunghliakh - Edghar Rais Bierrouz.txt:|10.0602
+Tarzan i zaprietnyi ghorod - Edghar Bierrouz.txt:|9.36897
+Tarzan i zolotoi liev - Edghar Rais Bierrouz.txt:|11.42413
+Tarzan i __Inostrannyi lieghion__ - Edghar Rais Bierrouz.txt:|9.43912
+Tarzan Niepobiedimyi - Edghar Rais Bierrouz.txt:|13.19222
+Tarzan nieukrotimyi - Edghar Rais Bierrouz.txt:|11.65271
+Tarzan torzhiestvuiushchii - Edghar Bierrouz.txt:|9.98464
+Tarzan Uzhasnyi - Edghar Rais Bierrouz.txt:|9.74509
+Tarzan v Pielliusidarie - Edghar Rais Bierrouz.txt:|13.47751
+Tarzan vielikoliepnyi - Edghar Bierrouz.txt:|7.8278
+Tuviia, dieva Marsa - Edghar Rais Bierrouz.txt:|13.02912
+V sierdtsie Ziemli - Edghar Rais Bierrouz.txt:|14.4929
+Viechnyi dikar_ - Edghar Rais Bierrouz.txt:|12.74457
+Vielikii um Marsa - Edghar Rais Bierrouz.txt:|14.02037
+Vladyka Marsa - Edghar Rais Bierrouz.txt:|14.25235
+Vnie biezdny vriemieni - Edghar Rais Bierrouz.txt:|12.74134
+Vozvrashchieniie v dzhunghli - Edghar Rais Bierrouz.txt:|14.40419
+Za samoi daliekoi zviezdoi - Edghar Rais Bierrouz.txt:|12.11509
+Zakorienielyi priestupnik - Edghar Rais Bierrouz.txt:|10.32831
+Zatieriannyie na Vienierie - Edghar Bierrouz.txt:|10.69848
+Ziemlia potieriannykh liudiei - Edghar Rais Bierrouz.txt:|12.82677
+Ziemlia uzhasa - Edghar Rais Bierrouz.txt:|11.94558
+Ziemlia, pozabytaia vriemieniem - Edghar Rais Bierrouz.txt:|14.14636
+Marsianin - Endi Vieiier.txt:|7.99603
+Golodnyie ighry - S_iuzien Kollinz.txt:|8.66342
+I vspykhniet plamia - Siuzien Kollinz.txt:|8.79673
+Soika-pieriesmieshnitsa - S_iuzien Kollinz.txt:|8.64755
+Ekstriennyi sluchai - Maikl Kraiton.txt:|7.52618
+Gosudarstvo strakha - Maikl Kraiton.txt:|7.7764
+Kongho - Maikl Kraiton.txt:|11.64302
+Kryl_ia - Maikl Kraiton.txt:|7.72895
+Opasnyi patsiient - Maikl Kraiton.txt:|7.84525
+Park iurskogho pierioda - Maikl Kraiton.txt:|8.25635
+Piratskiie shiroty - Maikl Kraiton.txt:|8.589
+Pozhiratieli miertvykh (13-i voin) - Maikl Kraiton.txt:|17.73742
+Razoblachieniie - Maikl Kraiton.txt:|8.75164
+Roi - Maikl Kraiton.txt:|8.21686
+Sfiera - Maikl Kraiton.txt:|7.29866
+Shtamm __Andromieda__ - Maikl Kraiton.txt:|10.63934
+Sluchai nieobkhodimosti - Maikl Kraiton.txt:|9.34706
+Striela vriemieni - Maikl Kraiton.txt:|9.14824
+Voskhodiashchieie solntsie - Maikl Kraiton.txt:|9.44182
+Zatieriannyi mir - Maikl Kraiton.txt:|7.51658
+Zuby drakona - Maikl Kraiton.txt:|9.6444
+Lichnyie vospominaniia o Zhannie D`Ark s_ierietaria. Tom Soiier -- syshchik - Mark Tvien.txt:|13.57764
+Nalieghkie - Mark Tvien.txt:|17.07381
+Pozolochiennyi viek - Mark Tvien _ Charl_z Dedli Uornier.txt:|14.09616
+Prostaki za ghranitsiei ili Put_ novykh palomnikov - Mark Tvien.txt:|15.50726
+Tom 10. Rasskazy. Ochierki. Publitsistika. 1863-1893. - Mark Tvien.txt:|14.35586
+Tom 11. Rasskazy. Ochierki. Publitsistika. 1894-1909 - Mark Tvien.txt:|13.2542
+Tom 12. Iz _Avtobioghrafii_. Iz zapisnykh knek 1865-1905. Izbrannyie pis_ma - Mark Tvien.txt:|16.27516
+Tom 4. Prikliuchieniia Toma Soiiera. Zhizn_ na Missisipi - Mark Tvien.txt:|15.02872
+Tom 5. Pieshkom po Ievropie. Prints i nishchii. - Mark Tvien.txt:|15.89478
+Tom 6. Prikliuchieniia Giekl_bierri Finna. Iikuta pri dvorie korolia Artura - Mark Tvien.txt:|14.9263
+Tom 7. Amierikanskii prietiendient.Tom Soiieranitsiei. Prostofilia Vil_son. - Mark Tvien.txt:|13.81034
+Tom 9. Po ekvatoru. Tainstviennyi nieznakomiets - Mark Tvien.txt:|16.18884
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 1 - Lit-Classic.Com.txt:|11.55667
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 10 - Lit-Classic.Com.txt:|11.94085
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 11 - Lit-Classic.Com.txt:|15.79861
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 12 - Lit-Classic.Com.txt:|15.03748
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 2 - Lit-Classic.Com.txt:|10.33856
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 3 - Lit-Classic.Com.txt:|9.90659
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 4 - Lit-Classic.Com.txt:|10.94035
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 5 - Lit-Classic.Com.txt:|12.92705
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 6 - Lit-Classic.Com.txt:|10.73411
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 7 - Lit-Classic.Com.txt:|11.68059
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 8 - Lit-Classic.Com.txt:|12.66464
+Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 9 - Lit-Classic.Com.txt:|14.46054
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 1 - Lit-Classic.Com.txt:|12.68476
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 10 - Lit-Classic.Com.txt:|10.30599
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 11 - Lit-Classic.Com.txt:|13.30888
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 12 - Lit-Classic.Com.txt:|12.01317
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 13 - Lit-Classic.Com.txt:|13.85491
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 14 - Lit-Classic.Com.txt:|12.87477
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 2 - DzhiekLondon.txt:|11.2219
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 3 - Lit-Classic.ComLondon.txt:|14.45261
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 4 - Lit-Oboz.Ru.txt:|12.63413
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 5 - Lit-Classic.Com.txt:|11.82564
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 6 - Lit-Classic.Com.txt:|11.1667
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 7 - Lit-Classic.Com.txt:|12.22868
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 8 - Lit-Classic.Com.txt:|11.99262
+Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 9 - Lit-Classic.Com.txt:|10.81613
 Bashnia Piepla - Dzhordzh Martin.txt:|12.362
-Bitva koroliei - Dzhordzh Martin.txt:|9.810318964156009
-Bor_ba chieloviechieskogho sierdtsa s samim soboi - Dzhordzh Martin.txt:|16.120689655172413
-Buria miechiei - Dzhordzh Martin.txt:|9.775948951903867
+Bitva koroliei - Dzhordzh Martin.txt:|9.81032
+Bor_ba chieloviechieskogho sierdtsa s samim soboi - Dzhordzh Martin.txt:|16.12069
+Buria miechiei - Dzhordzh Martin.txt:|9.77595
 Chieloviek s miasnoi fabriki - Dzhordzh Martin.txt:|10.52875
-Chieloviek-v-formie-ghrushi - Dzhordzh Martin.txt:|8.438834951456311
+Chieloviek-v-formie-ghrushi - Dzhordzh Martin.txt:|8.43883
 Chietyriekhtsvietnyi mal_chik-fanat - Dzhordzh Martin.txt:|17.0
-Dikiie karty - Dzhordzh Martin.txt:|11.022439347520079
-Dikiie karty. Knigha 6. Tuz v trudnom polozhienii - Dzhordzh Martin.txt:|8.262712482673086
-Dorogha v San-Brieta - Dzhordzh Martin.txt:|9.72639225181598
-Gibridy i uzhasy - Dzhordzh Martin.txt:|17.513089005235603
-Gieroi - Dzhordzh Martin.txt:|9.452380952380953
-Griaznyi profiessional - Dzhordzh Martin.txt:|17.58641975308642
-Griezy Fievra - Dzhordzh Martin.txt:|9.61797926659446
-I smiert_ iegho nasliediie - Dzhordzh Martin.txt:|11.987341772151899
-Ighra priestolov - Dzhordzh Martin.txt:|9.87538837565765
-Kamiennyi ghorod - Dzhordzh Martin.txt:|9.489885664028144
-Khlieba i ryby - Dzhordzh Martin.txt:|9.961904761904762
-Khranitieli - Dzhordzh Martin.txt:|9.493150684931507
-Koroli-pustynniki - Dzhordzh Martin.txt:|8.182481751824817
-Kozyrnyie tuzy - Dzhordzh Martin.txt:|9.719079423835197
-Kriepost_ - Dzhordzh Martin.txt:|8.389525368248773
-Liechieniie martyshkami - Dzhordzh Martin.txt:|10.444444444444445
-Liedianoi drakon - Dzhordzh Martin.txt:|11.806521739130435
-Lietiashchiie skvoz_ noch_ - Dzhordzh Martin.txt:|8.826223337515684
-Manna niebiesnaia - Dzhordzh Martin.txt:|9.56461086637298
-Miezhievoi Rytsar_ - Dzhordzh Martin.txt:|9.764393630053084
-Mistfal_ prikhodit utrom - Dzhordzh Martin.txt:|9.244274809160306
-Nasliedniki Chieriepash_iegho zamka - Dzhordzh Martin.txt:|16.126903553299492
-Nieistovyie dzhokiery - Dzhordzh Martin.txt:|9.306472810908494
-Noch_ __Vampirov__ - Dzhordzh Martin.txt:|9.015625
-Odinokiie piesni Lariena Dora - Dzhordzh Martin.txt:|7.944625407166124
-Pieschanyie koroli - Dzhordzh Martin.txt:|7.771186440677966
-Piesn_ ghollivudskoi sirieny - Dzhordzh Martin.txt:|16.62213740458015
-Piesn_ o Lii - Dzhordzh Martin.txt:|7.92848948374761
-Pir stierviatnikov - Dzhordzh Martin.txt:|9.338991369790175
-Plamia i krov_ - Dzhordzh Martin.txt:|17.00211497788887
-Pora zakryvat_sia - Dzhordzh Martin.txt:|6.731981981981982
-Portaly - Dzhordzh Martin.txt:|4.902276707530648
-Portriety iegho dietiei - Dzhordzh Martin.txt:|7.851453855878635
-Povtornaia pomoshch_ - Dzhordzh Martin.txt:|10.72090909090909
-Prints-nieghodiai, brat korolia - Dzhordzh Martin.txt:|18.838655462184875
-Printsiessa i korolieva, ili Chiernyie i zielienyie - Dzhordzh Martin.txt:|15.726989079563182
-Prisiazhnyi rytsar_ - Dzhordzh Martin.txt:|9.436363636363636
-Put_ kriesta i drakona - Dzhordzh Martin.txt:|9.89527027027027
-Ruka miertvietsa - Dzhordzh Martin.txt:|8.25721423033853
-Ryvok k zviezdnomu svietu - Dzhordzh Martin.txt:|9.699059561128527
-Shiest_ sieriebrianykh pul_ - Dzhordzh Martin.txt:|11.081057650628521
-Stiekliannyi tsvietok - Dzhordzh Martin.txt:|9.938102893890676
-Sumieriechnaia zona - Dzhordzh Martin.txt:|6.195902688860436
-Sviet daliekikh zviezd - Dzhordzh Martin.txt:|17.187214611872147
-Taniets s drakonami - Dzhordzh Martin.txt:|9.715805260088317
-Tasuia Dikiie karty - Dzhordzh Martin.txt:|15.404761904761905
-Tiemnym-tiemno bylo v tunnieliakh - Dzhordzh Martin.txt:|7.416543574593796
-Tol_ko dieti boiatsia tiemnoty - Dzhordzh Martin.txt:|11.356083086053413
+Dikiie karty - Dzhordzh Martin.txt:|11.02244
+Dikiie karty. Knigha 6. Tuz v trudnom polozhienii - Dzhordzh Martin.txt:|8.26271
+Dorogha v San-Brieta - Dzhordzh Martin.txt:|9.72639
+Gibridy i uzhasy - Dzhordzh Martin.txt:|17.51309
+Gieroi - Dzhordzh Martin.txt:|9.45238
+Griaznyi profiessional - Dzhordzh Martin.txt:|17.58642
+Griezy Fievra - Dzhordzh Martin.txt:|9.61798
+I smiert_ iegho nasliediie - Dzhordzh Martin.txt:|11.98734
+Ighra priestolov - Dzhordzh Martin.txt:|9.87539
+Kamiennyi ghorod - Dzhordzh Martin.txt:|9.48989
+Khlieba i ryby - Dzhordzh Martin.txt:|9.9619
+Khranitieli - Dzhordzh Martin.txt:|9.49315
+Koroli-pustynniki - Dzhordzh Martin.txt:|8.18248
+Kozyrnyie tuzy - Dzhordzh Martin.txt:|9.71908
+Kriepost_ - Dzhordzh Martin.txt:|8.38953
+Liechieniie martyshkami - Dzhordzh Martin.txt:|10.44444
+Liedianoi drakon - Dzhordzh Martin.txt:|11.80652
+Lietiashchiie skvoz_ noch_ - Dzhordzh Martin.txt:|8.82622
+Manna niebiesnaia - Dzhordzh Martin.txt:|9.56461
+Miezhievoi Rytsar_ - Dzhordzh Martin.txt:|9.76439
+Mistfal_ prikhodit utrom - Dzhordzh Martin.txt:|9.24427
+Nasliedniki Chieriepash_iegho zamka - Dzhordzh Martin.txt:|16.1269
+Nieistovyie dzhokiery - Dzhordzh Martin.txt:|9.30647
+Noch_ __Vampirov__ - Dzhordzh Martin.txt:|9.01562
+Odinokiie piesni Lariena Dora - Dzhordzh Martin.txt:|7.94463
+Pieschanyie koroli - Dzhordzh Martin.txt:|7.77119
+Piesn_ ghollivudskoi sirieny - Dzhordzh Martin.txt:|16.62214
+Piesn_ o Lii - Dzhordzh Martin.txt:|7.92849
+Pir stierviatnikov - Dzhordzh Martin.txt:|9.33899
+Plamia i krov_ - Dzhordzh Martin.txt:|17.00211
+Pora zakryvat_sia - Dzhordzh Martin.txt:|6.73198
+Portaly - Dzhordzh Martin.txt:|4.90228
+Portriety iegho dietiei - Dzhordzh Martin.txt:|7.85145
+Povtornaia pomoshch_ - Dzhordzh Martin.txt:|10.72091
+Prints-nieghodiai, brat korolia - Dzhordzh Martin.txt:|18.83866
+Printsiessa i korolieva, ili Chiernyie i zielienyie - Dzhordzh Martin.txt:|15.72699
+Prisiazhnyi rytsar_ - Dzhordzh Martin.txt:|9.43636
+Put_ kriesta i drakona - Dzhordzh Martin.txt:|9.89527
+Ruka miertvietsa - Dzhordzh Martin.txt:|8.25721
+Ryvok k zviezdnomu svietu - Dzhordzh Martin.txt:|9.69906
+Shiest_ sieriebrianykh pul_ - Dzhordzh Martin.txt:|11.08106
+Stiekliannyi tsvietok - Dzhordzh Martin.txt:|9.9381
+Sumieriechnaia zona - Dzhordzh Martin.txt:|6.1959
+Sviet daliekikh zviezd - Dzhordzh Martin.txt:|17.18721
+Taniets s drakonami - Dzhordzh Martin.txt:|9.71581
+Tasuia Dikiie karty - Dzhordzh Martin.txt:|15.40476
+Tiemnym-tiemno bylo v tunnieliakh - Dzhordzh Martin.txt:|7.41654
+Tol_ko dieti boiatsia tiemnoty - Dzhordzh Martin.txt:|11.35608
 Tupikovyi variant - Dzhordzh Martin.txt:|8.48
-Umiraiushchii sviet - Dzhordzh Martin.txt:|9.431465093411996
-V osadie - Dzhordzh Martin.txt:|9.909811694747274
-V Potieriannykh ziemliakh - Dzhordzh Martin.txt:|10.89937106918239
-Vkus Tafa - Dzhordzh Martin.txt:|16.638655462184875
-Vozvrashchieniie na S_Atlem - Dzhordzh Martin.txt:|10.750919117647058
+Umiraiushchii sviet - Dzhordzh Martin.txt:|9.43147
+V osadie - Dzhordzh Martin.txt:|9.90981
+V Potieriannykh ziemliakh - Dzhordzh Martin.txt:|10.89937
+Vkus Tafa - Dzhordzh Martin.txt:|16.63866
+Vozvrashchieniie na S_Atlem - Dzhordzh Martin.txt:|10.75092
 Vspominaia Mielodi - Dzhordzh Martin.txt:|7.03125
-Vtoroi rod odinochiestva - Dzhordzh Martin.txt:|6.956439393939394
-Vtoroi vid odinochiestva - Dzhordzh Martin.txt:|6.407407407407407
-Zlotsviety - Dzhordzh Martin.txt:|10.985751295336788
-Zovitie iegho Moisieiem - Dzhordzh Martin.txt:|12.451851851851853
-Zvier_ dlia Norna - Dzhordzh Martin.txt:|10.014908256880734
-Sobraniie sochinienii, tom 1. Bielyi vozhd_. Kvartieronka. ssv6t-1 - Tomas Main Rid.txt:|11.670241124439597
-Sobraniie sochinienii, tom 2. Otsieola, vozhdv. Morskoi volchonok ssv6t-2 - Tomas Main Rid.txt:|11.616545517480096
-Sobraniie sochinienii, tom 3. Okhotniki za raeriannyie v okieanie ssv6t-3 - Tomas Main Rid.txt:|14.000305017538508
-Sobraniie sochinienii, tom 4. V diebriakh Iuzotniki za zhirafami. ssv6t-4 - Tomas Main Rid.txt:|14.496131087847065
-Sobraniie sochinienii, tom 5. Bielaia pierchaakh bielogho bizona. ssv6t-5 - Tomas Main Rid.txt:|13.151932836288452
-Sobraniie sochinienii, tom 6. Marony. Vsadnik biez gholovy. ssv6t-6 - Tomas Main Rid.txt:|10.631956989247312
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 1 - Lit-oboz.ru.txt:|19.561275362318842
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 10 - Lit-oboz.ru.txt:|17.887619047619047
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 11 - Lit-oboz.ru.txt:|15.128261283565035
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 12 - Lit-oboz.ru.txt:|19.95975194552529
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 13 - Lit-oboz.ru.txt:|17.82439287641662
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 14 - Lit-oboz.ru.txt:|17.19147957305852
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 15 - Lit-oboz.ru.txt:|18.11998099311
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 16 - Lit-oboz.ru.txt:|16.617329700272478
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 17 - Lit-oboz.ru.txt:|17.582869476314894
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 18 - Lit-oboz.ru.txt:|17.5362171331637
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 19 - Lit-oboz.ru.txt:|15.913212309484516
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 2 - Lit-oboz.ru.txt:|16.65954431483702
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 20 - Lit-oboz.ru.txt:|20.237280296022202
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 3 - Lit-oboz.ru.txt:|14.157750073623244
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 4 - Lit-oboz.ru.txt:|18.39596563317146
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 5 - Lit-oboz.ru.txt:|19.41126582278481
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 6 - Lit-oboz.ru.txt:|16.900848410508026
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 7 - Lit-oboz.ru.txt:|17.359476461038962
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 8 - Lit-oboz.ru.txt:|15.377984084880637
-Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 9 - Lit-oboz.ru.txt:|17.41214516708588
-Dietiektivnoie aghientstvo Dirka Dzhientli - Dughlas Noel_ Adams.txt:|10.599421178072863
-Dolghoie chaiepitiie - Dughlas Noel_ Adams.txt:|12.824419568822554
-Putievoditiel_ khitch-khaikiera po Galaktikie - Dughlas Noel_ Adams.txt:|9.384558460779477
-Riestoran na kraiu Vsieliennoi - Dughlas Noel_ Adams.txt:|9.20757071547421
-V osnovnom biezvriedna - Dughlas Adams.txt:|9.482065727699531
-Vsiegho khoroshiegho, i spasibo za rybu! - Dughlas Adams.txt:|11.003500583430572
-Zafod dielaiet chistuiu rabotu - Dughlas Adams.txt:|10.881481481481481
-Zhizn_, Vsieliennaia i vsie ostal_noie - Dughlas Adams.txt:|10.456907016266085
-Alisa i drakon_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:|8.087520579519262
-Drievniie tainy_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|8.535885167464114
-Dva bilieta v Indiiu_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|8.460865850185133
-Kosmichieskii diesant_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:|8.209922291972013
-Million prikliuchienii_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|7.626587096184879
-Monumienty Marsa_ Fantastichieskiie rasskazy i p_iesy - Kir Bulychiev.txt:|7.30393767202344
-Opieratsiia __Gadiuka___ Fantastichieskiie romany - Kir Bulychiev.txt:|8.063655479395942
-Podziemiel_ie vied_m_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|8.726219884718569
-Pokhishchieniie charodieia_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|7.950885059568811
-Pokushieniie na Tiesieia_ Fantastichieskiie romany - Kir Bulychiev.txt:|9.850304371887106
-Posielok_ Poviesti - Kir Bulychiev.txt:|8.494580838323353
-Posliedniie drakony_ Fantastichieskii roman, poviesti - Kir Bulychiev.txt:|10.225654739948359
-Sto liet tomu vpieried_ Fantastichieskiie proizviedieniia - Kir Bulychiev.txt:|7.761577300746523
-Takikh nie ubivaiut_ Romany, poviest_ - Kir Bulychiev.txt:|8.7991010208746
-Vozvrashchieniie iz Trapiezunda_ Fantastichieskiie romany - Kir Bulychiev.txt:|10.109545138620742
-Zapoviednik dlia akadiemikov_ Fantastichieskiie romany - Kir Bulychiev.txt:|10.115263621492387
-Zhiertva vtorzhieniia_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:|9.036000908540279
-_ Tom 16. Opasnyie skazki - Kir Bulychiev.txt:|8.620172201722017
-Absoliutnoie oruzhiie - Garri Garrison.txt:|12.666666666666666
-Amierikanskiie miertviaki - Garri Garrison.txt:|8.531313131313132
-Bieghliets - Garri Garrison.txt:|9.446945337620578
-Biezrabotnyi robot - Garri Garrison.txt:|11.077199281867145
-Bill - Gieroi Galaktiki - Garri Garrison.txt:|11.286975127039316
-Bill - Gieroi Galaktiki, na planietie zombi-vampirov - Garri Garrison.txt:|8.060503570086434
-Bill, ghieroi Galaktiki, na planietie niepoznannykh naslazhdienii - Garri Garrison.txt:|9.304934541792548
-Bill, ghieroi Galaktiki, na planietie robotov-rabov - Garri Garrison.txt:|8.784646739130435
-Bill, ghieroi Galaktiki, otpravliaietsia v svoi piervyi otpusk - Garri Garrison.txt:|10.047430830039525
-Bill, ghieroi Galaktiki_ Posliednieie zlopoluchnoie prikliuchieniie - Garri Garrison.txt:|10.592253227821741
-Bill, Gieroi Galaktiki, na planietie diesiati tysiach barov - Garri Garrison.txt:|7.658213474640424
-Boievoi rieid - Garri Garrison.txt:|12.348242811501597
-Chiernoie i bieloie - Garri Garrison.txt:|8.53306613226453
-Chuma iz kosmosa - Garri Garrison.txt:|9.618077657542965
-Chuvstvo dolgha (Planieta prokliatykh) - Garri Garrison.txt:|9.621201413427562
-Chuzhaia aghoniia - Garri Garrison.txt:|11.938823529411765
-Da zdravstvuiet transatlantichieskii tuniel_! Ura! - Garri Garrison.txt:|15.302858760260403
-Daliet-effiekt - Garri Garrison.txt:|9.430344572063728
-Davlieniie - Garri Garrison.txt:|10.585046728971962
-Dien_ poslie kontsa svieta - Garri Garrison.txt:|6.891393442622951
-Domoi, na Ziemliu - Garri Garrison.txt:|12.58918918918919
-Dorogha v 3000 ghod - Garri Garrison.txt:|11.914893617021276
-Ediem [sbornik] - Garri Garrison.txt:|8.537879013744373
-Eskadril_ia vampirov - Garri Garrison.txt:|10.459701492537313
-Etichieskii inzhienier [Spietsialist po etikie_ Moralist] - Garri Garrison.txt:|10.638020192070918
-Fantastichieskaia sagha - Garri Garrison.txt:|10.676409185803758
-Gosudarstviennyi sluzhashchii - Garri Garrison.txt:|9.11890243902439
-Ia tiebia vizhu - Garri Garrison.txt:|10.15079365079365
-Ia vypolniaiu svoiu rabotu - Garri Garrison.txt:|8.92134831460674
-Iesli - Garri Garrison.txt:|8.751295336787564
-Intsidient - Garri Garrison.txt:|11.185567010309278
-Istochnik opasnosti - Garri Garrison.txt:|10.546610169491526
-Istoriia kontsa - Garri Garrison.txt:|11.102102102102101
-Iz fanatizma ili za voznaghrazhdieniie - Garri Garrison.txt:|9.261083743842365
-K-Faktor - Garri Garrison.txt:|9.003601440576231
-Kak umiral staryi mir - Garri Garrison.txt:|8.964028776978417
-Kaliforniiskii aisbiergh - Garri Garrison.txt:|9.045079365079365
-Kapitan Bork - Garri Garrison.txt:|10.725752508361204
-Kapitan Gonario Kharpplieiier - Garri Garrison.txt:|13.265682656826568
-Khranitieli zhizni - Garri Garrison.txt:|10.048372093023255
-Koghda Boghi kuriat fimiam - Garri Garrison.txt:|8.097510373443983
-Kol_tsa anakondy - Garri Garrison.txt:|10.127880184331797
-Koniechnaia stantsiia - Garri Garrison.txt:|8.292270531400966
-Konnyie varvary - Garri Garrison.txt:|9.953986513288378
-Kosmichieskii vrach - Garri Garrison.txt:|9.772413793103448
-Kosmichieskiie krysy DDD - Garri Maksviell Garrison.txt:|11.845679012345679
-Krugh niedovieriia (Trienirovochnyi poliet) - Garri Garrison.txt:|13.33774834437086
-Krysa iz nierzhavieiushchiei stali - Garri Garrison.txt:|10.530685920577618
-Krysa iz nierzhavieiushchiei stali poiavliaietsia na sviet - Garri Garrison.txt:|10.587925251557259
-Krysa iz nierzhavieiushchiei stali spasaiet mir - Garri Garrison.txt:|10.63852813852814
-Kvitzielientsiia - Garri Garrison.txt:|9.167495854063018
-Linkor v naftalinie - Garri Garrison.txt:|7.792307692307692
-Maghazin ighrushiek - Garri Garrison.txt:|12.152173913043478
-Mastier na vsie ruki - Garri Garrison.txt:|11.83989501312336
-Miest_ krysy iz nierzhavieiushchiei stali - Garri Garrison.txt:|11.13191011235955
-Miest_ Montiesumy - Garri Garrison.txt:|10.459707724425888
-Mir na koliesakh - Garri Garrison.txt:|8.83404255319149
-Mir Rodiny - Garri Garrison.txt:|8.914054799921152
-Mir smierti (Nieukrotimaia planieta) - Garri Garrison.txt:|8.042395693135935
-Na ghosudarstviennoi sluzhbie - Garri Garrison.txt:|8.044444444444444
-Nakoniets-to pravdivaia istoriia Frankienshtieina - Garri Garrison.txt:|10.442786069651742
-Ni voiny, ni zvukov boia - Garri Garrison.txt:|10.130232558139534
-Niemoi Milton - Garri Garrison.txt:|9.131687242798353
-Nieukrotimaia planieta - Garri Garrison.txt:|9.390989873940898
-Novyie prikliuchieniia Stal_noi Krysy - Garri Garrison.txt:|8.406648118318934
-Obychnaia istoriia - Garri Garrison.txt:|10.257954545454545
-Odin shagh ot ziemli - Garri Garrison.txt:|10.82899022801303
-Opravdaniie - Garri Garrison.txt:|13.329411764705883
-Ot kazhdogho po sposobnostiam - Garri Garrison.txt:|11.502551020408163
-Otvierzhiennyi - Garri Garrison.txt:|9.966060606060607
-Padaiushchaia Zviezda - Garri Garrison.txt:|9.142891479389496
-Parni iz S.V.I.N. i R.O.B.O.T. - Garri Garrison.txt:|9.610307749351131
-Planieta, s kotoroi nie vozvrashchaiutsia - Garri Garrison.txt:|8.396783548642235
-Plieniennaia Vsieliennaia - Garri Garrison.txt:|10.977685408007
-Pliushievyi mishka - Garri Garrison.txt:|11.985454545454546
-Podvin_ties_! Podvin_ties_! - Garri Garrison.txt:|9.388790749959853
-Portriet khudozhnika - Garri Garrison.txt:|13.435779816513762
-Poslie shtorma - Garri Garrison.txt:|8.15586690017513
-Posliedniaia vstriecha - Garri Garrison.txt:|10.829652996845425
-Posliednieie srazhieniie - Garri Garrison.txt:|14.738095238095237
-Pri vodopadie - Garri Garrison.txt:|8.46360153256705
-Priestuplieniie - Garri Garrison.txt:|10.546835443037974
-Prishiel_tsy i K - Garri Garrison.txt:|7.9411764705882355
-Pronikshii v skaly - Garri Garrison.txt:|12.154385964912281
-Propavshii lainier - Garri Garrison.txt:|8.264111344305755
-Punkt vtorzhieniia_ Ziemlia - Garri Garrison.txt:|8.509710832973672
-Rabota na soviest_ - Garri Garrison.txt:|9.221818181818183
-Radushnaia vstriecha - Garri Garrison.txt:|8.481927710843374
-Rassliedovaniie - Garri Garrison.txt:|10.790697674418604
-Robot, kotoryi khotiel vsie znat_ - Garri Garrison.txt:|11.808743169398907
-Ruka zakona - Garri Garrison.txt:|10.157389635316699
-Samyi zamiechatiel_nyi avtomobil_ v mirie - Garri Garrison.txt:|12.54109589041096
-Skorost_ ghieparda, ryk l_va - Garri Garrison.txt:|10.706521739130435
-Sluchai v podziemkie - Garri Maksviell Garrison.txt:|10.407608695652174
-Sluzhba _Vampir_ - Garri Garrison.txt:|11.39153439153439
-Smiertnyie muki prishiel_tsa - Garri Garrison.txt:|12.089655172413794
-Sosiedi - Garri Garrison.txt:|9.758940397350994
-Spasatiel_naia opieratsiia - Garri Garrison.txt:|10.834016393442623
-Spietsialist po kontaktam - Garri Garrison.txt:|10.81081081081081
-Stal_naia Krysa idiet v armiiu - Garri Garrison.txt:|7.88025267783576
-Stal_naia Krysa na maniezhie - Garri Garrison.txt:|7.503421779325249
-Stal_naia krysa otpravliaietsia v ad [= Stalysa v ghostiakh u d_iavola] - Garri Garrison.txt:|7.747104968248039
-Stal_naia krysa poiot bliuz - Garri Garrison.txt:|7.675364882795224
-Stal_nuiu Krysu -- v priezidienty - Garri Garrison.txt:|8.643617981585123
-Stiertyie miry - Garri Garrison.txt:|9.7710349795165
-Taina Stounkhiedzha - Garri Garrison.txt:|10.441666666666666
-Tol_ko nie ia, nie Eimos Keibot! - Garri Garrison.txt:|13.446902654867257
-Trienirovochnyi poliet - Garri Maksviell Garrison.txt:|10.11965811965812
-Trudnaia rabota - Garri Garrison.txt:|10.439642324888226
-Ty nuzhien stal_noi krysie! - Garri Garrison.txt:|8.08578720062819
-U vodopada - Garri Garrison.txt:|9.352727272727273
-Utsielievshaia planieta - Garri Garrison.txt:|8.937768240343347
-Uvidiet_ zviozdy v Kosmosie - Garri Garrison.txt:|11.474193548387097
-V loghovie L_va - Garri Garrison.txt:|10.498840675720437
+Vtoroi rod odinochiestva - Dzhordzh Martin.txt:|6.95644
+Vtoroi vid odinochiestva - Dzhordzh Martin.txt:|6.40741
+Zlotsviety - Dzhordzh Martin.txt:|10.98575
+Zovitie iegho Moisieiem - Dzhordzh Martin.txt:|12.45185
+Zvier_ dlia Norna - Dzhordzh Martin.txt:|10.01491
+Sobraniie sochinienii, tom 1. Bielyi vozhd_. Kvartieronka. ssv6t-1 - Tomas Main Rid.txt:|11.67024
+Sobraniie sochinienii, tom 2. Otsieola, vozhdv. Morskoi volchonok ssv6t-2 - Tomas Main Rid.txt:|11.61655
+Sobraniie sochinienii, tom 3. Okhotniki za raeriannyie v okieanie ssv6t-3 - Tomas Main Rid.txt:|14.00031
+Sobraniie sochinienii, tom 4. V diebriakh Iuzotniki za zhirafami. ssv6t-4 - Tomas Main Rid.txt:|14.49613
+Sobraniie sochinienii, tom 5. Bielaia pierchaakh bielogho bizona. ssv6t-5 - Tomas Main Rid.txt:|13.15193
+Sobraniie sochinienii, tom 6. Marony. Vsadnik biez gholovy. ssv6t-6 - Tomas Main Rid.txt:|10.63196
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 1 - Lit-oboz.ru.txt:|19.56128
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 10 - Lit-oboz.ru.txt:|17.88762
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 11 - Lit-oboz.ru.txt:|15.12826
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 12 - Lit-oboz.ru.txt:|19.95975
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 13 - Lit-oboz.ru.txt:|17.82439
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 14 - Lit-oboz.ru.txt:|17.19148
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 15 - Lit-oboz.ru.txt:|18.11998
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 16 - Lit-oboz.ru.txt:|16.61733
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 17 - Lit-oboz.ru.txt:|17.58287
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 18 - Lit-oboz.ru.txt:|17.53622
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 19 - Lit-oboz.ru.txt:|15.91321
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 2 - Lit-oboz.ru.txt:|16.65954
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 20 - Lit-oboz.ru.txt:|20.23728
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 3 - Lit-oboz.ru.txt:|14.15775
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 4 - Lit-oboz.ru.txt:|18.39597
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 5 - Lit-oboz.ru.txt:|19.41127
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 6 - Lit-oboz.ru.txt:|16.90085
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 7 - Lit-oboz.ru.txt:|17.35948
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 8 - Lit-oboz.ru.txt:|15.37798
+Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 9 - Lit-oboz.ru.txt:|17.41215
+Dietiektivnoie aghientstvo Dirka Dzhientli - Dughlas Noel_ Adams.txt:|10.59942
+Dolghoie chaiepitiie - Dughlas Noel_ Adams.txt:|12.82442
+Putievoditiel_ khitch-khaikiera po Galaktikie - Dughlas Noel_ Adams.txt:|9.38456
+Riestoran na kraiu Vsieliennoi - Dughlas Noel_ Adams.txt:|9.20757
+V osnovnom biezvriedna - Dughlas Adams.txt:|9.48207
+Vsiegho khoroshiegho, i spasibo za rybu! - Dughlas Adams.txt:|11.0035
+Zafod dielaiet chistuiu rabotu - Dughlas Adams.txt:|10.88148
+Zhizn_, Vsieliennaia i vsie ostal_noie - Dughlas Adams.txt:|10.45691
+Alisa i drakon_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:|8.08752
+Drievniie tainy_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|8.53589
+Dva bilieta v Indiiu_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|8.46087
+Kosmichieskii diesant_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:|8.20992
+Million prikliuchienii_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|7.62659
+Monumienty Marsa_ Fantastichieskiie rasskazy i p_iesy - Kir Bulychiev.txt:|7.30394
+Opieratsiia __Gadiuka___ Fantastichieskiie romany - Kir Bulychiev.txt:|8.06366
+Podziemiel_ie vied_m_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|8.72622
+Pokhishchieniie charodieia_ Fantastichieskiie poviesti - Kir Bulychiev.txt:|7.95089
+Pokushieniie na Tiesieia_ Fantastichieskiie romany - Kir Bulychiev.txt:|9.8503
+Posielok_ Poviesti - Kir Bulychiev.txt:|8.49458
+Posliedniie drakony_ Fantastichieskii roman, poviesti - Kir Bulychiev.txt:|10.22565
+Sto liet tomu vpieried_ Fantastichieskiie proizviedieniia - Kir Bulychiev.txt:|7.76158
+Takikh nie ubivaiut_ Romany, poviest_ - Kir Bulychiev.txt:|8.7991
+Vozvrashchieniie iz Trapiezunda_ Fantastichieskiie romany - Kir Bulychiev.txt:|10.10955
+Zapoviednik dlia akadiemikov_ Fantastichieskiie romany - Kir Bulychiev.txt:|10.11526
+Zhiertva vtorzhieniia_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt:|9.036
+_ Tom 16. Opasnyie skazki - Kir Bulychiev.txt:|8.62017
+Absoliutnoie oruzhiie - Garri Garrison.txt:|12.66667
+Amierikanskiie miertviaki - Garri Garrison.txt:|8.53131
+Bieghliets - Garri Garrison.txt:|9.44695
+Biezrabotnyi robot - Garri Garrison.txt:|11.0772
+Bill - Gieroi Galaktiki - Garri Garrison.txt:|11.28698
+Bill - Gieroi Galaktiki, na planietie zombi-vampirov - Garri Garrison.txt:|8.0605
+Bill, ghieroi Galaktiki, na planietie niepoznannykh naslazhdienii - Garri Garrison.txt:|9.30493
+Bill, ghieroi Galaktiki, na planietie robotov-rabov - Garri Garrison.txt:|8.78465
+Bill, ghieroi Galaktiki, otpravliaietsia v svoi piervyi otpusk - Garri Garrison.txt:|10.04743
+Bill, ghieroi Galaktiki_ Posliednieie zlopoluchnoie prikliuchieniie - Garri Garrison.txt:|10.59225
+Bill, Gieroi Galaktiki, na planietie diesiati tysiach barov - Garri Garrison.txt:|7.65821
+Boievoi rieid - Garri Garrison.txt:|12.34824
+Chiernoie i bieloie - Garri Garrison.txt:|8.53307
+Chuma iz kosmosa - Garri Garrison.txt:|9.61808
+Chuvstvo dolgha (Planieta prokliatykh) - Garri Garrison.txt:|9.6212
+Chuzhaia aghoniia - Garri Garrison.txt:|11.93882
+Da zdravstvuiet transatlantichieskii tuniel_! Ura! - Garri Garrison.txt:|15.30286
+Daliet-effiekt - Garri Garrison.txt:|9.43034
+Davlieniie - Garri Garrison.txt:|10.58505
+Dien_ poslie kontsa svieta - Garri Garrison.txt:|6.89139
+Domoi, na Ziemliu - Garri Garrison.txt:|12.58919
+Dorogha v 3000 ghod - Garri Garrison.txt:|11.91489
+Ediem [sbornik] - Garri Garrison.txt:|8.53788
+Eskadril_ia vampirov - Garri Garrison.txt:|10.4597
+Etichieskii inzhienier [Spietsialist po etikie_ Moralist] - Garri Garrison.txt:|10.63802
+Fantastichieskaia sagha - Garri Garrison.txt:|10.67641
+Gosudarstviennyi sluzhashchii - Garri Garrison.txt:|9.1189
+Ia tiebia vizhu - Garri Garrison.txt:|10.15079
+Ia vypolniaiu svoiu rabotu - Garri Garrison.txt:|8.92135
+Iesli - Garri Garrison.txt:|8.7513
+Intsidient - Garri Garrison.txt:|11.18557
+Istochnik opasnosti - Garri Garrison.txt:|10.54661
+Istoriia kontsa - Garri Garrison.txt:|11.1021
+Iz fanatizma ili za voznaghrazhdieniie - Garri Garrison.txt:|9.26108
+K-Faktor - Garri Garrison.txt:|9.0036
+Kak umiral staryi mir - Garri Garrison.txt:|8.96403
+Kaliforniiskii aisbiergh - Garri Garrison.txt:|9.04508
+Kapitan Bork - Garri Garrison.txt:|10.72575
+Kapitan Gonario Kharpplieiier - Garri Garrison.txt:|13.26568
+Khranitieli zhizni - Garri Garrison.txt:|10.04837
+Koghda Boghi kuriat fimiam - Garri Garrison.txt:|8.09751
+Kol_tsa anakondy - Garri Garrison.txt:|10.12788
+Koniechnaia stantsiia - Garri Garrison.txt:|8.29227
+Konnyie varvary - Garri Garrison.txt:|9.95399
+Kosmichieskii vrach - Garri Garrison.txt:|9.77241
+Kosmichieskiie krysy DDD - Garri Maksviell Garrison.txt:|11.84568
+Krugh niedovieriia (Trienirovochnyi poliet) - Garri Garrison.txt:|13.33775
+Krysa iz nierzhavieiushchiei stali - Garri Garrison.txt:|10.53069
+Krysa iz nierzhavieiushchiei stali poiavliaietsia na sviet - Garri Garrison.txt:|10.58793
+Krysa iz nierzhavieiushchiei stali spasaiet mir - Garri Garrison.txt:|10.63853
+Kvitzielientsiia - Garri Garrison.txt:|9.1675
+Linkor v naftalinie - Garri Garrison.txt:|7.79231
+Maghazin ighrushiek - Garri Garrison.txt:|12.15217
+Mastier na vsie ruki - Garri Garrison.txt:|11.8399
+Miest_ krysy iz nierzhavieiushchiei stali - Garri Garrison.txt:|11.13191
+Miest_ Montiesumy - Garri Garrison.txt:|10.45971
+Mir na koliesakh - Garri Garrison.txt:|8.83404
+Mir Rodiny - Garri Garrison.txt:|8.91405
+Mir smierti (Nieukrotimaia planieta) - Garri Garrison.txt:|8.0424
+Na ghosudarstviennoi sluzhbie - Garri Garrison.txt:|8.04444
+Nakoniets-to pravdivaia istoriia Frankienshtieina - Garri Garrison.txt:|10.44279
+Ni voiny, ni zvukov boia - Garri Garrison.txt:|10.13023
+Niemoi Milton - Garri Garrison.txt:|9.13169
+Nieukrotimaia planieta - Garri Garrison.txt:|9.39099
+Novyie prikliuchieniia Stal_noi Krysy - Garri Garrison.txt:|8.40665
+Obychnaia istoriia - Garri Garrison.txt:|10.25795
+Odin shagh ot ziemli - Garri Garrison.txt:|10.82899
+Opravdaniie - Garri Garrison.txt:|13.32941
+Ot kazhdogho po sposobnostiam - Garri Garrison.txt:|11.50255
+Otvierzhiennyi - Garri Garrison.txt:|9.96606
+Padaiushchaia Zviezda - Garri Garrison.txt:|9.14289
+Parni iz S.V.I.N. i R.O.B.O.T. - Garri Garrison.txt:|9.61031
+Planieta, s kotoroi nie vozvrashchaiutsia - Garri Garrison.txt:|8.39678
+Plieniennaia Vsieliennaia - Garri Garrison.txt:|10.97769
+Pliushievyi mishka - Garri Garrison.txt:|11.98545
+Podvin_ties_! Podvin_ties_! - Garri Garrison.txt:|9.38879
+Portriet khudozhnika - Garri Garrison.txt:|13.43578
+Poslie shtorma - Garri Garrison.txt:|8.15587
+Posliedniaia vstriecha - Garri Garrison.txt:|10.82965
+Posliednieie srazhieniie - Garri Garrison.txt:|14.7381
+Pri vodopadie - Garri Garrison.txt:|8.4636
+Priestuplieniie - Garri Garrison.txt:|10.54684
+Prishiel_tsy i K - Garri Garrison.txt:|7.94118
+Pronikshii v skaly - Garri Garrison.txt:|12.15439
+Propavshii lainier - Garri Garrison.txt:|8.26411
+Punkt vtorzhieniia_ Ziemlia - Garri Garrison.txt:|8.50971
+Rabota na soviest_ - Garri Garrison.txt:|9.22182
+Radushnaia vstriecha - Garri Garrison.txt:|8.48193
+Rassliedovaniie - Garri Garrison.txt:|10.7907
+Robot, kotoryi khotiel vsie znat_ - Garri Garrison.txt:|11.80874
+Ruka zakona - Garri Garrison.txt:|10.15739
+Samyi zamiechatiel_nyi avtomobil_ v mirie - Garri Garrison.txt:|12.5411
+Skorost_ ghieparda, ryk l_va - Garri Garrison.txt:|10.70652
+Sluchai v podziemkie - Garri Maksviell Garrison.txt:|10.40761
+Sluzhba _Vampir_ - Garri Garrison.txt:|11.39153
+Smiertnyie muki prishiel_tsa - Garri Garrison.txt:|12.08966
+Sosiedi - Garri Garrison.txt:|9.75894
+Spasatiel_naia opieratsiia - Garri Garrison.txt:|10.83402
+Spietsialist po kontaktam - Garri Garrison.txt:|10.81081
+Stal_naia Krysa idiet v armiiu - Garri Garrison.txt:|7.88025
+Stal_naia Krysa na maniezhie - Garri Garrison.txt:|7.50342
+Stal_naia krysa otpravliaietsia v ad [= Stalysa v ghostiakh u d_iavola] - Garri Garrison.txt:|7.7471
+Stal_naia krysa poiot bliuz - Garri Garrison.txt:|7.67536
+Stal_nuiu Krysu -- v priezidienty - Garri Garrison.txt:|8.64362
+Stiertyie miry - Garri Garrison.txt:|9.77103
+Taina Stounkhiedzha - Garri Garrison.txt:|10.44167
+Tol_ko nie ia, nie Eimos Keibot! - Garri Garrison.txt:|13.4469
+Trienirovochnyi poliet - Garri Maksviell Garrison.txt:|10.11966
+Trudnaia rabota - Garri Garrison.txt:|10.43964
+Ty nuzhien stal_noi krysie! - Garri Garrison.txt:|8.08579
+U vodopada - Garri Garrison.txt:|9.35273
+Utsielievshaia planieta - Garri Garrison.txt:|8.93777
+Uvidiet_ zviozdy v Kosmosie - Garri Garrison.txt:|11.47419
+V loghovie L_va - Garri Garrison.txt:|10.49884
 Vietvistoie drievo evoliutsii - Garri Garrison.txt:|9.4
-Voina s robotami - Garri Garrison.txt:|10.681281618887015
-Vozmiezdiie korolievy Viktorii - Garri Garrison.txt:|10.78936170212766
-Vozvrashchieniie k zviezdam - Garri Garrison.txt:|8.894359371971312
-Vragh u porogha - Garri Garrison.txt:|9.975508369846084
-Vriemia dlia miatiezhnika - Garri Garrison.txt:|8.234066876250358
-Vstriechaiushchaia dielieghatsiia - Garri Garrison.txt:|9.245508982035927
-Vy liudi nasiliia - Garri Garrison.txt:|12.165079365079364
-Zaria bieskoniechnoi nochi - Garri Garrison.txt:|8.045540796963946
-Zhiertvoprinoshieniie - Garri Garrison.txt:|8.252390057361376
-Zhizn_ khudozhnika - Garri Garrison.txt:|9.88396624472574
-Znachieniie nabliudatiel_nosti - Garri Garrison.txt:|12.834841628959277
-Znamienityie piervyie slova - Garri Garrison.txt:|15.054794520547945
-Zolotyie ghody Stal_noi Krysy - Garri Garrison.txt:|9.68369351669941
-Zviezdnyie pokhozhdieniia ghalaktichieskikh rieindzhierov - Garri Garrison.txt:|9.86378466557912
-Chieloviek s ukhmylkoi na litsie - Orson Skott Kard.txt:|11.191666666666666
-Dieti Razuma - Orson Skott Kard.txt:|10.9322996287399
-Golos tiekh, kogho niet - Orson Skott Kard.txt:|9.549164467897977
-Govoriashchii ot imieni miertvykh (Golos tiekh, kogho niet) - Orson Skott Kard.txt:|9.60771240652311
-Ighra Endiera - Orson Skott Kard.txt:|8.684379199834591
-Iskuplieniie Khristofora Kolumba - Orson Skott Kard.txt:|12.293857221914775
-Kapitolii - Orson Skott Kard.txt:|9.35337479843354
-Khroniki Vortingha - Orson Skott Kard.txt:|10.74342183593285
-Krasnokozhii prorok - Orson Skott Kard.txt:|11.032224290367612
-Ksienotsid - Orson Skott Kard.txt:|9.732189973614776
-Liudi na kraiu pustyni - Orson Skott Kard.txt:|11.353616532721011
-Na chuzhbinie - Orson Skott Kard _ Dzhiei Parri.txt:|12.542168674698795
-Oko za Oko (Eye for Eye) - Orson Skott Kard.txt:|13.671091445427729
-Podmastier_ie Elvin - Orson Skott Kard.txt:|12.517861180194439
-Sied_moi syn - Orson Skott Kard.txt:|11.08217940999398
-Skazaniia Liesa Vod - Orson Skott Kard.txt:|11.599602911978822
-Smiertnyie boghi - Orson Skott Kard.txt:|10.393822393822393
-Sonata biez soprovozhdieniia - Orson Skott Kard.txt:|11.086486486486486
-Sovietnik po inviestitsiiam - Orson Skott Kard.txt:|13.719467956469165
-Tieatr Tieniei - Orson Skott Kard.txt:|10.30040401407533
-Tien_ Endiera - Orson Skott Kard.txt:|10.403413984809333
-Tien_ Gieghiemona - Orson Skott Kard.txt:|10.590388252308378
-Tysiacha smiertiei - Orson Skott Kard.txt:|9.753271028037384
-Gniev Tiamat - Dzhieims S. A. Kori.txt:|8.93223567832358
-Ighry Niemiezidy - Dzhieims S.A. Kori.txt:|9.101995127411602
-Piepiel Vavilona (LP) - Dzhieims S. A. Kori.txt:|8.66228855721393
-Pozhar Siboly - Dzhieims S. A. Kori.txt:|7.982655654383736
-Probuzhdieniie Lieviafana - Dzhieims Kori.txt:|8.150703154694032
-Voina Kalibana - Dzhieims Kori.txt:|8.742299794661191
-Vosstaniie Piersiepolisa - Dzhieims S. A. Kori.txt:|9.496265450459383
-Vrata Abaddona - Dzhieims Kori.txt:|8.282784338098198
-Adskii oghon_ - Aiziek Azimov.txt:|8.877551020408163
-Akadiemiia - Aiziek Azimov.txt:|8.702283713952326
-Akadiemiia i Impieriia - Aiziek Azimov.txt:|9.228257770173938
-Akadiemiia i Ziemlia - Aiziek Azimov.txt:|9.99351141821859
-Akadiemiia na kraiu ghibieli - Aiziek Azimov.txt:|10.613861386138614
-Alieksandr Bogh - Aiziek Azimov.txt:|10.658385093167702
-Batton, Batton - Aiziek Azimov.txt:|7.699410609037328
-Biessmiertnyi bard - Aiziek Azimov.txt:|6.743362831858407
-Bil_iardnyi shar - Aiziek Azimov.txt:|13.01171875
-Blaghoie namierieniie - Aiziek Azimov.txt:|9.469715698393077
-Bratishka - Aiziek Azimov.txt:|8.227146814404431
-Bukva zakona - Aiziek Azimov.txt:|18.25925925925926
-Cchastlivchik Starr (Lucky Starr) - Aiziek Azimov.txt:|8.520306513409961
-Chto eto za shtuka - liubov__ - Aiziek Azimov.txt:|7.111392405063291
+Voina s robotami - Garri Garrison.txt:|10.68128
+Vozmiezdiie korolievy Viktorii - Garri Garrison.txt:|10.78936
+Vozvrashchieniie k zviezdam - Garri Garrison.txt:|8.89436
+Vragh u porogha - Garri Garrison.txt:|9.97551
+Vriemia dlia miatiezhnika - Garri Garrison.txt:|8.23407
+Vstriechaiushchaia dielieghatsiia - Garri Garrison.txt:|9.24551
+Vy liudi nasiliia - Garri Garrison.txt:|12.16508
+Zaria bieskoniechnoi nochi - Garri Garrison.txt:|8.04554
+Zhiertvoprinoshieniie - Garri Garrison.txt:|8.25239
+Zhizn_ khudozhnika - Garri Garrison.txt:|9.88397
+Znachieniie nabliudatiel_nosti - Garri Garrison.txt:|12.83484
+Znamienityie piervyie slova - Garri Garrison.txt:|15.05479
+Zolotyie ghody Stal_noi Krysy - Garri Garrison.txt:|9.68369
+Zviezdnyie pokhozhdieniia ghalaktichieskikh rieindzhierov - Garri Garrison.txt:|9.86378
+Chieloviek s ukhmylkoi na litsie - Orson Skott Kard.txt:|11.19167
+Dieti Razuma - Orson Skott Kard.txt:|10.9323
+Golos tiekh, kogho niet - Orson Skott Kard.txt:|9.54916
+Govoriashchii ot imieni miertvykh (Golos tiekh, kogho niet) - Orson Skott Kard.txt:|9.60771
+Ighra Endiera - Orson Skott Kard.txt:|8.68438
+Iskuplieniie Khristofora Kolumba - Orson Skott Kard.txt:|12.29386
+Kapitolii - Orson Skott Kard.txt:|9.35337
+Khroniki Vortingha - Orson Skott Kard.txt:|10.74342
+Krasnokozhii prorok - Orson Skott Kard.txt:|11.03222
+Ksienotsid - Orson Skott Kard.txt:|9.73219
+Liudi na kraiu pustyni - Orson Skott Kard.txt:|11.35362
+Na chuzhbinie - Orson Skott Kard _ Dzhiei Parri.txt:|12.54217
+Oko za Oko (Eye for Eye) - Orson Skott Kard.txt:|13.67109
+Podmastier_ie Elvin - Orson Skott Kard.txt:|12.51786
+Sied_moi syn - Orson Skott Kard.txt:|11.08218
+Skazaniia Liesa Vod - Orson Skott Kard.txt:|11.5996
+Smiertnyie boghi - Orson Skott Kard.txt:|10.39382
+Sonata biez soprovozhdieniia - Orson Skott Kard.txt:|11.08649
+Sovietnik po inviestitsiiam - Orson Skott Kard.txt:|13.71947
+Tieatr Tieniei - Orson Skott Kard.txt:|10.3004
+Tien_ Endiera - Orson Skott Kard.txt:|10.40341
+Tien_ Gieghiemona - Orson Skott Kard.txt:|10.59039
+Tysiacha smiertiei - Orson Skott Kard.txt:|9.75327
+Gniev Tiamat - Dzhieims S. A. Kori.txt:|8.93224
+Ighry Niemiezidy - Dzhieims S.A. Kori.txt:|9.102
+Piepiel Vavilona (LP) - Dzhieims S. A. Kori.txt:|8.66229
+Pozhar Siboly - Dzhieims S. A. Kori.txt:|7.98266
+Probuzhdieniie Lieviafana - Dzhieims Kori.txt:|8.1507
+Voina Kalibana - Dzhieims Kori.txt:|8.7423
+Vosstaniie Piersiepolisa - Dzhieims S. A. Kori.txt:|9.49627
+Vrata Abaddona - Dzhieims Kori.txt:|8.28278
+Adskii oghon_ - Aiziek Azimov.txt:|8.87755
+Akadiemiia - Aiziek Azimov.txt:|8.70228
+Akadiemiia i Impieriia - Aiziek Azimov.txt:|9.22826
+Akadiemiia i Ziemlia - Aiziek Azimov.txt:|9.99351
+Akadiemiia na kraiu ghibieli - Aiziek Azimov.txt:|10.61386
+Alieksandr Bogh - Aiziek Azimov.txt:|10.65839
+Batton, Batton - Aiziek Azimov.txt:|7.69941
+Biessmiertnyi bard - Aiziek Azimov.txt:|6.74336
+Bil_iardnyi shar - Aiziek Azimov.txt:|13.01172
+Blaghoie namierieniie - Aiziek Azimov.txt:|9.46972
+Bratishka - Aiziek Azimov.txt:|8.22715
+Bukva zakona - Aiziek Azimov.txt:|18.25926
+Cchastlivchik Starr (Lucky Starr) - Aiziek Azimov.txt:|8.52031
+Chto eto za shtuka - liubov__ - Aiziek Azimov.txt:|7.11139
 Chto v imieni - Aiziek Azimov.txt:|7.6875
-Chto, iesli_. - Aiziek Azimov.txt:|8.131372549019607
-Chtoby my nie pomnili - Aiziek Azimov.txt:|9.225321888412017
-Chuvstvo sily - Aiziek Azimov.txt:|8.922558922558922
-Devid Starr - kosmichieskii rieindzhier (pier. A.Lievkin) - Aiziek Azimov.txt:|8.523522316043426
-Diedovskii sposob - Aiziek Azimov.txt:|9.207142857142857
-Dien_ okhotnikov - Aiziek Azimov.txt:|8.618055555555555
-Dumaitie! [Dumai!] - Aiziek Azimov.txt:|10.08148148148148
-Dvizhushchaia sila - Aiziek Azimov.txt:|10.289772727272727
-Dvukhsotlietnii chieloviek - Aiziek Azimov.txt:|9.684343434343434
-Evieriest - Aiziek Azimov.txt:|8.117647058823529
-Fantastichieskoie putieshiestviie - Aiziek Azimov.txt:|8.88798436991208
-Garantirovannoie udovol_stviie [Budietie dovol_ny] - Aiziek Azimov.txt:|9.585714285714285
-Glazam dano nie tol_ko vidiet_ - Aiziek Azimov.txt:|9.864661654135338
-Glubina - Aiziek Azimov.txt:|7.811510791366906
-Godovshchina - Aiziek Azimov.txt:|7.128617363344051
-Govoriashchii kamien_ - Aiziek Azimov.txt:|7.520949720670391
-Ia - robot - Aiziek Azimov.txt:|8.161174242424243
-Ia v marsoportie biez Khil_dy - Aiziek Azimov.txt:|8.517241379310345
-Istinnaia liubov_ [Nastoiashchaia liubov_] - Aiziek Azimov.txt:|9.322147651006711
-Kak im bylo viesielo - Aiziek Azimov.txt:|9.655913978494624
-Kak poimat_ krolika - Aiziek Azimov.txt:|7.095354523227384
+Chto, iesli_. - Aiziek Azimov.txt:|8.13137
+Chtoby my nie pomnili - Aiziek Azimov.txt:|9.22532
+Chuvstvo sily - Aiziek Azimov.txt:|8.92256
+Devid Starr - kosmichieskii rieindzhier (pier. A.Lievkin) - Aiziek Azimov.txt:|8.52352
+Diedovskii sposob - Aiziek Azimov.txt:|9.20714
+Dien_ okhotnikov - Aiziek Azimov.txt:|8.61806
+Dumaitie! [Dumai!] - Aiziek Azimov.txt:|10.08148
+Dvizhushchaia sila - Aiziek Azimov.txt:|10.28977
+Dvukhsotlietnii chieloviek - Aiziek Azimov.txt:|9.68434
+Evieriest - Aiziek Azimov.txt:|8.11765
+Fantastichieskoie putieshiestviie - Aiziek Azimov.txt:|8.88798
+Garantirovannoie udovol_stviie [Budietie dovol_ny] - Aiziek Azimov.txt:|9.58571
+Glazam dano nie tol_ko vidiet_ - Aiziek Azimov.txt:|9.86466
+Glubina - Aiziek Azimov.txt:|7.81151
+Godovshchina - Aiziek Azimov.txt:|7.12862
+Govoriashchii kamien_ - Aiziek Azimov.txt:|7.52095
+Ia - robot - Aiziek Azimov.txt:|8.16117
+Ia v marsoportie biez Khil_dy - Aiziek Azimov.txt:|8.51724
+Istinnaia liubov_ [Nastoiashchaia liubov_] - Aiziek Azimov.txt:|9.32215
+Kak im bylo viesielo - Aiziek Azimov.txt:|9.65591
+Kak poimat_ krolika - Aiziek Azimov.txt:|7.09535
 Kak potierialsia robot - Aiziek Azimov.txt:|8.904
-Kak ryby v vodie - Aiziek Azimov.txt:|9.160409556313994
-Kak zhal_! - Aiziek Azimov.txt:|9.934959349593496
-Kakoie dielo pchielie_ - Aiziek Azimov.txt:|9.988023952095809
-Kazhdyi - issliedovatiel_ - Aiziek Azimov.txt:|9.018518518518519
-Kel - Aiziek Azimov.txt:|8.085046728971962
-Khellouin - Aiziek Azimov.txt:|7.798165137614679
-Khomo sol - Aiziek Azimov.txt:|9.867807153965785
-Khorovod - Aiziek Azimov.txt:|8.247920133111482
-Khoziaika - Aiziek Azimov.txt:|9.395621579358874
-Kisieinyie ghrify - Aiziek Azimov.txt:|9.54564315352697
-Kliuch - Aiziek Azimov.txt:|8.205797101449276
-Koghda-nibud_ - Aiziek Azimov.txt:|9.33968253968254
-Koniets viechnosti - Aiziek Azimov.txt:|10.036486486486487
-Kosmichieskiie tiechieniia - Aiziek Azimov.txt:|7.836956521739131
-Kotoryi chas - Aiziek Azimov.txt:|8.307692307692308
-Krai Osnovaniia [Akadiemiia na kraiu ghibieli] - Aiziek Azimov.txt:|10.049090553491101
-Lakki Starr i bol_shoie solntsie Mierkuriia - Aiziek Azimov.txt:|8.464035646085296
-Lakki Starr i kol_tsa Saturna - Aiziek Azimov.txt:|10.48629700446144
-Lakki Starr i luny Iupitiera - Aiziek Azimov.txt:|7.982974622550595
-Lakki Starr i okieany Vieniery - Aiziek Azimov.txt:|8.036434977578475
-Lakki Starr i piraty s astieroidov (pier. A.Anpilov) - Aiziek Azimov.txt:|7.303950471698113
-Lenni - Aiziek Azimov.txt:|10.432941176470589
-Loghika - Aiziek Azimov.txt:|8.022522522522523
-Lovushka dlia prostakov - Aiziek Azimov.txt:|9.190900562851782
-Luchshii drugh mal_chika - Aiziek Azimov.txt:|9.817204301075268
+Kak ryby v vodie - Aiziek Azimov.txt:|9.16041
+Kak zhal_! - Aiziek Azimov.txt:|9.93496
+Kakoie dielo pchielie_ - Aiziek Azimov.txt:|9.98802
+Kazhdyi - issliedovatiel_ - Aiziek Azimov.txt:|9.01852
+Kel - Aiziek Azimov.txt:|8.08505
+Khellouin - Aiziek Azimov.txt:|7.79817
+Khomo sol - Aiziek Azimov.txt:|9.86781
+Khorovod - Aiziek Azimov.txt:|8.24792
+Khoziaika - Aiziek Azimov.txt:|9.39562
+Kisieinyie ghrify - Aiziek Azimov.txt:|9.54564
+Kliuch - Aiziek Azimov.txt:|8.2058
+Koghda-nibud_ - Aiziek Azimov.txt:|9.33968
+Koniets viechnosti - Aiziek Azimov.txt:|10.03649
+Kosmichieskiie tiechieniia - Aiziek Azimov.txt:|7.83696
+Kotoryi chas - Aiziek Azimov.txt:|8.30769
+Krai Osnovaniia [Akadiemiia na kraiu ghibieli] - Aiziek Azimov.txt:|10.04909
+Lakki Starr i bol_shoie solntsie Mierkuriia - Aiziek Azimov.txt:|8.46404
+Lakki Starr i kol_tsa Saturna - Aiziek Azimov.txt:|10.4863
+Lakki Starr i luny Iupitiera - Aiziek Azimov.txt:|7.98297
+Lakki Starr i okieany Vieniery - Aiziek Azimov.txt:|8.03643
+Lakki Starr i piraty s astieroidov (pier. A.Anpilov) - Aiziek Azimov.txt:|7.30395
+Lenni - Aiziek Azimov.txt:|10.43294
+Loghika - Aiziek Azimov.txt:|8.02252
+Lovushka dlia prostakov - Aiziek Azimov.txt:|9.1909
+Luchshii drugh mal_chika - Aiziek Azimov.txt:|9.8172
 Lzhiets - Aiziek Azimov.txt:|7.5
 Mashina - pobieditiel_ - Aiziek Azimov.txt:|8.5
-Miechty - lichnoie dielo kazhdogho - Aiziek Azimov.txt:|8.500807754442649
-Miechty robotov - Aiziek Azimov.txt:|11.737967914438503
-Miesto, ghdie mnogho vody - Aiziek Azimov.txt:|9.616352201257861
-Miortvoie proshloie - Aiziek Azimov.txt:|10.037699680511182
-Mnimyie vielichiny - Aiziek Azimov.txt:|10.62624254473161
-Moi syn - fizik - Aiziek Azimov.txt:|7.198581560283688
-Molodost_ - Aiziek Azimov.txt:|6.867052023121388
-Mukhi - Aiziek Azimov.txt:|8.398601398601398
-Na puti k Akadiemii - Aiziek Azimov.txt:|9.657540476623613
-Na puti k Osnovaniiu [Na puti k Akadiemii] - Aiziek Azimov.txt:|9.50205320478486
-Nashli! - Aiziek Azimov.txt:|10.484375
-Niekrologh - Aiziek Azimov.txt:|9.075320512820513
-Niemiezida (pier. Iu.Sokolov) - Aiziek Azimov.txt:|8.99807410124725
-Nieobkhodimoie usloviie - Aiziek Azimov.txt:|7.645833333333333
-Nieozhidannaia pobieda - Aiziek Azimov.txt:|10.684027777777779
-Noch_, kotoraia umiraiet - Aiziek Azimov.txt:|10.42361863488624
+Miechty - lichnoie dielo kazhdogho - Aiziek Azimov.txt:|8.50081
+Miechty robotov - Aiziek Azimov.txt:|11.73797
+Miesto, ghdie mnogho vody - Aiziek Azimov.txt:|9.61635
+Miortvoie proshloie - Aiziek Azimov.txt:|10.0377
+Mnimyie vielichiny - Aiziek Azimov.txt:|10.62624
+Moi syn - fizik - Aiziek Azimov.txt:|7.19858
+Molodost_ - Aiziek Azimov.txt:|6.86705
+Mukhi - Aiziek Azimov.txt:|8.3986
+Na puti k Akadiemii - Aiziek Azimov.txt:|9.65754
+Na puti k Osnovaniiu [Na puti k Akadiemii] - Aiziek Azimov.txt:|9.50205
+Nashli! - Aiziek Azimov.txt:|10.48438
+Niekrologh - Aiziek Azimov.txt:|9.07532
+Niemiezida (pier. Iu.Sokolov) - Aiziek Azimov.txt:|8.99807
+Nieobkhodimoie usloviie - Aiziek Azimov.txt:|7.64583
+Nieozhidannaia pobieda - Aiziek Azimov.txt:|10.68403
+Noch_, kotoraia umiraiet - Aiziek Azimov.txt:|10.42362
 Novaia ighrushka - Aiziek Azimov.txt:|9.43
-Obnazhiennoie solntsie (pier. N.Vilienskaia) - Aiziek Azimov.txt:|8.681581160639192
-Obnazhiennoie solntsie - Aiziek Azimov.txt:|9.004077669902912
-On priblizhaietsia! - Aiziek Azimov.txt:|10.932692307692308
-Oni nie prilietiat - Aiziek Azimov.txt:|8.341463414634147
-Oskolok Vsieliennoi [Pieschinka v niebie] - Aiziek Azimov.txt:|9.288758657432073
-Osnovaniie i Impieriia [Akadiemiia i Impieriia] - Aiziek Azimov.txt:|8.670607287449393
-Osnovaniie i Ziemlia - Aiziek Azimov.txt:|9.988279841327083
-Osnovaniie [Akadiemiia] - Aiziek Azimov.txt:|9.98804780876494
-Ostriak - Aiziek Azimov.txt:|8.343815513626835
-Pamiati ottsa - Aiziek Azimov.txt:|11.429530201342281
-Pashtiet iz ghusinoi piechienki - Aiziek Azimov.txt:|10.549098196392785
-Pauza - Aiziek Azimov.txt:|6.1830443159922925
-Pierst obiez_iany - Aiziek Azimov.txt:|8.199453551912569
+Obnazhiennoie solntsie (pier. N.Vilienskaia) - Aiziek Azimov.txt:|8.68158
+Obnazhiennoie solntsie - Aiziek Azimov.txt:|9.00408
+On priblizhaietsia! - Aiziek Azimov.txt:|10.93269
+Oni nie prilietiat - Aiziek Azimov.txt:|8.34146
+Oskolok Vsieliennoi [Pieschinka v niebie] - Aiziek Azimov.txt:|9.28876
+Osnovaniie i Impieriia [Akadiemiia i Impieriia] - Aiziek Azimov.txt:|8.67061
+Osnovaniie i Ziemlia - Aiziek Azimov.txt:|9.98828
+Osnovaniie [Akadiemiia] - Aiziek Azimov.txt:|9.98805
+Ostriak - Aiziek Azimov.txt:|8.34382
+Pamiati ottsa - Aiziek Azimov.txt:|11.42953
+Pashtiet iz ghusinoi piechienki - Aiziek Azimov.txt:|10.5491
+Pauza - Aiziek Azimov.txt:|6.18304
+Pierst obiez_iany - Aiziek Azimov.txt:|8.19945
 Piervyi Zakon - Aiziek Azimov.txt:|11.7
-Pishitie moie imia chieriez bukvu _S_ - Aiziek Azimov.txt:|9.169201520912548
-Poiushchii kolokol_chik - Aiziek Azimov.txt:|11.046153846153846
-Pokupaiem Iupitier - Aiziek Azimov.txt:|13.225806451612904
-Posliednii otviet - Aiziek Azimov.txt:|9.101449275362318
-Posliednii vopros [Posliedniaia probliema] - Aiziek Azimov.txt:|10.35904255319149
-Postoiannaia dolzhnost_ - Aiziek Azimov.txt:|9.58162962962963
-Prieliudiia k Akadiemii - Aiziek Azimov.txt:|9.346943929954538
-Prieliudiia k Osnovaniiu [Prieliudiia k Akadiemii] - Aiziek Azimov.txt:|8.457088421234953
-Prikol - Aiziek Azimov.txt:|8.58918918918919
+Pishitie moie imia chieriez bukvu _S_ - Aiziek Azimov.txt:|9.1692
+Poiushchii kolokol_chik - Aiziek Azimov.txt:|11.04615
+Pokupaiem Iupitier - Aiziek Azimov.txt:|13.22581
+Posliednii otviet - Aiziek Azimov.txt:|9.10145
+Posliednii vopros [Posliedniaia probliema] - Aiziek Azimov.txt:|10.35904
+Postoiannaia dolzhnost_ - Aiziek Azimov.txt:|9.58163
+Prieliudiia k Akadiemii - Aiziek Azimov.txt:|9.34694
+Prieliudiia k Osnovaniiu [Prieliudiia k Akadiemii] - Aiziek Azimov.txt:|8.45709
+Prikol - Aiziek Azimov.txt:|8.58919
 Profiessiia - Aiziek Azimov.txt:|9.35625
-Pustiak - Aiziek Azimov.txt:|7.504504504504505
-Put_ marsian - Aiziek Azimov.txt:|8.82413350449294
-Rab korriektury - Aiziek Azimov.txt:|10.354679802955665
-Razrieshimoie protivoriechiie - Aiziek Azimov.txt:|10.954478707782673
-Risk (pier. M.Nakhmanson) - Aiziek Azimov.txt:|7.883747178329571
-Robbi - Aiziek Azimov.txt:|9.302469135802468
-Robot EL-76 popadaiet nie tuda - Aiziek Azimov.txt:|10.63129973474801
-Robot, kotoryi vidiel sny [Sny robotov] - Aiziek Azimov.txt:|8.738461538461538
+Pustiak - Aiziek Azimov.txt:|7.5045
+Put_ marsian - Aiziek Azimov.txt:|8.82413
+Rab korriektury - Aiziek Azimov.txt:|10.35468
+Razrieshimoie protivoriechiie - Aiziek Azimov.txt:|10.95448
+Risk (pier. M.Nakhmanson) - Aiziek Azimov.txt:|7.88375
+Robbi - Aiziek Azimov.txt:|9.30247
+Robot EL-76 popadaiet nie tuda - Aiziek Azimov.txt:|10.6313
+Robot, kotoryi vidiel sny [Sny robotov] - Aiziek Azimov.txt:|8.73846
 Roboty i impieriia - Aiziek Azimov.txt:|9.9
-Roboty utrienniei zari - Aiziek Azimov.txt:|9.60809810762237
-Rozhdiestvo biez Rodni - Aiziek Azimov.txt:|12.441624365482234
-S-shliuz - Aiziek Azimov.txt:|10.307820299500833
-Salli - Aiziek Azimov.txt:|8.94435612082671
-Shtrieikbriekhier - Aiziek Azimov.txt:|8.300198807157058
-Siekrietnaia missiia - Aiziek Azimov.txt:|12.08352144469526
-Sierdobol_nyie stierviatniki - Aiziek Azimov.txt:|10.340122199592669
-Sila privychki - Aiziek Azimov.txt:|9.237237237237236
-Sobieriemsia vmiestie [Davaitie obiedinimsia] - Aiziek Azimov.txt:|8.395209580838323
-Sovriemiennyi volshiebnik - Aiziek Azimov.txt:|9.771929824561404
-Stal_nyie pieshchiery - Aiziek Azimov.txt:|8.613495985176035
-Storonnik sieghrieghatsii - Aiziek Azimov.txt:|8.039800995024876
-Strannik v raiu - Aiziek Azimov.txt:|11.032552083333334
-Svietovirshi - Aiziek Azimov.txt:|12.11111111111111
-Takoi priekrasnyi dien_ - Aiziek Azimov.txt:|10.417981072555206
-Tiotimolin i kosmichieskii viek - Aiziek Azimov.txt:|17.302816901408452
-Tochka zrieniia - Aiziek Azimov.txt:|11.035714285714286
-Tri Zakona robotiekhniki - Aiziek Azimov.txt:|8.98706367793019
-Tri-chietyrie - Aiziek Azimov.txt:|11.89873417721519
-Trinadtsatyi dien_ rozhdiestva - Aiziek Azimov.txt:|11.144444444444444
-Tsiena riska [Risk] - Aiziek Azimov.txt:|8.678304239401497
-Tupik - Aiziek Azimov.txt:|9.346629986244842
-Ubiistvo v Ei-Bi-Ei - Aiziek Azimov.txt:|8.983769161406673
-Uliki - Aiziek Azimov.txt:|9.090185676392572
-Urodlivyi mal_chughan [Biezobraznyi malysh] - Aiziek Azimov.txt:|11.699435938759065
-V chietviertom pokolienii - Aiziek Azimov.txt:|9.451127819548873
-V lieto 2430 ot R. X. - Aiziek Azimov.txt:|11.097222222222221
-V plienu u Viesty - Aiziek Azimov.txt:|10.216374269005849
-Viera - Aiziek Azimov.txt:|8.815811606391925
-Voz_mitie spichku - Aiziek Azimov.txt:|8.962476547842401
-Vsie ghriekhi mira - Aiziek Azimov.txt:|10.252587991718427
-Vtoraia Akadiemiia - Aiziek Azimov.txt:|10.194790486976217
-Vtoroi Fond [Vtoraia Akadiemiia] - Aiziek Azimov.txt:|8.61124651810585
-Vybory [Naznachaiet Mul_tivak] - Aiziek Azimov.txt:|9.80561122244489
-Vykhod iz polozhieniia - Aiziek Azimov.txt:|8.150310559006211
-Vyviedieniie Chielovieka - Aiziek Azimov.txt:|8.92972972972973
-Zaminka na prazdnovanii Triekhsotlietiia - Aiziek Azimov.txt:|10.383908045977012
-Zatieriannyie u Viesty - Aiziek Azimov.txt:|10.274436090225564
-Zdies_ niet nikogho, kromie - Aiziek Azimov.txt:|10.55524861878453
-Zhienskaia intuitsiia - Aiziek Azimov.txt:|10.413589364844904
-Zielienyie piatna - Aiziek Azimov.txt:|9.282242990654206
-Zierkal_noie otrazhieniie - Aiziek Azimov.txt:|9.950354609929079
-Zviezdy kak pyl_ - Aiziek Azimov.txt:|7.783374832407585
-_.Vstav_tie shplint A v ghniezdo B_. - Aiziek Azimov.txt:|15.694444444444445
-___.Iako pomnishi iegho__ - Aiziek Azimov.txt:|10.348909657320872
-451 ghradus po Farienghieitu - Rei Dughlas Bredbieri.txt:|9.18348623853211
-Dalieko za polnoch_ - Rei Dughlas Bredbieri.txt:|9.305386044043512
-Davaitie vsie ub_iom Konstantsiiu - Rei Dughlas Bredbieri.txt:|6.33049504950495
-I kamni zaghovorili - Rei Bredbieri.txt:|8.074245939675174
-I vriemieni pobiegh - Rei Bredbieri.txt:|6.761904761904762
-Iz prakha vosstavshiie - Rei Dughlas Bredbieri.txt:|10.494157441574416
-Kanun vsiekh sviatykh - Rei Dughlas Bredbieri.txt:|8.457280832095096
-Kladbische dlya bezumtcev - Rei Dughlas Bredbieri.txt:|8.08715336728919
-Konviektor Toinbi - Rei Dughlas Bredbieri.txt:|8.600892857142858
-Koshkina pizhama - Rei Dughlas Bredbieri.txt:|8.711881386495692
-Krichashchaia zhienshchina - Rei Bredbieri.txt:|6.211240310077519
-Lieto, proshchai - Rei Dughlas Bredbieri.txt:|7.805172413793104
-Malchik nevidimka - Rei Dughlas Bredbieri.txt:|8.99074074074074
-Marsianskiie khroniki - Rei Dughlas Bredbieri.txt:|7.860172004744959
-Miekhanizmy radosti - Rei Dughlas Bredbieri.txt:|9.09993399339934
-Nadvighaietsia bieda - Rei Briedbieri.txt:|7.948061556673572
-Oghniennyi stolp - Rei Bredbieri.txt:|7.544161676646707
-R -- znachit rakieta - Rei Dughlas Bredbieri.txt:|7.7887579329102445
-Sbornik 12. Na pososhok - Rei Dughlas Bredbieri.txt:|7.7837962962962965
-Sbornik 2 ChIeLOVIeK V KARTINKAKh - Rei Dughlas Bredbieri.txt:|7.7255465334166145
-Sbornik 4 LIeKARSTVO OT MIeLANKhOLII - Rei Dughlas Bredbieri.txt:|8.721694796061884
-Sbornik 6 ELIeKTRIChIeSKOIe TIeLO POIu! - Rei Dughlas Bredbieri.txt:|9.118228404099561
-Tiemnyi karnaval - Rei Dughlas Bredbieri.txt:|8.788608606323479
-V mghnovieniie oka - Rei Dughlas Bredbieri.txt:|8.446834477498093
-Vino iz oduvanchikov - Rei Dughlas Bredbieri.txt:|10.130853537030887
-Vospominaniie ob ubiistvie - Rei Dughlas Bredbieri.txt:|8.031029810298103
-Vozhdieniie vsliepuiu - Rei Dughlas Bredbieri.txt:|8.412567827761245
-Zielienyie tieni, Bielyi Kit - Rei Dughlas Bredbieri.txt:|8.497898055701524
-Zolotyie iabloki Solntsa - Rei Dughlas Bredbieri.txt:|9.109622841029257
-Bibliotieka XXI vieka (sbornik) - Stanislav Liem.txt:|20.242695130086723
-Bol_nitsa prieobrazhieniia. Vysokii zamok. Rasskazy - Stanislav Liem.txt:|11.67082138850804
-Futurologhichieskii konghriess. Osmotr na miestie. Mir na ziemlie - Stanislav Liem.txt:|13.301883982426093
-Maghiellanovo Oblako. Chieloviek s Marsa. Astronavty - Stanislav Liem.txt:|12.289877904686884
-Prikliuchieniia Iiona Tikhogho - Stanislav Liem.txt:|10.542576347206648
-Rasskazy o pilotie Pirksie. Fiasko - Stanislav Liem.txt:|12.716990440949738
-Rassliedovaniie. Rukopis_, naidiennaia v vannie. Nasmork - Stanislav Liem.txt:|10.542976790403861
-Skazki robotov. Kibieriada - Stanislav Liem.txt:|15.093868061609998
-Soliaris. Ediem. Niepobiedimyi - Stanislav Liem.txt:|10.118675429081861
-Vozvrashchieniie so zviezd. Glas Gospoda. Poviesti - Stanislav Liem.txt:|12.216626028649802
-Britva Darvina - Den Simmons.txt:|10.911464670098269
-Chiernyie kholmy - Den Simmons.txt:|17.46222368855163
-Chto takoie kibierpankovskoie dvizhieniie - Den Simmons.txt:|15.874074074074073
-Dieti Nochi - Den Simmons.txt:|10.823153273525483
-Drud, ili Chieloviek v chiernom - Den Simmons.txt:|14.633301677746122
-Dvulikii diemon Mara. Smiert_ v liubvi - Den Simmons.txt:|13.243862742438628
-Endimion - Den Simmons.txt:|10.217797910425952
-Fazy ghravitatsii - Den Simmons.txt:|9.046618705035971
-Fleshbek - Den Simmons.txt:|11.50057910586055
-Fotoghrafiia klassa za etot ghod - Den Simmons.txt:|14.49544626593807
-Gipierion - Den Simmons.txt:|10.323771371342728
-Ilion - Den Simmons.txt:|9.959897297958186
-Kolokol po Khemu - Den Simmons.txt:|11.784145477446273
-Kostry Ediema - Den Simmons.txt:|9.183088829848677
-Kruchie niekuda - Den Simmons.txt:|9.008277650344072
-Lieto nochi - Den Simmons.txt:|12.078338169022778
-Liutaia zima [Otmorozhiennyi] - Den Simmons.txt:|11.30420908676493
-Mierzost_ - Den Simmons.txt:|14.519543258673693
-Molitvy razbitomu kamniu - Den Simmons.txt:|10.033224191063175
-Nieghlubokaia moghila - Den Simmons.txt:|10.10266393442623
-Olimp - Den Simmons.txt:|11.918467737715213
-Padieniie Gipieriona - Den Simmons.txt:|10.613945821986528
-Piatoie sierdtsie - Den Simmons.txt:|12.785583485933078
-Piesn_ Kali - Den Simmons.txt:|10.303450309643173
-Polyi chieloviek - Den Simmons.txt:|12.569219705142036
-Siroty Spirali - Den Simmons.txt:|11.740327380952381
-Tiemnaia ighra smierti. Tom 1 - Den Simmons.txt:|11.492772977219166
-Tiemnaia ighra smierti. Tom 2 - Den Simmons.txt:|10.745928338762216
-Tierror - Den Simmons.txt:|16.039111747851003
-V poiskakh Kielli Dieil - Den Simmons.txt:|14.896818572656922
-Voskhod Endimiona - Den Simmons.txt:|11.162843370695162
-Voskhozhdieniie - Den Simmons.txt:|12.817748091603054
-Zimniie prizraki - Den Simmons.txt:|12.015218676122931
-Biednyie zlyie liudi - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.807339449541285
-Bielyi konus Alaida - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.209650582362729
-Biez oruzhiia - Arkadii Strughatskii _ Boris Strughatskii.txt:|5.00982800982801
-Blaghoustroiennaia planieta - Arkadii i Boris Strughatskiie.txt:|7.2174887892376685
-Chastnyie priedpolozhieniia - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.507792207792208
-ChIeLOVIeK IZ PASIFIDY - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.748982360922659
+Roboty utrienniei zari - Aiziek Azimov.txt:|9.6081
+Rozhdiestvo biez Rodni - Aiziek Azimov.txt:|12.44162
+S-shliuz - Aiziek Azimov.txt:|10.30782
+Salli - Aiziek Azimov.txt:|8.94436
+Shtrieikbriekhier - Aiziek Azimov.txt:|8.3002
+Siekrietnaia missiia - Aiziek Azimov.txt:|12.08352
+Sierdobol_nyie stierviatniki - Aiziek Azimov.txt:|10.34012
+Sila privychki - Aiziek Azimov.txt:|9.23724
+Sobieriemsia vmiestie [Davaitie obiedinimsia] - Aiziek Azimov.txt:|8.39521
+Sovriemiennyi volshiebnik - Aiziek Azimov.txt:|9.77193
+Stal_nyie pieshchiery - Aiziek Azimov.txt:|8.6135
+Storonnik sieghrieghatsii - Aiziek Azimov.txt:|8.0398
+Strannik v raiu - Aiziek Azimov.txt:|11.03255
+Svietovirshi - Aiziek Azimov.txt:|12.11111
+Takoi priekrasnyi dien_ - Aiziek Azimov.txt:|10.41798
+Tiotimolin i kosmichieskii viek - Aiziek Azimov.txt:|17.30282
+Tochka zrieniia - Aiziek Azimov.txt:|11.03571
+Tri Zakona robotiekhniki - Aiziek Azimov.txt:|8.98706
+Tri-chietyrie - Aiziek Azimov.txt:|11.89873
+Trinadtsatyi dien_ rozhdiestva - Aiziek Azimov.txt:|11.14444
+Tsiena riska [Risk] - Aiziek Azimov.txt:|8.6783
+Tupik - Aiziek Azimov.txt:|9.34663
+Ubiistvo v Ei-Bi-Ei - Aiziek Azimov.txt:|8.98377
+Uliki - Aiziek Azimov.txt:|9.09019
+Urodlivyi mal_chughan [Biezobraznyi malysh] - Aiziek Azimov.txt:|11.69944
+V chietviertom pokolienii - Aiziek Azimov.txt:|9.45113
+V lieto 2430 ot R. X. - Aiziek Azimov.txt:|11.09722
+V plienu u Viesty - Aiziek Azimov.txt:|10.21637
+Viera - Aiziek Azimov.txt:|8.81581
+Voz_mitie spichku - Aiziek Azimov.txt:|8.96248
+Vsie ghriekhi mira - Aiziek Azimov.txt:|10.25259
+Vtoraia Akadiemiia - Aiziek Azimov.txt:|10.19479
+Vtoroi Fond [Vtoraia Akadiemiia] - Aiziek Azimov.txt:|8.61125
+Vybory [Naznachaiet Mul_tivak] - Aiziek Azimov.txt:|9.80561
+Vykhod iz polozhieniia - Aiziek Azimov.txt:|8.15031
+Vyviedieniie Chielovieka - Aiziek Azimov.txt:|8.92973
+Zaminka na prazdnovanii Triekhsotlietiia - Aiziek Azimov.txt:|10.38391
+Zatieriannyie u Viesty - Aiziek Azimov.txt:|10.27444
+Zdies_ niet nikogho, kromie - Aiziek Azimov.txt:|10.55525
+Zhienskaia intuitsiia - Aiziek Azimov.txt:|10.41359
+Zielienyie piatna - Aiziek Azimov.txt:|9.28224
+Zierkal_noie otrazhieniie - Aiziek Azimov.txt:|9.95035
+Zviezdy kak pyl_ - Aiziek Azimov.txt:|7.78337
+_.Vstav_tie shplint A v ghniezdo B_. - Aiziek Azimov.txt:|15.69444
+___.Iako pomnishi iegho__ - Aiziek Azimov.txt:|10.34891
+451 ghradus po Farienghieitu - Rei Dughlas Bredbieri.txt:|9.18349
+Dalieko za polnoch_ - Rei Dughlas Bredbieri.txt:|9.30539
+Davaitie vsie ub_iom Konstantsiiu - Rei Dughlas Bredbieri.txt:|6.3305
+I kamni zaghovorili - Rei Bredbieri.txt:|8.07425
+I vriemieni pobiegh - Rei Bredbieri.txt:|6.7619
+Iz prakha vosstavshiie - Rei Dughlas Bredbieri.txt:|10.49416
+Kanun vsiekh sviatykh - Rei Dughlas Bredbieri.txt:|8.45728
+Kladbische dlya bezumtcev - Rei Dughlas Bredbieri.txt:|8.08715
+Konviektor Toinbi - Rei Dughlas Bredbieri.txt:|8.60089
+Koshkina pizhama - Rei Dughlas Bredbieri.txt:|8.71188
+Krichashchaia zhienshchina - Rei Bredbieri.txt:|6.21124
+Lieto, proshchai - Rei Dughlas Bredbieri.txt:|7.80517
+Malchik nevidimka - Rei Dughlas Bredbieri.txt:|8.99074
+Marsianskiie khroniki - Rei Dughlas Bredbieri.txt:|7.86017
+Miekhanizmy radosti - Rei Dughlas Bredbieri.txt:|9.09993
+Nadvighaietsia bieda - Rei Briedbieri.txt:|7.94806
+Oghniennyi stolp - Rei Bredbieri.txt:|7.54416
+R -- znachit rakieta - Rei Dughlas Bredbieri.txt:|7.78876
+Sbornik 12. Na pososhok - Rei Dughlas Bredbieri.txt:|7.7838
+Sbornik 2 ChIeLOVIeK V KARTINKAKh - Rei Dughlas Bredbieri.txt:|7.72555
+Sbornik 4 LIeKARSTVO OT MIeLANKhOLII - Rei Dughlas Bredbieri.txt:|8.72169
+Sbornik 6 ELIeKTRIChIeSKOIe TIeLO POIu! - Rei Dughlas Bredbieri.txt:|9.11823
+Tiemnyi karnaval - Rei Dughlas Bredbieri.txt:|8.78861
+V mghnovieniie oka - Rei Dughlas Bredbieri.txt:|8.44683
+Vino iz oduvanchikov - Rei Dughlas Bredbieri.txt:|10.13085
+Vospominaniie ob ubiistvie - Rei Dughlas Bredbieri.txt:|8.03103
+Vozhdieniie vsliepuiu - Rei Dughlas Bredbieri.txt:|8.41257
+Zielienyie tieni, Bielyi Kit - Rei Dughlas Bredbieri.txt:|8.4979
+Zolotyie iabloki Solntsa - Rei Dughlas Bredbieri.txt:|9.10962
+Bibliotieka XXI vieka (sbornik) - Stanislav Liem.txt:|20.2427
+Bol_nitsa prieobrazhieniia. Vysokii zamok. Rasskazy - Stanislav Liem.txt:|11.67082
+Futurologhichieskii konghriess. Osmotr na miestie. Mir na ziemlie - Stanislav Liem.txt:|13.30188
+Maghiellanovo Oblako. Chieloviek s Marsa. Astronavty - Stanislav Liem.txt:|12.28988
+Prikliuchieniia Iiona Tikhogho - Stanislav Liem.txt:|10.54258
+Rasskazy o pilotie Pirksie. Fiasko - Stanislav Liem.txt:|12.71699
+Rassliedovaniie. Rukopis_, naidiennaia v vannie. Nasmork - Stanislav Liem.txt:|10.54298
+Skazki robotov. Kibieriada - Stanislav Liem.txt:|15.09387
+Soliaris. Ediem. Niepobiedimyi - Stanislav Liem.txt:|10.11868
+Vozvrashchieniie so zviezd. Glas Gospoda. Poviesti - Stanislav Liem.txt:|12.21663
+Britva Darvina - Den Simmons.txt:|10.91146
+Chiernyie kholmy - Den Simmons.txt:|17.46222
+Chto takoie kibierpankovskoie dvizhieniie - Den Simmons.txt:|15.87407
+Dieti Nochi - Den Simmons.txt:|10.82315
+Drud, ili Chieloviek v chiernom - Den Simmons.txt:|14.6333
+Dvulikii diemon Mara. Smiert_ v liubvi - Den Simmons.txt:|13.24386
+Endimion - Den Simmons.txt:|10.2178
+Fazy ghravitatsii - Den Simmons.txt:|9.04662
+Fleshbek - Den Simmons.txt:|11.50058
+Fotoghrafiia klassa za etot ghod - Den Simmons.txt:|14.49545
+Gipierion - Den Simmons.txt:|10.32377
+Ilion - Den Simmons.txt:|9.9599
+Kolokol po Khemu - Den Simmons.txt:|11.78415
+Kostry Ediema - Den Simmons.txt:|9.18309
+Kruchie niekuda - Den Simmons.txt:|9.00828
+Lieto nochi - Den Simmons.txt:|12.07834
+Liutaia zima [Otmorozhiennyi] - Den Simmons.txt:|11.30421
+Mierzost_ - Den Simmons.txt:|14.51954
+Molitvy razbitomu kamniu - Den Simmons.txt:|10.03322
+Nieghlubokaia moghila - Den Simmons.txt:|10.10266
+Olimp - Den Simmons.txt:|11.91847
+Padieniie Gipieriona - Den Simmons.txt:|10.61395
+Piatoie sierdtsie - Den Simmons.txt:|12.78558
+Piesn_ Kali - Den Simmons.txt:|10.30345
+Polyi chieloviek - Den Simmons.txt:|12.56922
+Siroty Spirali - Den Simmons.txt:|11.74033
+Tiemnaia ighra smierti. Tom 1 - Den Simmons.txt:|11.49277
+Tiemnaia ighra smierti. Tom 2 - Den Simmons.txt:|10.74593
+Tierror - Den Simmons.txt:|16.03911
+V poiskakh Kielli Dieil - Den Simmons.txt:|14.89682
+Voskhod Endimiona - Den Simmons.txt:|11.16284
+Voskhozhdieniie - Den Simmons.txt:|12.81775
+Zimniie prizraki - Den Simmons.txt:|12.01522
+Biednyie zlyie liudi - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.80734
+Bielyi konus Alaida - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.20965
+Biez oruzhiia - Arkadii Strughatskii _ Boris Strughatskii.txt:|5.00983
+Blaghoustroiennaia planieta - Arkadii i Boris Strughatskiie.txt:|7.21749
+Chastnyie priedpolozhieniia - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.50779
+ChIeLOVIeK IZ PASIFIDY - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.74898
 Chriezvychainoie proisshiestviie - Arkadii Strughatskii _ Boris Strughatskii.txt:|6.795
-Daliokaia Radugha - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.785607569721115
-Dielo ob ubiistvie, ili Otiel_ __U poghibshi - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.557084607543324
-Dni Krakiena - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.009779304876437
-Dni zatmieniia - Paviel Kadochnikov _ Arkadii Strughatskii _ Boris Strughatskii.txt:|8.496212121212121
-Dolzhien zhit_ - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.173883161512028
-Ekspieditsiia v prieispodniuiu - Arkadii NatStrughatskii _ Boris Natanovich Strughatskii.txt:|11.483980776932318
-Gadkiie liebiedi - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.237308146399055
-Glubokii poisk - Arkadii Strughatskii _ Boris Strughatskii.txt:|6.9311475409836065
-God tridtsat_ sied_moi - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.156398104265403
-Grad obriechiennyi - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.7333457734652
-Ispytaniie __SKIBR__ - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.54637436762226
-Izvnie - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.496255956432947
-K voprosu o tsiklotatsii - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.437881873727088
-Khishchnyie vieshchi vieka - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.663245914101102
-Khromaia sud_ba - Arkadii i Boris Strughatskiie.txt:|10.950306252166879
-Malysh - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.521245774987928
-Mir inoi - Grighorii Nikitich Griebniev _ Arkadii Natanovich Strughatskii.txt:|11.096986817325801
-Mobi Dik - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.38034188034188
-O stranstvuiushchikh i putieshiestvuiushchik - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.734513274336283
-Obitaiemyi ostrov (Vosstanovliennyi polnyi trughatskii _ Boris Natanovich Strughatskii.txt:|11.812508042722945
-Otiaghoshchiennyie zlom, ili Sorok liet spustia - Arkadii i Boris Strughatskiie.txt:|11.692972972972973
-Parien_ iz prieispodniei - Arkadii i Boris Strughatskiie.txt:|9.072197593413552
-Piat_ lozhiek eliksira - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.798056904927134
-Piervyie liudi na piervom plotu - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.697916666666666
-Pieschanaia ghoriachka - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.721611721611722
-Piknik na obochinie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:|10.029509651652985
-Pochti takiie zhie - Arkadii Strughatskii _ Boris Strughatskii.txt:|6.7239010989010985
-Poldien_, XXII viek - Arkadii i Boris Strughatskiie.txt:|7.740640640640641
-Poniediel_nik nachinaietsia v subbotu - ArkaStrughatskii _ Boris Natanovich Strughatskii.txt:|9.07343167450154
-Popytka k bieghstvu - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.206959706959707
-Porazhieniie - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.194244604316546
-Poviest_ o druzhbie i niedruzhbie - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.315323294951284
-Put_ na Amal_tieiu - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:|7.447916666666667
-Shiest_ spichiek - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.382462686567164
-Skazka o Troikie - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.7269479794597
-Spontannyi rieflieks - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.848896434634975
-Stazhiery - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.534855769230769
-Strana baghrovykh tuch (c illiustr.) - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.020193366784971
-Trudno byt_ boghom - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.25082316482665
-Ulitka na sklonie - Arkadii i Boris Strughatskiie.txt:|10.67759062614427
-V nashie intieriesnoie vriemia - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.597510373443983
-Volny ghasiat vietier - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.846653487715335
-Vozvrashchieniie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:|8.047938274728054
-Vtoroie nashiestviie marsian - Arkadii Strughatskii _ Boris Strughatskii.txt:|13.024276859504132
-Za milliard liet do kontsa svieta - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.381331815594764
-ZABYTYI EKSPIeRIMIeNT - Arkadii Strughatskii _ Boris Strughatskii.txt:|6.896758703481392
-Zhuk v muravieinikie - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.066754791804362
-Bieghushchaia s diemonom - Tierri Bruks.txt:|8.954124682559188
-Chiernyi iedinorogh - Tierri Bruks.txt:|9.593962748876043
-Druid Shannary - Tierri Bruks.txt:|9.256800576472708
-El_fiiskiie kamni Shannary - Tierri Bruks.txt:|9.400456715798216
-Koldovskoie ziel_ie - Tierri Bruks.txt:|9.482985593641331
-Korolieva el_fov Shannary - Tierri Bruks.txt:|9.772843239157138
-Miech Shannary - Tierri Bruks.txt:|15.124343401181878
-Piervyi korol_ Shannary - Tierri Bruks.txt:|10.81158081158081
-Piesn_ Shannary - Tierri Bruks.txt:|9.17818853974122
-Potomki Shannary - Tierri Bruks.txt:|10.181924004323605
-Printsiessa Zaziemiel_ia - Tierri Bruks.txt:|11.821544669880058
-Prodaietsia volshiebnoie korolievstvo - Tierri Bruks.txt:|9.206648356851975
-Shkatulka khitrosplietienii - Tierri Bruks.txt:|9.587670485542827
-Talismany Shannary - Tierri Bruks.txt:|10.808972746331238
-Volshiebnik u vlasti - Tierri Bruks.txt:|9.337567799029403
-Astra. Shustroie schast_ie, ili Okhota na makogho drakona - Anna Sierghieievna Gavrilova.txt:|9.389497002866824
-Biespokoinoie schast_ie, ili Siekriety malien_kogho drakona - Anna Gavrilova.txt:|10.583421570110422
-Blaghoslovitie korolia, ili Kharaktier skvie nie zhienat! - Anna Sierghieievna Gavrilova.txt:|10.25289706884799
-Bol_shaia i ghriaznaia liubov_ - Anna Sierghieievna Gavrilova.txt:|8.12021166455769
-Dusha Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:|8.966148102053516
-Esmi Solniechnyi Vietier - Anna Sierghieievna (SI) Gavrilova.txt:|9.80484836190283
-Ispytaniie Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:|8.726110124333925
-Kanikuly v Ravanshirie, ili Svad_by nie budiet! (SI) - Anna Sierghieievna Gavrilova.txt:|9.925678556202927
-Krov_ na miechakh. Nas rassudiat boghi - Anna Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt:|8.746771273385637
-Masha i Pozitivnyi mir - Anna Sierghieievna Gavrilova.txt:|8.892668549674568
-Masha i Riektor v shokie - Anna Sierghieievna Gavrilova.txt:|9.068360864040661
-Masha i Tiemnyi Vlastielin - Anna Gavrilova.txt:|9.241627808393387
-Okhotniki na diemonov. Kapkan - Anna Sierghieievna Gavrilova.txt:|9.688594232749743
-Ostavaities_ s nami - Anna Sierghieievna Gavrilova.txt:|7.280405405405405
-Pokorieniie Oghnia (litres) - Anna Sierghieievna Gavrilova.txt:|9.6665469348659
-Primanka - Anna Sierghieievna Gavrilova.txt:|9.903555623378605
-Put_ dolgha i liubvi - Anna Gavrilova.txt:|9.545089401399327
-Put_ maghii i sierdtsa - Anna Gavrilova.txt:|8.327770050996754
-Raskolduitie eto niemiedlienno! - Anna Sierghieievna Gavrilova.txt:|10.011406351263771
-Schast_ie vdrugh, ili Istoriia malien_kogho drakona - Anna Gavrilova.txt:|7.973561430793157
-Smiert_ za smiert_. Kara ghroznykh boghov - vich Gavrilov _ Anna Sierghieievna Gavrilova.txt:|8.299602935868126
-Souli. Dievushka iz ghrioz - Anna Sierghieievna Gavrilova.txt:|7.800130279014222
-Souli. V obiatiiakh miechty - Anna Sierghieievna Gavrilova.txt:|7.954858611825193
-Taniets Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:|8.61848880373608
-Tieoriia bol_shogho sboia - Anna Sierghieievna Gavrilova.txt:|8.078897338403042
-Trizna po kniaziu Riuriku. Krov_ za krov_! (a Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt:|8.513788098693759
-Upriamoie schast_ie, ili Vospitaniie malien_kogho drakona - Anna Gavrilova.txt:|9.851521071727603
-Ushi nie troghat_! - Anna Sierghieievna Gavrilova.txt:|7.557415924116126
-Vied_ma na diesiert - Anna Sierghieievna Gavrilova.txt:|9.98649417116861
-Zolotoi kliuchik dlia Nasti - Anna Gavrilova.txt:|8.200411311053985
-Zolotoi kliuchik dlia Nasti. Knigha vtoraia - Anna Gavrilova.txt:|8.444433890577507
-01.God krysy.Vidun_ia - Nieizviestnyi.txt:|9.029161058770748
-02.God Krysy. Putnitsa - Nieizviestnyi.txt:|9.126601547634149
-1-Profiessiia vied_ma - Nieizviestnyi.txt:|9.337518924214088
-2-Vied_ma-khranitiel_nitsa - Nieizviestnyi.txt:|11.344135041892558
-3-Vierkhovnaia Vied_ma - Nieizviestnyi.txt:|12.356845393024466
-Bielorskiie khroniki - Nieizviestnyi.txt:|9.786377406430177
-Akadiemiia chiernogho drakona. Stavka na vied_mu - Natal_ia Sierghieievna Zhil_tsova.txt:|8.798273381294964
-Akadiemiia maghichieskogho prava. Briunietka- Natal_ia Zhil_tsova _ Azaliia Ieriemieieva.txt:|8.996779820206628
-Akadiemiia maghichieskogho prava. Briunietkarghieievna Zhil_tsova _ Azaliia Ieriemieieva.txt:|9.072434607645874
-Antimagh - Natal_ia Zhil_tsova.txt:|8.958040100916213
-Ariia dlia boghov - Natal_ia Sierghieievna Zhil_tsova.txt:|9.105131804710654
-Bielaia fieia - Natal_ia Sierghieievna Zhil_tsova.txt:|8.41460396039604
-Gloriia. Kapkan na chietviertogho - Natal_ia Sierghieievna Zhil_tsova.txt:|8.562703477015237
-Kolodiets Mraka - Natal_ia Zhil_tsova.txt:|8.377392560491153
-Mar_ia Biessmiertnaia - Natal_ia Zhil_tsova.txt:|8.58447959651536
-Nasliednitsa magha smierti - Natal_ia Sierghieievna Zhil_tsova.txt:|8.366374521663992
-Obruchiennyie krov_iu. Vybor - Natal_ia Sierghieievna Zhil_tsova.txt:|9.302299936988028
-Otbor - Natal_ia Sierghieievna Zhil_tsova.txt:|9.939466484268126
-Piat_ sierdiets t_my - Natal_ia Zhil_tsova.txt:|9.004018754186202
-Polunochnyi zamok - Natal_ia Sierghieievna Zhil_tsova.txt:|9.801084474885844
-Sila vied_my - Natal_ia S. Zhil_tsova.txt:|8.953423262916774
-Tri znaka smierti - Natal_ia Zhil_tsova.txt:|8.890271664896039
-Tsikl _Prokliatiie niekromanta_. Tietraloghiia. - Natal_ia Zhil_tsova.txt:|8.326459914219729
-Vied_ma tiemnogho plamieni - Natal_ia Sierghieievna Zhil_tsova.txt:|8.675354022295872
-Alieta - Miliena Zavoichinskaia.txt:|10.013774553753363
-Boievaia praktika knighokhodtsiev - Miliena Valier_ievna Zavoichinskaia.txt:|8.804046982207234
-Dom na pieriekriestkie (Triloghiia) - Miliena Zavoichinskaia.txt:|8.573297021047678
-Irzhina. Priednachiertannogho nie izbiezhat_ - Miliena V. Zavoichinskaia.txt:|9.211554361306325
-Irzhina. Sluchainoie - nie sluchaino - Miliena V. Zavoichinskaia.txt:|8.432528339083293
-Irzhina. Vsio nie tak, kak kazhietsia_. - Miliena V. Zavoichinskaia.txt:|8.080955979595693
-Khroniki knighokhodtsiev - Miliena Zavoichinskaia.txt:|8.92760722839103
-Knighokhodtsy i taina miekhanichieskogho bogha - Miliena Zavoichinskaia.txt:|9.19330900243309
-Knighokhodtsy osobogho naznachieniia - Miliena Zavoichinskaia.txt:|9.49529501525941
-LIeTIT K TIeBIe V NOChI MOI GOLOS - Miliena Zavoichunskaia.txt:|9.178451178451178
-Mistier Smiert_ i choknutaia vied_ma - Miliena Valier_ievna Zavoichinskaia.txt:|8.52424670433145
-Oranzhievyi tsviet radughi - Miliena Zavoichinskaia.txt:|8.911059351276743
-Popalas_, ptichka! - Miliena Valier_ievna Zavoichinskaia.txt:|8.632718014003819
-Primorskaia akadiemiia, ili Ty prosto poka nprivyk - Miliena Valier_ievna Zavoichinskaia.txt:|8.255955450139218
-Sniezhnyie skazki (sbornik) - Miliena V. Zavoichinskaia.txt:|9.053561088592936
-Strashnyie skazki zakrytogho korolievstva - Miliena Valier_ievna Zavoichinskaia.txt:|9.679143626825464
-Trinadtsataia nieviesta - Miliena Zavoichinskaia.txt:|8.589720655015824
-Tsvietnaia muzyka sidkhie - Miliena Valier_ievna Zavoichinskaia.txt:|9.683958151700088
-Vysshaia Shkola Bibliotiekariei. Maghiia knighokhodtsiev - Miliena V. Zavoichinskaia.txt:|8.522507122507122
-01. Желязны Р. - Том 01. Витки. Чёрный трон (Миры Роджера Желязны) - 1995.txt:|10.255960413855151
-02. Желязны Р. - Том 02. Творец снов. Долина Проклятий. Порождения Света и Тьмы (Миры Роджера Желязны) - 1995.txt:|8.779063957361759
-03. Желязны Р. - Том 03. Дорожные знаки. Двери в песке (Миры Роджера Желязны) - 1995.txt:|8.770477137176938
-04. Желязны Р. - Том 04. Остров мёртвых. Умереть в Италбаре (Миры Роджера Желязны) - 1995.txt:|9.778205833791965
-05. Желязны Р. - Том 05. Валет из Страны Теней. Князь Света (Миры Роджера Желязны) - 1995.txt:|10.718571428571428
-06. Желязны Р. - Том 06. Сегодня мы выбираем лица. Господь гнева (Миры Роджера Желязны) - 1995.txt:|9.921916830269499
-07. Желязны Р. - Том 07. Мост из пепла. Глаз кота (Миры Роджера Желязны) - 1995.txt:|9.046437994722956
-08. Желязны Р. - Том 08. Подменённый. Одержимый магией (Миры Роджера Желязны) - 1995.txt:|8.80932392605162
-09. Желязны Р. - Том 09. Дилвиш Проклятый. Очарованная земля (Миры Роджера Желязны) - 1995.txt:|8.962364211786845
-10. Желязны Р. - Том 10. Этот бессмертный. Имя мне легион (Миры Роджера Желязны) - 1995.txt:|9.340592334494774
-11. Желязны Р. - Том 11. Тоскливой октябрьской ночью... Кладбище слонов. Спящий (Миры Роджера Желязны) - 1996.txt:|8.564681956841035
-12. Желязны Р. - Том 12. Вспышка (Миры Роджера Желязны) - 1996.txt:|12.726772418258337
-13. Желязны Р. - Том 13. Двери лица его, пламенники пасти его. Последний защитник Камелота (Миры Роджера Желязны) - 1995.txt:|8.657275288557667
-14. Желязны Р. - Том 14. Вариант единорога. Мороз и пламя (Миры Роджера Желязны) - 1995.txt:|8.524515213621315
-15. Желязны Р. - Том 15. Маска Локи (Миры Роджера Желязны) - 1996.txt:|9.10727920590481
-16. Желязны Р. - Том 16. Принеси мне голову Прекрасного принца (Миры Роджера Желязны) - 1996.txt:|9.949938385705483
-17. Желязны Р. - Том 17. Коль в роли Фауста тебе не преуспеть (Миры Роджера Желязны) - 1996.txt:|11.452170188463734
-18. Желязны Р. - Том 18. Театр одного демона (Миры Роджера Желязны) - 1996.txt:|8.358405415569763
-19. Желязны Р. - Том 19. Тёмное путешествие и др. (Миры Роджера Желязны) - 1996.txt:|9.486983588002264
-20. Желязны Р. - Том 20. Девять принцев Амбера. Ружья  Авалона (Миры Роджера Желязны) - 1996.txt:|9.122916301105457
-21. Желязны Р. - Том 21. Знак единорога. Рука Оберона (Миры Роджера Желязны) - 1996.txt:|10.743635225375627
-22. Желязны Р. - Том 22. Владения Хаоса. Карты Судьбы (Миры Роджера Желязны) - 1996.txt:|9.31291736227045
-23. Желязны Р. - Том 23. Кровь Амбера. Знак Хаоса (Миры Роджера Желязны) - 1996.txt:|8.726499435812864
-24. Желязны Р. - Том 24. Рыцарь Теней. Принц Хаоса (Миры Роджера Желязны) - 1997.txt:|8.098197536905635
-25. Желязны Р. - Том 25. Наглядный путеводитель по замку Амбер. Рассказы (Миры Роджера Желязны) - 1997.txt:|10.229411764705882
-27. Желязны Р. - Том 27. Хрономастер (Миры Роджера Желязны) - 1997.txt:|10.593852908891328
-28.-Желязны-Р.-Том-28.-Дикие-земли.-Рассказы-_Миры-Роджера-Желязны_-1997.txt:|9.5043893129771
-29.-Желязны-Р.-Том-29.-После-победы-_Миры-Роджера-Желязны_-1997.txt:|10.799756295694557
-Gorod illiuzii - Ursula Lie Guin.txt:|13.807795911899857
-Korol_ planiety Zima - Ursula Lie Guin.txt:|11.262548756314342
-Lieghiendy Zapadnogho pobieriezh_ia - Ursula Lie Guin.txt:|14.800969118391553
-Orsiniia - Ursula Lie Guin.txt:|12.639630455559095
-Porogh - Ursula Lie Guin.txt:|12.695039547430726
-Prozrieniie - Ursula Lie Guin.txt:|15.449890919007363
-Rokannon - Ursula Lie Guin.txt:|11.9168019744106
-Roza vietrov - Ursula Lie Guin.txt:|11.95960356291557
-Skazaniia Ziemnomor_ia - Ursula Lie Guin.txt:|14.222238350994338
-Tolkovatieli - Ursula Lie Guin.txt:|12.340483026515791
-Volshiebnik Ziemnomor_ia. Grobnitsy Atuana. ierieghu. Tiekhanu_ Romany - Ursula Lie Guin.txt:|13.259129937034917
-Vsieghda vozvrashchaias_ domoi - Ursula Lie Guin.txt:|16.087408312958434
-Kon_ i iegho mal_chik - Klaiv Stieiplz L_iuis.txt:|9.25027442371021
-Liev, Koldun_ia i platianoi shkaf - Klaiv Stieiplz L_iuis.txt:|10.525453898184407
-Pliemiannik charodieia - Klaiv Stieiplz L_iuis.txt:|8.886653771760155
-Posliedniaia bitva - Klaiv Stieiplz L_iuis.txt:|9.779935275080906
-Prints Kaspian - Klaiv Stieiplz L_iuis.txt:|10.580902671169788
-Sieriebrianoie krieslo - Klaiv Stieiplz L_iuis.txt:|9.016705744431418
-__Pokoritiel_ Zari__, ili Plavaniie na krai svieta - Klaiv Stieiplz L_iuis.txt:|10.359106010268802
-Akadiemichieskii ekzortsizm v otdiel_no vziatom Univiersitietie - Tierri Pratchiett.txt:|9.945454545454545
-Bats! - Tierri Pratchiett.txt:|8.630627306273063
-Biezumnaia zviezda - Tierri Pratchiett.txt:|9.217573924731182
-Blaghiie znamieniia - Tierri Pratchiett _ Nil Gieiman.txt:|9.260332212774372
-Carpe Jugulum. Khvatai za ghorlo! - Tierri Pratchiett.txt:|8.188814577881168
-Damy i Gospoda - Terry David John Pratchett.txt:|7.977383217078842
-Dielai dien_ghi! - Tierri Pratchiett.txt:|8.718089642755615
-Dielo tabak - Tierri Pratchiett.txt:|11.78081551583129
-Dierzhi marku! - Tierri Pratchiett.txt:|8.524218051831992
-Dvizhushchiiesia kartinki - Tierri Pratchiett.txt:|8.177257207890744
-Dzhonni i bomba - Tierri Pratchiett.txt:|7.327586206896552
-Dzhonni i miertvietsy - Tierri Pratchiett.txt:|6.839840283939663
-Erik, a takzhie Nochnaia Strazha, vied_my i Koen-Varvar - Tierri Pratchiett.txt:|8.815416587946345
-Fint - Tierri Pratchiett.txt:|16.817089201877934
+Daliokaia Radugha - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.78561
+Dielo ob ubiistvie, ili Otiel_ __U poghibshi - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.55708
+Dni Krakiena - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.00978
+Dni zatmieniia - Paviel Kadochnikov _ Arkadii Strughatskii _ Boris Strughatskii.txt:|8.49621
+Dolzhien zhit_ - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.17388
+Ekspieditsiia v prieispodniuiu - Arkadii NatStrughatskii _ Boris Natanovich Strughatskii.txt:|11.48398
+Gadkiie liebiedi - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.23731
+Glubokii poisk - Arkadii Strughatskii _ Boris Strughatskii.txt:|6.93115
+God tridtsat_ sied_moi - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.1564
+Grad obriechiennyi - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.73335
+Ispytaniie __SKIBR__ - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.54637
+Izvnie - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.49626
+K voprosu o tsiklotatsii - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.43788
+Khishchnyie vieshchi vieka - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.66325
+Khromaia sud_ba - Arkadii i Boris Strughatskiie.txt:|10.95031
+Malysh - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.52125
+Mir inoi - Grighorii Nikitich Griebniev _ Arkadii Natanovich Strughatskii.txt:|11.09699
+Mobi Dik - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.38034
+O stranstvuiushchikh i putieshiestvuiushchik - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.73451
+Obitaiemyi ostrov (Vosstanovliennyi polnyi trughatskii _ Boris Natanovich Strughatskii.txt:|11.81251
+Otiaghoshchiennyie zlom, ili Sorok liet spustia - Arkadii i Boris Strughatskiie.txt:|11.69297
+Parien_ iz prieispodniei - Arkadii i Boris Strughatskiie.txt:|9.0722
+Piat_ lozhiek eliksira - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.79806
+Piervyie liudi na piervom plotu - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.69792
+Pieschanaia ghoriachka - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.72161
+Piknik na obochinie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:|10.02951
+Pochti takiie zhie - Arkadii Strughatskii _ Boris Strughatskii.txt:|6.7239
+Poldien_, XXII viek - Arkadii i Boris Strughatskiie.txt:|7.74064
+Poniediel_nik nachinaietsia v subbotu - ArkaStrughatskii _ Boris Natanovich Strughatskii.txt:|9.07343
+Popytka k bieghstvu - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.20696
+Porazhieniie - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.19424
+Poviest_ o druzhbie i niedruzhbie - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.31532
+Put_ na Amal_tieiu - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:|7.44792
+Shiest_ spichiek - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.38246
+Skazka o Troikie - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.72695
+Spontannyi rieflieks - Arkadii Strughatskii _ Boris Strughatskii.txt:|8.8489
+Stazhiery - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.53486
+Strana baghrovykh tuch (c illiustr.) - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.02019
+Trudno byt_ boghom - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.25082
+Ulitka na sklonie - Arkadii i Boris Strughatskiie.txt:|10.67759
+V nashie intieriesnoie vriemia - Arkadii Strughatskii _ Boris Strughatskii.txt:|7.59751
+Volny ghasiat vietier - Arkadii Strughatskii _ Boris Strughatskii.txt:|10.84665
+Vozvrashchieniie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt:|8.04794
+Vtoroie nashiestviie marsian - Arkadii Strughatskii _ Boris Strughatskii.txt:|13.02428
+Za milliard liet do kontsa svieta - Arkadii Strughatskii _ Boris Strughatskii.txt:|9.38133
+ZABYTYI EKSPIeRIMIeNT - Arkadii Strughatskii _ Boris Strughatskii.txt:|6.89676
+Zhuk v muravieinikie - Arkadii Strughatskii _ Boris Strughatskii.txt:|11.06675
+Bieghushchaia s diemonom - Tierri Bruks.txt:|8.95412
+Chiernyi iedinorogh - Tierri Bruks.txt:|9.59396
+Druid Shannary - Tierri Bruks.txt:|9.2568
+El_fiiskiie kamni Shannary - Tierri Bruks.txt:|9.40046
+Koldovskoie ziel_ie - Tierri Bruks.txt:|9.48299
+Korolieva el_fov Shannary - Tierri Bruks.txt:|9.77284
+Miech Shannary - Tierri Bruks.txt:|15.12434
+Piervyi korol_ Shannary - Tierri Bruks.txt:|10.81158
+Piesn_ Shannary - Tierri Bruks.txt:|9.17819
+Potomki Shannary - Tierri Bruks.txt:|10.18192
+Printsiessa Zaziemiel_ia - Tierri Bruks.txt:|11.82154
+Prodaietsia volshiebnoie korolievstvo - Tierri Bruks.txt:|9.20665
+Shkatulka khitrosplietienii - Tierri Bruks.txt:|9.58767
+Talismany Shannary - Tierri Bruks.txt:|10.80897
+Volshiebnik u vlasti - Tierri Bruks.txt:|9.33757
+Astra. Shustroie schast_ie, ili Okhota na makogho drakona - Anna Sierghieievna Gavrilova.txt:|9.3895
+Biespokoinoie schast_ie, ili Siekriety malien_kogho drakona - Anna Gavrilova.txt:|10.58342
+Blaghoslovitie korolia, ili Kharaktier skvie nie zhienat! - Anna Sierghieievna Gavrilova.txt:|10.2529
+Bol_shaia i ghriaznaia liubov_ - Anna Sierghieievna Gavrilova.txt:|8.12021
+Dusha Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:|8.96615
+Esmi Solniechnyi Vietier - Anna Sierghieievna (SI) Gavrilova.txt:|9.80485
+Ispytaniie Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:|8.72611
+Kanikuly v Ravanshirie, ili Svad_by nie budiet! (SI) - Anna Sierghieievna Gavrilova.txt:|9.92568
+Krov_ na miechakh. Nas rassudiat boghi - Anna Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt:|8.74677
+Masha i Pozitivnyi mir - Anna Sierghieievna Gavrilova.txt:|8.89267
+Masha i Riektor v shokie - Anna Sierghieievna Gavrilova.txt:|9.06836
+Masha i Tiemnyi Vlastielin - Anna Gavrilova.txt:|9.24163
+Okhotniki na diemonov. Kapkan - Anna Sierghieievna Gavrilova.txt:|9.68859
+Ostavaities_ s nami - Anna Sierghieievna Gavrilova.txt:|7.28041
+Pokorieniie Oghnia (litres) - Anna Sierghieievna Gavrilova.txt:|9.66655
+Primanka - Anna Sierghieievna Gavrilova.txt:|9.90356
+Put_ dolgha i liubvi - Anna Gavrilova.txt:|9.54509
+Put_ maghii i sierdtsa - Anna Gavrilova.txt:|8.32777
+Raskolduitie eto niemiedlienno! - Anna Sierghieievna Gavrilova.txt:|10.01141
+Schast_ie vdrugh, ili Istoriia malien_kogho drakona - Anna Gavrilova.txt:|7.97356
+Smiert_ za smiert_. Kara ghroznykh boghov - vich Gavrilov _ Anna Sierghieievna Gavrilova.txt:|8.2996
+Souli. Dievushka iz ghrioz - Anna Sierghieievna Gavrilova.txt:|7.80013
+Souli. V obiatiiakh miechty - Anna Sierghieievna Gavrilova.txt:|7.95486
+Taniets Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt:|8.61849
+Tieoriia bol_shogho sboia - Anna Sierghieievna Gavrilova.txt:|8.0789
+Trizna po kniaziu Riuriku. Krov_ za krov_! (a Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt:|8.51379
+Upriamoie schast_ie, ili Vospitaniie malien_kogho drakona - Anna Gavrilova.txt:|9.85152
+Ushi nie troghat_! - Anna Sierghieievna Gavrilova.txt:|7.55742
+Vied_ma na diesiert - Anna Sierghieievna Gavrilova.txt:|9.98649
+Zolotoi kliuchik dlia Nasti - Anna Gavrilova.txt:|8.20041
+Zolotoi kliuchik dlia Nasti. Knigha vtoraia - Anna Gavrilova.txt:|8.44443
+01.God krysy.Vidun_ia - Nieizviestnyi.txt:|9.02916
+02.God Krysy. Putnitsa - Nieizviestnyi.txt:|9.1266
+1-Profiessiia vied_ma - Nieizviestnyi.txt:|9.33752
+2-Vied_ma-khranitiel_nitsa - Nieizviestnyi.txt:|11.34414
+3-Vierkhovnaia Vied_ma - Nieizviestnyi.txt:|12.35685
+Bielorskiie khroniki - Nieizviestnyi.txt:|9.78638
+Akadiemiia chiernogho drakona. Stavka na vied_mu - Natal_ia Sierghieievna Zhil_tsova.txt:|8.79827
+Akadiemiia maghichieskogho prava. Briunietka- Natal_ia Zhil_tsova _ Azaliia Ieriemieieva.txt:|8.99678
+Akadiemiia maghichieskogho prava. Briunietkarghieievna Zhil_tsova _ Azaliia Ieriemieieva.txt:|9.07243
+Antimagh - Natal_ia Zhil_tsova.txt:|8.95804
+Ariia dlia boghov - Natal_ia Sierghieievna Zhil_tsova.txt:|9.10513
+Bielaia fieia - Natal_ia Sierghieievna Zhil_tsova.txt:|8.4146
+Gloriia. Kapkan na chietviertogho - Natal_ia Sierghieievna Zhil_tsova.txt:|8.5627
+Kolodiets Mraka - Natal_ia Zhil_tsova.txt:|8.37739
+Mar_ia Biessmiertnaia - Natal_ia Zhil_tsova.txt:|8.58448
+Nasliednitsa magha smierti - Natal_ia Sierghieievna Zhil_tsova.txt:|8.36637
+Obruchiennyie krov_iu. Vybor - Natal_ia Sierghieievna Zhil_tsova.txt:|9.3023
+Otbor - Natal_ia Sierghieievna Zhil_tsova.txt:|9.93947
+Piat_ sierdiets t_my - Natal_ia Zhil_tsova.txt:|9.00402
+Polunochnyi zamok - Natal_ia Sierghieievna Zhil_tsova.txt:|9.80108
+Sila vied_my - Natal_ia S. Zhil_tsova.txt:|8.95342
+Tri znaka smierti - Natal_ia Zhil_tsova.txt:|8.89027
+Tsikl _Prokliatiie niekromanta_. Tietraloghiia. - Natal_ia Zhil_tsova.txt:|8.32646
+Vied_ma tiemnogho plamieni - Natal_ia Sierghieievna Zhil_tsova.txt:|8.67535
+Alieta - Miliena Zavoichinskaia.txt:|10.01377
+Boievaia praktika knighokhodtsiev - Miliena Valier_ievna Zavoichinskaia.txt:|8.80405
+Dom na pieriekriestkie (Triloghiia) - Miliena Zavoichinskaia.txt:|8.5733
+Irzhina. Priednachiertannogho nie izbiezhat_ - Miliena V. Zavoichinskaia.txt:|9.21155
+Irzhina. Sluchainoie - nie sluchaino - Miliena V. Zavoichinskaia.txt:|8.43253
+Irzhina. Vsio nie tak, kak kazhietsia_. - Miliena V. Zavoichinskaia.txt:|8.08096
+Khroniki knighokhodtsiev - Miliena Zavoichinskaia.txt:|8.92761
+Knighokhodtsy i taina miekhanichieskogho bogha - Miliena Zavoichinskaia.txt:|9.19331
+Knighokhodtsy osobogho naznachieniia - Miliena Zavoichinskaia.txt:|9.4953
+LIeTIT K TIeBIe V NOChI MOI GOLOS - Miliena Zavoichunskaia.txt:|9.17845
+Mistier Smiert_ i choknutaia vied_ma - Miliena Valier_ievna Zavoichinskaia.txt:|8.52425
+Oranzhievyi tsviet radughi - Miliena Zavoichinskaia.txt:|8.91106
+Popalas_, ptichka! - Miliena Valier_ievna Zavoichinskaia.txt:|8.63272
+Primorskaia akadiemiia, ili Ty prosto poka nprivyk - Miliena Valier_ievna Zavoichinskaia.txt:|8.25596
+Sniezhnyie skazki (sbornik) - Miliena V. Zavoichinskaia.txt:|9.05356
+Strashnyie skazki zakrytogho korolievstva - Miliena Valier_ievna Zavoichinskaia.txt:|9.67914
+Trinadtsataia nieviesta - Miliena Zavoichinskaia.txt:|8.58972
+Tsvietnaia muzyka sidkhie - Miliena Valier_ievna Zavoichinskaia.txt:|9.68396
+Vysshaia Shkola Bibliotiekariei. Maghiia knighokhodtsiev - Miliena V. Zavoichinskaia.txt:|8.52251
+01. Желязны Р. - Том 01. Витки. Чёрный трон (Миры Роджера Желязны) - 1995.txt:|10.25596
+02. Желязны Р. - Том 02. Творец снов. Долина Проклятий. Порождения Света и Тьмы (Миры Роджера Желязны) - 1995.txt:|8.77906
+03. Желязны Р. - Том 03. Дорожные знаки. Двери в песке (Миры Роджера Желязны) - 1995.txt:|8.77048
+04. Желязны Р. - Том 04. Остров мёртвых. Умереть в Италбаре (Миры Роджера Желязны) - 1995.txt:|9.77821
+05. Желязны Р. - Том 05. Валет из Страны Теней. Князь Света (Миры Роджера Желязны) - 1995.txt:|10.71857
+06. Желязны Р. - Том 06. Сегодня мы выбираем лица. Господь гнева (Миры Роджера Желязны) - 1995.txt:|9.92192
+07. Желязны Р. - Том 07. Мост из пепла. Глаз кота (Миры Роджера Желязны) - 1995.txt:|9.04644
+08. Желязны Р. - Том 08. Подменённый. Одержимый магией (Миры Роджера Желязны) - 1995.txt:|8.80932
+09. Желязны Р. - Том 09. Дилвиш Проклятый. Очарованная земля (Миры Роджера Желязны) - 1995.txt:|8.96236
+10. Желязны Р. - Том 10. Этот бессмертный. Имя мне легион (Миры Роджера Желязны) - 1995.txt:|9.34059
+11. Желязны Р. - Том 11. Тоскливой октябрьской ночью... Кладбище слонов. Спящий (Миры Роджера Желязны) - 1996.txt:|8.56468
+12. Желязны Р. - Том 12. Вспышка (Миры Роджера Желязны) - 1996.txt:|12.72677
+13. Желязны Р. - Том 13. Двери лица его, пламенники пасти его. Последний защитник Камелота (Миры Роджера Желязны) - 1995.txt:|8.65728
+14. Желязны Р. - Том 14. Вариант единорога. Мороз и пламя (Миры Роджера Желязны) - 1995.txt:|8.52452
+15. Желязны Р. - Том 15. Маска Локи (Миры Роджера Желязны) - 1996.txt:|9.10728
+16. Желязны Р. - Том 16. Принеси мне голову Прекрасного принца (Миры Роджера Желязны) - 1996.txt:|9.94994
+17. Желязны Р. - Том 17. Коль в роли Фауста тебе не преуспеть (Миры Роджера Желязны) - 1996.txt:|11.45217
+18. Желязны Р. - Том 18. Театр одного демона (Миры Роджера Желязны) - 1996.txt:|8.35841
+19. Желязны Р. - Том 19. Тёмное путешествие и др. (Миры Роджера Желязны) - 1996.txt:|9.48698
+20. Желязны Р. - Том 20. Девять принцев Амбера. Ружья  Авалона (Миры Роджера Желязны) - 1996.txt:|9.12292
+21. Желязны Р. - Том 21. Знак единорога. Рука Оберона (Миры Роджера Желязны) - 1996.txt:|10.74364
+22. Желязны Р. - Том 22. Владения Хаоса. Карты Судьбы (Миры Роджера Желязны) - 1996.txt:|9.31292
+23. Желязны Р. - Том 23. Кровь Амбера. Знак Хаоса (Миры Роджера Желязны) - 1996.txt:|8.7265
+24. Желязны Р. - Том 24. Рыцарь Теней. Принц Хаоса (Миры Роджера Желязны) - 1997.txt:|8.0982
+25. Желязны Р. - Том 25. Наглядный путеводитель по замку Амбер. Рассказы (Миры Роджера Желязны) - 1997.txt:|10.22941
+27. Желязны Р. - Том 27. Хрономастер (Миры Роджера Желязны) - 1997.txt:|10.59385
+28.-Желязны-Р.-Том-28.-Дикие-земли.-Рассказы-_Миры-Роджера-Желязны_-1997.txt:|9.50439
+29.-Желязны-Р.-Том-29.-После-победы-_Миры-Роджера-Желязны_-1997.txt:|10.79976
+Gorod illiuzii - Ursula Lie Guin.txt:|13.8078
+Korol_ planiety Zima - Ursula Lie Guin.txt:|11.26255
+Lieghiendy Zapadnogho pobieriezh_ia - Ursula Lie Guin.txt:|14.80097
+Orsiniia - Ursula Lie Guin.txt:|12.63963
+Porogh - Ursula Lie Guin.txt:|12.69504
+Prozrieniie - Ursula Lie Guin.txt:|15.44989
+Rokannon - Ursula Lie Guin.txt:|11.9168
+Roza vietrov - Ursula Lie Guin.txt:|11.9596
+Skazaniia Ziemnomor_ia - Ursula Lie Guin.txt:|14.22224
+Tolkovatieli - Ursula Lie Guin.txt:|12.34048
+Volshiebnik Ziemnomor_ia. Grobnitsy Atuana. ierieghu. Tiekhanu_ Romany - Ursula Lie Guin.txt:|13.25913
+Vsieghda vozvrashchaias_ domoi - Ursula Lie Guin.txt:|16.08741
+Kon_ i iegho mal_chik - Klaiv Stieiplz L_iuis.txt:|9.25027
+Liev, Koldun_ia i platianoi shkaf - Klaiv Stieiplz L_iuis.txt:|10.52545
+Pliemiannik charodieia - Klaiv Stieiplz L_iuis.txt:|8.88665
+Posliedniaia bitva - Klaiv Stieiplz L_iuis.txt:|9.77994
+Prints Kaspian - Klaiv Stieiplz L_iuis.txt:|10.5809
+Sieriebrianoie krieslo - Klaiv Stieiplz L_iuis.txt:|9.01671
+__Pokoritiel_ Zari__, ili Plavaniie na krai svieta - Klaiv Stieiplz L_iuis.txt:|10.35911
+Akadiemichieskii ekzortsizm v otdiel_no vziatom Univiersitietie - Tierri Pratchiett.txt:|9.94545
+Bats! - Tierri Pratchiett.txt:|8.63063
+Biezumnaia zviezda - Tierri Pratchiett.txt:|9.21757
+Blaghiie znamieniia - Tierri Pratchiett _ Nil Gieiman.txt:|9.26033
+Carpe Jugulum. Khvatai za ghorlo! - Tierri Pratchiett.txt:|8.18881
+Damy i Gospoda - Terry David John Pratchett.txt:|7.97738
+Dielai dien_ghi! - Tierri Pratchiett.txt:|8.71809
+Dielo tabak - Tierri Pratchiett.txt:|11.78082
+Dierzhi marku! - Tierri Pratchiett.txt:|8.52422
+Dvizhushchiiesia kartinki - Tierri Pratchiett.txt:|8.17726
+Dzhonni i bomba - Tierri Pratchiett.txt:|7.32759
+Dzhonni i miertvietsy - Tierri Pratchiett.txt:|6.83984
+Erik, a takzhie Nochnaia Strazha, vied_my i Koen-Varvar - Tierri Pratchiett.txt:|8.81542
+Fint - Tierri Pratchiett.txt:|16.81709
 Gdie moia korova_ - Tierri Pratchiett.txt:|10.0
-K oruzhiiu! K oruzhiiu! - Terry David John Pratchett.txt:|7.4823759791122715
-Kot biez prikras - Tierri Devid Dzhon Pratchiett.txt:|14.589770354906054
-Kryl_ia - Tierri Devid Dzhon Pratchiett.txt:|7.253380625138551
-Liudi Kovra - Tierri Devid Dzhon Pratchiett.txt:|8.235021260146889
-Maskarad (pier. S.Uvbarkh pod ried. A.Zhikarientsieva) - Terry David John Pratchett.txt:|7.9540218062127135
-Mielkiie boghi (pier. N.Bierdiennikov pod rihikarientsieva) - Terry David John Pratchett.txt:|7.576331012844396
-Monstriachii vzvod - Tierri Pratchiett.txt:|7.509146593825014
-Mor, uchienik Smierti - Tierri Pratchiett.txt:|8.942513718317219
-Morie i rybki - Tierri Pratchiett.txt:|8.095273818454613
-Most trolliei - Tierri Pratchiett.txt:|6.478468899521531
-Mrachnyi Zhniets (pierievod N.Bierdiennikovahikarientsieva) - Terry David John Pratchett.txt:|7.586608274749337
-Narod, ili Koghda-to my byli diel_finami. - Tierri Pratchiett.txt:|8.931655050452513
-Nievidimyie akadiemiki - Tierri Pratchiett.txt:|8.873279098873592
-Nochnaia strazha - Tierri Pratchiett.txt:|8.283914073071719
-Noghi iz ghliny - Tierri Pratchiett.txt:|7.7104740278172015
-Ochien_ vieskaia prichina povierit_ v Santa-Klausa - Tierri Pretchiett.txt:|8.903846153846153
-Patriot - Tierri Pratchiett.txt:|8.12695500218436
-Piatyi eliefant - Tierri Pratchiett.txt:|8.06880301602262
-Piekhotnaia ballada - Tierri Pratchiett.txt:|7.434826287149435
-Piramidy - Tierri Pratchiett.txt:|9.037683358624179
-Poddai paru! - Tierri Pratchiett.txt:|13.253200204813108
-Posliednii ghieroi. Skazaniie o Ploskom mirie - Tierri Pratchiett.txt:|7.813915094339623
-Posliednii kontinient - Tierri Pratchiett.txt:|8.363880864627951
-Posokh i shliapa - Terry David John Pratchett.txt:|9.254648120093652
-Povariennaia knigha Nianiushki Oghgh - Tierri Pratchiett.txt:|15.300487276664862
-Pravda - Tierri Pratchiett.txt:|8.139798488664987
-Rokovaia muzyka - Tierri Devid Dzhon Pratchiett.txt:|7.493697083725306
-Santa-Khriakus - Terry David John Pratchett.txt:|7.767277717870797
-Shmiak - Tierri Pratchiett.txt:|7.838730158730159
-Smiert_ i Chto Sluchaietsia Poslie - Tierri Pratchiett.txt:|8.707317073170731
-Strata - Tierri Pratchiett.txt:|10.078508988949364
-Strazha! Strazha! (pier. S. Zhuzhunavy pod rhikarientsieva) - Terry David John Pratchett.txt:|8.781414377556985
-Tieatr zhiestokosti - Tierri Pratchiett.txt:|8.388429752066116
-Tiemnaia storona Solntsa - Tierri Pratchiett.txt:|9.13022113022113
-Tierri Pratchiett.Intieriesnyie vriemiena - Tierri Pratchiett.txt:|8.28500871586287
-Tol_ko ty mozhiesh_ spasti chieloviechiestvo - Tierri Pratchiett.txt:|6.335863377609108
-Tsviet volshiebstva (pier. I.Kravtsova pod rhikarientsieva) - Terry David John Pratchett.txt:|9.66672349130583
-Tvortsy zaklinanii - Tierri Pratchiett.txt:|10.150842945874002
-Udivitiel_nyi Moris i iegho uchienyie ghryzuny - Tierri Pratchiett.txt:|7.814301865460712
-Ughonshchiki - Tierri Devid Dzhon Pratchiett.txt:|7.768150279235065
-Vied_my za ghranitsiei - Terry David John Pratchett.txt:|8.45840446113577
-Viertushki nochi - Tierri Devid Dzhon Pratchiett.txt:|9.031645569620252
-Vieshchiie siestrichki - Tierri Pratchiett.txt:|9.423153458972259
-Vor vriemieni - Tierri Pratchiett.txt:|8.079742765273313
-Ziemliekopy - Tierri Devid Dzhon Pratchiett.txt:|8.237321038582868
-Bratstvo Kol_tsa - Dzhon Ronal_d Ruel Tolkin.txt:|9.433540097474523
-Dieti Khurina - Dzhon Ronal_d Ruel Tolkiien.txt:|16.01520817751184
-Dvie krieposti - Dzhon Ronal_d Ruel Tolkin.txt:|8.868340718857706
-Khobbit, ili Tuda i obratno - Dzhon Ronald Ruel Tolkiien.txt:|10.30264198702737
-Nieokonchiennyie skazaniia - Dzhon Ronal_d Ruel Tolkiien.txt:|15.322913930478942
-Sil_marillion - Dzhon Ronald Ruel Tolkin _ Kristofier Tolkin.txt:|13.561140386434266
-Vozvrashchieniie Korolia - Dzhon Ronal_d Ruel Tolkin.txt:|10.013329893360853
+K oruzhiiu! K oruzhiiu! - Terry David John Pratchett.txt:|7.48238
+Kot biez prikras - Tierri Devid Dzhon Pratchiett.txt:|14.58977
+Kryl_ia - Tierri Devid Dzhon Pratchiett.txt:|7.25338
+Liudi Kovra - Tierri Devid Dzhon Pratchiett.txt:|8.23502
+Maskarad (pier. S.Uvbarkh pod ried. A.Zhikarientsieva) - Terry David John Pratchett.txt:|7.95402
+Mielkiie boghi (pier. N.Bierdiennikov pod rihikarientsieva) - Terry David John Pratchett.txt:|7.57633
+Monstriachii vzvod - Tierri Pratchiett.txt:|7.50915
+Mor, uchienik Smierti - Tierri Pratchiett.txt:|8.94251
+Morie i rybki - Tierri Pratchiett.txt:|8.09527
+Most trolliei - Tierri Pratchiett.txt:|6.47847
+Mrachnyi Zhniets (pierievod N.Bierdiennikovahikarientsieva) - Terry David John Pratchett.txt:|7.58661
+Narod, ili Koghda-to my byli diel_finami. - Tierri Pratchiett.txt:|8.93166
+Nievidimyie akadiemiki - Tierri Pratchiett.txt:|8.87328
+Nochnaia strazha - Tierri Pratchiett.txt:|8.28391
+Noghi iz ghliny - Tierri Pratchiett.txt:|7.71047
+Ochien_ vieskaia prichina povierit_ v Santa-Klausa - Tierri Pretchiett.txt:|8.90385
+Patriot - Tierri Pratchiett.txt:|8.12696
+Piatyi eliefant - Tierri Pratchiett.txt:|8.0688
+Piekhotnaia ballada - Tierri Pratchiett.txt:|7.43483
+Piramidy - Tierri Pratchiett.txt:|9.03768
+Poddai paru! - Tierri Pratchiett.txt:|13.2532
+Posliednii ghieroi. Skazaniie o Ploskom mirie - Tierri Pratchiett.txt:|7.81392
+Posliednii kontinient - Tierri Pratchiett.txt:|8.36388
+Posokh i shliapa - Terry David John Pratchett.txt:|9.25465
+Povariennaia knigha Nianiushki Oghgh - Tierri Pratchiett.txt:|15.30049
+Pravda - Tierri Pratchiett.txt:|8.1398
+Rokovaia muzyka - Tierri Devid Dzhon Pratchiett.txt:|7.4937
+Santa-Khriakus - Terry David John Pratchett.txt:|7.76728
+Shmiak - Tierri Pratchiett.txt:|7.83873
+Smiert_ i Chto Sluchaietsia Poslie - Tierri Pratchiett.txt:|8.70732
+Strata - Tierri Pratchiett.txt:|10.07851
+Strazha! Strazha! (pier. S. Zhuzhunavy pod rhikarientsieva) - Terry David John Pratchett.txt:|8.78141
+Tieatr zhiestokosti - Tierri Pratchiett.txt:|8.38843
+Tiemnaia storona Solntsa - Tierri Pratchiett.txt:|9.13022
+Tierri Pratchiett.Intieriesnyie vriemiena - Tierri Pratchiett.txt:|8.28501
+Tol_ko ty mozhiesh_ spasti chieloviechiestvo - Tierri Pratchiett.txt:|6.33586
+Tsviet volshiebstva (pier. I.Kravtsova pod rhikarientsieva) - Terry David John Pratchett.txt:|9.66672
+Tvortsy zaklinanii - Tierri Pratchiett.txt:|10.15084
+Udivitiel_nyi Moris i iegho uchienyie ghryzuny - Tierri Pratchiett.txt:|7.8143
+Ughonshchiki - Tierri Devid Dzhon Pratchiett.txt:|7.76815
+Vied_my za ghranitsiei - Terry David John Pratchett.txt:|8.4584
+Viertushki nochi - Tierri Devid Dzhon Pratchiett.txt:|9.03165
+Vieshchiie siestrichki - Tierri Pratchiett.txt:|9.42315
+Vor vriemieni - Tierri Pratchiett.txt:|8.07974
+Ziemliekopy - Tierri Devid Dzhon Pratchiett.txt:|8.23732
+Bratstvo Kol_tsa - Dzhon Ronal_d Ruel Tolkin.txt:|9.43354
+Dieti Khurina - Dzhon Ronal_d Ruel Tolkiien.txt:|16.01521
+Dvie krieposti - Dzhon Ronal_d Ruel Tolkin.txt:|8.86834
+Khobbit, ili Tuda i obratno - Dzhon Ronald Ruel Tolkiien.txt:|10.30264
+Nieokonchiennyie skazaniia - Dzhon Ronal_d Ruel Tolkiien.txt:|15.32291
+Sil_marillion - Dzhon Ronald Ruel Tolkin _ Kristofier Tolkin.txt:|13.56114
+Vozvrashchieniie Korolia - Dzhon Ronal_d Ruel Tolkin.txt:|10.01333
