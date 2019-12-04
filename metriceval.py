@@ -9,6 +9,8 @@ from tqdm import tqdm
 import corpcrawler as crawl
 import metricio
 
+VOWELS = ["у", "е", "ы", "а", "о", "э", "я", "и", "ю", "ё"]
+
 
 def eval_metric_multithread(func, data, t=None):
     # Получает функцию и словарь с данными. Создает пул процессов для вычисления функции многопоточно.
@@ -23,7 +25,7 @@ def eval_metric_multithread(func, data, t=None):
 
 
 def avg_words_in_sentence(key, text):
-    # Получает текст строкой. Возвращает среднее количество слов в предложении.
+    # Получает {ключ:текст строкой}. Возвращает среднее количество слов в предложении.
     # Метка: avgwordsen
     sent_count = 0
     word_count = 0
@@ -40,8 +42,8 @@ def avg_words_in_sentence(key, text):
 
 
 def avg_char_in_word(key, text):
-    # Получает текст строкой. Возвращает среднее количество букв в слове.
-    # Метка avgchrword
+    # Получает {ключ:текст строкой}. Возвращает среднее количество букв в слове.
+    # Метка: avgchrword
     char_count = 0
     word_count = 0
     for word in word_tokenize(text):
@@ -52,11 +54,28 @@ def avg_char_in_word(key, text):
     return key, round(char_count / word_count, 5)
 
 
+def avg_syl_in_word(key, text):
+    # Получает {ключ:текст строкой}. Возвращает среднее количество слогов в слове.
+    # Метка: avgsylword
+    syl_count = 0
+    word_count = 0
+    for word in word_tokenize(text):
+        word = lose_non_russian_alphabet(word)
+        with_syllable = False
+        for char in word.lower():
+            if char in VOWELS:
+                syl_count += 1
+                with_syllable = True
+        if with_syllable:
+            word_count += 1
+    return key, round(syl_count / word_count, 5)
+
+
 def lose_non_russian_alphabet(text):
     # Удаляет из текста любые символы не являющиеся кириллицей
     return re.sub('[^а-яА-ЯёЁ]', '', text)
 
 
-# if __name__ == '__main__':
-#     metricio.add_new_metric('data.txt', 'avgchrword',
-#                             eval_metric_multithread(func=avg_char_in_word, data=crawl.get_texts('Corpus')))
+if __name__ == '__main__':
+    metricio.add_new_metric('data.txt', 'avgsylword',
+                            eval_metric_multithread(func=avg_syl_in_word, data=crawl.get_texts('Corpus')))
