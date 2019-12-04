@@ -28,12 +28,14 @@ def avg_words_in_sentence(key, text):
     sent_count = 0
     word_count = 0
     for sentence in sent_tokenize(text):
-        if len(sentence) > 1:
+        with_word = False
+        for word in word_tokenize(sentence):
+            word = lose_non_russian_alphabet(word)
+            if word.isalpha():
+                word_count += 1
+                with_word = True
+        if with_word:
             sent_count += 1
-            for word in word_tokenize(sentence):
-                word = lose_non_russian_alphabet(word)
-                if word.isalpha():
-                    word_count += 1
     return key, round(word_count / sent_count, 5)
 
 
@@ -55,6 +57,6 @@ def lose_non_russian_alphabet(text):
     return re.sub('[^а-яА-ЯёЁ]', '', text)
 
 
-if __name__ == '__main__':
-    metricio.change_existed_metric('data.txt', 'avgwordsen',
-                                   eval_metric_multithread(func=avg_words_in_sentence, data=crawl.get_texts('Corpus')))
+# if __name__ == '__main__':
+#     metricio.add_new_metric('data.txt', 'avgchrword',
+#                             eval_metric_multithread(func=avg_char_in_word, data=crawl.get_texts('Corpus')))
