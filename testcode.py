@@ -1,18 +1,20 @@
 from multiprocessing import Pool
 
 from sklearn.cluster import KMeans
+from rnnmorph.predictor import RNNMorphPredictor
+from nltk.tokenize import word_tokenize
 
 import metricio
 
-# _, data = metricio.read_metrics('test.txt')
+# _, data = metricio.read_metrics('data.txt')
 # train_data = [[float(k) for k in value] for value in data.values()]
-# kmeans = KMeans(n_clusters=2)
+# kmeans = KMeans(n_clusters=7)
 # kmeans.fit(train_data)
-# print(kmeans.predict([[0, 1, 0], [2, 2, 2], [0, 0, 0]]))
+# result = [(key, kmeans.predict([value])) for key, value in data.items()]
+# result.sort(key=lambda i: i[1])
+# print(*result)
 
-# def mul(k):
-#     return k[0], k[0] * k[1]
-#
+
 #
 # if __name__ == '__main__':
 #     p = Pool()
@@ -25,3 +27,5 @@ import metricio
 # test = [(1,2), (2,3)]
 # t =dict(test)
 # print(t)
+
+# predictor = RNNMorphPredictor(language='ru')
