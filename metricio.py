@@ -5,7 +5,7 @@ def read_metrics(path):
     # Возвращает данные в виде: {объект:[список метрик]}
     with open(path, encoding='UTF-8') as file:
         meta = file.readline().strip().split('|')  # сохраняем строку с метаданными
-        data = {line.split(':')[0]: line.split(':')[1].strip().split('|') for line in file.readlines()}
+        data = {line.split(':')[0]: line.split(':')[1].strip('\n|').split('|') for line in file.readlines()}
         return meta, data
 
 

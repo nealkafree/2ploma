@@ -4,16 +4,21 @@ from sklearn.cluster import KMeans
 
 import metricio
 
-# _, data = metricio.read_metrics('test.txt')
+# _, data = metricio.read_metrics('data.txt')
 # train_data = [[float(k) for k in value] for value in data.values()]
-# kmeans = KMeans(n_clusters=2)
+# kmeans = KMeans(n_clusters=7)
 # kmeans.fit(train_data)
-# print(kmeans.predict([[0, 1, 0], [2, 2, 2], [0, 0, 0]]))
+# result = [(key, kmeans.predict([[float(val) for val in value]])) for key, value in data.items()]
+# result.sort(key=lambda i: i[1])
+
+# with open('Разбивка на классы, Kmeans, компоненты readability.txt', 'w+', encoding='UTF-8') as file:
+#     for text in result:
+#         file.write(str(text) + '\n')
 
 # def mul(k):
 #     return k[0], k[0] * k[1]
-#
-#
+
+
 # if __name__ == '__main__':
 #     p = Pool()
 #     test = {1: 1, 2: 2, 3: 4, 5: 1, 4: 6}
