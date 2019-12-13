@@ -122,8 +122,7 @@ def lose_non_russian_alphabet(text):
 
 
 if __name__ == '__main__':
-    result = [percent_of_pos(key, value) for key, value in tqdm(crawl.get_texts('Corpus').items())]
-    # result = eval_metric_multithread(func=percent_of_pos, data=crawl.get_texts('Corpus'), t=4)
+    result = eval_metric_multithread(func=percent_of_pos, data=crawl.get_texts('Corpus'), t=4)
     # metricio.add_new_metric('data.txt', 'nounperc', {key: value[0] for key, value in result.items()})
     # metricio.add_new_metric('data.txt', 'verbperc', {key: value[1] for key, value in result.items()})
     # metricio.add_new_metric('data.txt', 'pronperc', {key: value[2] for key, value in result.items()})

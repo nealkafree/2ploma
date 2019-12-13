@@ -32,4 +32,6 @@ import metricio
 # print(t)
 
 # predictor = RNNMorphPredictor(language='ru')
+# with open('Минутка философии', encoding='UTF-8') as file:
+#     print(predictor.predict(word_tokenize(file.read())))
 

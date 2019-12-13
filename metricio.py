@@ -55,10 +55,9 @@ def delete_metric(path, label):
     with open(path, 'w', encoding='UTF-8') as file:
         i = meta.index(label)
         meta.remove(label)
-        file.write('|'.join(meta))
+        file.write('|'.join(meta) + '\n')
         for key, value in data.items():
             value.pop(i)
-            file.write(key + ':' + '|'.join(value))
+            file.write(key + ':' + '|'.join(value) + '\n')
 
-# change_existed_object('test.txt', 'test1', {'tst1': 'один', 'tst3': 'три'})
-
+# delete_metric('data.txt', 'advperc')
