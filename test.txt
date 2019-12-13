@@ -2,3 +2,44 @@ tst1|tst2|tst3
 test1:1|2|3
 test2:1.5|2.5|3.5
 test3:0.5|1.5|2.5
+
+
+Волков Волшебник Изумрудного города
+  2%|▏         | 17/917 [05:42<4:42:09, 18.81s/it]фэнтези $ Роулинг $ Гарри Поттер и узник Азкабана
+  5%|▌         | 49/917 [14:57<2:51:11, 11.83s/it]C:\Users\kafree\Anaconda3\lib\site-packages\rnnmorph\batch_generator.py:175: RuntimeWarning: invalid value encountered in true_divide
+  gram_value_indices[index:index + len(values)] = mask / s
+Proisshiestviie v Okdieilie - Edghar Rais Bierrouz.txt
+ 16%|█▋        | 150/917 [1:25:18<12:31:42, 58.80s/it]C:\Users\kafree\Anaconda3\lib\site-packages\rnnmorph\batch_generator.py:175: RuntimeWarning: invalid value encountered in true_divide
+  gram_value_indices[index:index + len(values)] = mask / s
+ 17%|█▋        | 152/917 [1:29:50<17:25:04, 81.97s/it]Griezy Fievra - Dzhordzh Martin.txt
+ 27%|██▋       | 244/917 [2:19:37<11:13:49, 60.07s/it]C:\Users\kafree\Anaconda3\lib\site-packages\rnnmorph\batch_generator.py:175: RuntimeWarning: invalid value encountered in true_divide
+  gram_value_indices[index:index + len(values)] = mask / s
+ 27%|██▋       | 247/917 [2:20:21<7:07:36, 38.29s/it] V osnovnom biezvriedna - Dughlas Adams.txt
+ 28%|██▊       | 257/917 [2:37:54<27:46:01, 151.46s/it]Opieratsiia __Gadiuka___ Fantastichieskiie romany - Kir Bulychiev.txt
+ 31%|███       | 286/917 [3:02:08<9:14:08, 52.69s/it] Kosmichieskiie krysy DDD - Garri Maksviell Garrison.txt
+Kol_tsa anakondy - Garri Garrison.txt
+ 36%|███▋      | 333/917 [3:12:04<5:23:58, 33.29s/it]Novyie prikliuchieniia Stal_noi Krysy - Garri Garrison.txt
+ 40%|████      | 369/917 [3:18:19<2:13:01, 14.56s/it]Stal_naia Krysa na maniezhie - Garri Garrison.txt
+ 44%|████▍     | 404/917 [3:31:58<8:40:15, 60.85s/it]Khroniki Vortingha - Orson Skott Kard.txt
+ 54%|█████▍    | 497/917 [4:01:49<1:51:07, 15.87s/it]Na puti k Osnovaniiu [Na puti k Akadiemii] - Aiziek Azimov.txt
+Na puti k Akadiemii - Aiziek Azimov.txt
+ 67%|██████▋   | 611/917 [4:33:24<4:38:02, 54.52s/it]Vospominaniie ob ubiistvie - Rei Dughlas Bredbieri.txt
+ 67%|██████▋   | 618/917 [4:38:34<5:00:25, 60.29s/it]Bol_nitsa prieobrazhieniia. Vysokii zamok. Rasskazy - Stanislav Liem.txt
+ 68%|██████▊   | 622/917 [4:44:49<7:09:05, 87.27s/it]Rassliedovaniie. Rukopis_, naidiennaia v vannie. Nasmork - Stanislav Liem.txt
+ 68%|██████▊   | 626/917 [4:50:35<8:56:25, 110.60s/it] Dieti Nochi - Den Simmons.txt
+ 71%|███████▏  | 655/917 [5:26:39<3:38:34, 50.05s/it]Chriezvychainoie proisshiestviie - Arkadii Strughatskii _ Boris Strughatskii.txt
+ 74%|███████▎  | 674/917 [5:35:18<2:30:26, 37.15s/it]Grad obriechiennyi - Arkadii Strughatskii _ Boris Strughatskii.txt
+ 76%|███████▌  | 695/917 [5:44:05<2:11:19, 35.49s/it]Put_ na Amal_tieiu - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt
+ 76%|███████▋  | 700/917 [5:44:05<1:29:53, 24.86s/it]Skazka o Troikie - Arkadii Strughatskii _ Boris Strughatskii.txt
+ 77%|███████▋  | 702/917 [5:46:13<2:11:17, 36.64s/it]Trudno byt_ boghom - Arkadii Strughatskii _ Boris Strughatskii.txt
+ 77%|███████▋  | 705/917 [5:46:53<1:32:06, 26.07s/it]Ulitka na sklonie - Arkadii i Boris Strughatskiie.txt
+ 83%|████████▎ | 761/917 [6:34:56<1:37:59, 37.69s/it]1-Profiessiia vied_ma - Nieizviestnyi.txt
+02.God Krysy. Putnitsa - Nieizviestnyi.txt
+ 83%|████████▎ | 764/917 [6:38:42<2:36:34, 61.40s/it]3-Vierkhovnaia Vied_ma - Nieizviestnyi.txt
+ 83%|████████▎ | 765/917 [6:39:34<2:28:26, 58.60s/it]Bielorskiie khroniki - Nieizviestnyi.txt
+ 93%|█████████▎| 850/917 [8:14:33<1:38:28, 88.18s/it] Biezumnaia zviezda - Tierri Pratchiett.txt
+ 94%|█████████▍| 860/917 [8:25:09<1:12:30, 76.32s/it]Kot biez prikras - Tierri Devid Dzhon Pratchiett.txt
+ 96%|█████████▌| 877/917 [8:36:04<26:36, 39.91s/it]Nochnaia strazha - Tierri Pratchiett.txt
+ 97%|█████████▋| 891/917 [8:49:14<28:37, 66.06s/it]Santa-Khriakus - Terry David John Pratchett.txt
+ 99%|█████████▉| 906/917 [8:58:40<12:25, 67.73s/it]Vieshchiie siestrichki - Tierri Pratchiett.txt
+ 99%|█████████▉| 909/917 [9:00:40<06:59, 52.45s/it]Khobbit, ili Tuda i obratno - Dzhon Ronald Ruel Tolkiien.txt

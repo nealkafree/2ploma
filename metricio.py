@@ -49,5 +49,16 @@ def change_existed_object(path, key, metrics):
             file.write(key + ':' + '|'.join(value) + '\n')
 
 
+def delete_metric(path, label):
+    # Удаляет значения метрики label из файла с данными
+    meta, data = read_metrics(path)
+    with open(path, 'w', encoding='UTF-8') as file:
+        i = meta.index(label)
+        meta.remove(label)
+        file.write('|'.join(meta))
+        for key, value in data.items():
+            value.pop(i)
+            file.write(key + ':' + '|'.join(value))
+
 # change_existed_object('test.txt', 'test1', {'tst1': 'один', 'tst3': 'три'})
 

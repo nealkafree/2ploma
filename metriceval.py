@@ -76,33 +76,44 @@ def percent_of_pos(key, text):
     # Получает {ключ:текст строкой}. Возвращает процент существительных в тексте.
     # Метка: nounperc, verbperc, pronperc, adjperc, advperc, conjperc
     predictor = RNNMorphPredictor(language='ru')
-    words = [lose_non_russian_alphabet(word) for word in word_tokenize(text) if
-             lose_non_russian_alphabet(word).isalpha()]
-    word_morph = predictor.predict(words)
+    word_morph = []
+    for sentence in sent_tokenize(text):
+        words = [lose_non_russian_alphabet(word) for word in word_tokenize(sentence) if
+                 lose_non_russian_alphabet(word).isalpha()]
+        if len(words) > 0:
+            word_morph += predictor.predict(words)
     nouns_count = 0
-    verbs_count = 0
-    adjectives_count = 0
-    pronouns_count = 0
-    adverbs_count = 0
-    conjunctions_count = 0
     for morph in word_morph:
         if morph.pos == 'NOUN':
             nouns_count += 1
-        elif morph.pos == 'VERB':
-            verbs_count += 1
-        elif morph.pos == 'PRON':
-            pronouns_count += 1
-        elif morph.pos == 'ADJ':
-            adjectives_count += 1
-        elif morph.pos == 'ADV':
-            adverbs_count += 1
-        elif morph.pos == 'CONJ':
-            conjunctions_count += 1
     if nouns_count == 0:
         print(key)
-    return key, [round(nouns_count / len(words), 5), round(verbs_count / len(words), 5),
-                 round(pronouns_count / len(words), 5), round(adjectives_count / len(words), 5),
-                 round(adverbs_count / len(words), 5), round(conjunctions_count / len(words), 5)]
+    return key, nouns_count / len(word_morph)
+    # word_morph = predictor.predict(words)
+    # nouns_count = 0
+    # verbs_count = 0
+    # adjectives_count = 0
+    # pronouns_count = 0
+    # adverbs_count = 0
+    # conjunctions_count = 0
+    # for morph in word_morph:
+    #     #     if morph.pos == 'NOUN':
+    #     #         nouns_count += 1
+    #     elif morph.pos == 'VERB':
+    #         verbs_count += 1
+    #     elif morph.pos == 'PRON':
+    #         pronouns_count += 1
+    #     elif morph.pos == 'ADJ':
+    #         adjectives_count += 1
+    #     elif morph.pos == 'ADV':
+    #         adverbs_count += 1
+    #     elif morph.pos == 'CONJ':
+    #         conjunctions_count += 1
+    # if nouns_count == 0:
+    #     print(key)
+    # return key, [round(nouns_count / len(words), 5), round(verbs_count / len(words), 5),
+    #              round(pronouns_count / len(words), 5), round(adjectives_count / len(words), 5),
+    #              round(adverbs_count / len(words), 5), round(conjunctions_count / len(words), 5)]
 
 
 def lose_non_russian_alphabet(text):
@@ -111,11 +122,11 @@ def lose_non_russian_alphabet(text):
 
 
 if __name__ == '__main__':
-    result = eval_metric_multithread(func=percent_of_pos, data=crawl.get_texts('Corpus'), t=4)
-    metricio.add_new_metric('data.txt', 'nounperc', {key: value[0] for key, value in result.items()})
-    metricio.add_new_metric('data.txt', 'verbperc', {key: value[1] for key, value in result.items()})
-    metricio.add_new_metric('data.txt', 'pronperc', {key: value[2] for key, value in result.items()})
-    metricio.add_new_metric('data.txt', 'adjperc', {key: value[3] for key, value in result.items()})
-    metricio.add_new_metric('data.txt', 'advperc', {key: value[4] for key, value in result.items()})
-    metricio.add_new_metric('data.txt', 'conjperc', {key: value[5] for key, value in result.items()})
-
+    result = [percent_of_pos(key, value) for key, value in tqdm(crawl.get_texts('Corpus').items())]
+    # result = eval_metric_multithread(func=percent_of_pos, data=crawl.get_texts('Corpus'), t=4)
+    # metricio.add_new_metric('data.txt', 'nounperc', {key: value[0] for key, value in result.items()})
+    # metricio.add_new_metric('data.txt', 'verbperc', {key: value[1] for key, value in result.items()})
+    # metricio.add_new_metric('data.txt', 'pronperc', {key: value[2] for key, value in result.items()})
+    # metricio.add_new_metric('data.txt', 'adjperc', {key: value[3] for key, value in result.items()})
+    # metricio.add_new_metric('data.txt', 'advperc', {key: value[4] for key, value in result.items()})
+    # metricio.add_new_metric('data.txt', 'conjperc', {key: value[5] for key, value in result.items()})
