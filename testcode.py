@@ -10,9 +10,12 @@ import metricio
 # train_data = [[float(k) for k in value] for value in data.values()]
 # kmeans = KMeans(n_clusters=7)
 # kmeans.fit(train_data)
-# result = [(key, kmeans.predict([value])) for key, value in data.items()]
+# result = [(key, kmeans.predict([[float(val) for val in value]])) for key, value in data.items()]
 # result.sort(key=lambda i: i[1])
-# print(*result)
+
+# with open('Разбивка на классы, Kmeans, компоненты readability.txt', 'w+', encoding='UTF-8') as file:
+#     for text in result:
+#         file.write(str(text) + '\n')
 
 
 #
