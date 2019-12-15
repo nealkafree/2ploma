@@ -1,11 +1,11 @@
 """В этом модуле будут функции для подсчета метрик"""
-
+import math
 from multiprocessing import Pool
 import re
 
 from nltk.tokenize import word_tokenize, sent_tokenize
 from tqdm import tqdm
-from rnnmorph.predictor import RNNMorphPredictor
+from pymorphy2 import MorphAnalyzer
 
 import corpcrawler as crawl
 import metricio
@@ -72,48 +72,84 @@ def avg_syl_in_word(key, text):
     return key, round(syl_count / word_count, 5)
 
 
-def percent_of_pos(key, text):
-    # Получает {ключ:текст строкой}. Возвращает процент существительных в тексте.
-    # Метка: nounperc, verbperc, pronperc, adjperc, advperc, conjperc
-    predictor = RNNMorphPredictor(language='ru')
-    word_morph = []
-    for sentence in sent_tokenize(text):
-        words = [lose_non_russian_alphabet(word) for word in word_tokenize(sentence) if
-                 lose_non_russian_alphabet(word).isalpha()]
-        if len(words) > 0:
-            word_morph += predictor.predict(words)
-    nouns_count = 0
-    for morph in word_morph:
-        if morph.pos == 'NOUN':
-            nouns_count += 1
-    if nouns_count == 0:
-        print(key)
-    return key, nouns_count / len(word_morph)
-    # word_morph = predictor.predict(words)
-    # nouns_count = 0
-    # verbs_count = 0
-    # adjectives_count = 0
-    # pronouns_count = 0
-    # adverbs_count = 0
-    # conjunctions_count = 0
-    # for morph in word_morph:
-    #     #     if morph.pos == 'NOUN':
-    #     #         nouns_count += 1
-    #     elif morph.pos == 'VERB':
-    #         verbs_count += 1
-    #     elif morph.pos == 'PRON':
-    #         pronouns_count += 1
-    #     elif morph.pos == 'ADJ':
-    #         adjectives_count += 1
-    #     elif morph.pos == 'ADV':
-    #         adverbs_count += 1
-    #     elif morph.pos == 'CONJ':
-    #         conjunctions_count += 1
-    # if nouns_count == 0:
-    #     print(key)
-    # return key, [round(nouns_count / len(words), 5), round(verbs_count / len(words), 5),
-    #              round(pronouns_count / len(words), 5), round(adjectives_count / len(words), 5),
-    #              round(adverbs_count / len(words), 5), round(conjunctions_count / len(words), 5)]
+def percent_of_nouns(key, text):
+    # Получает {ключ:текст строкой}. Возвращает процент существительных в тексте. Используется нормализованный корпус.
+    # Метка: nounperc
+    pos_tags = [word.split(',')[2] for word in text.split('|')]
+    noun_count = pos_tags.count('NOUN')
+    return key, round(noun_count / len(pos_tags), 5)
+
+
+def percent_of_verbs(key, text):
+    # Получает {ключ:текст строкой}. Возвращает процент глаголов в тексте. Используется нормализованный корпус.
+    # Метка: verbperc
+    pos_tags = [word.split(',')[2] for word in text.split('|')]
+    noun_count = pos_tags.count('VERB')
+    return key, round(noun_count / len(pos_tags), 5)
+
+
+def percent_of_adjectives(key, text):
+    # Получает {ключ:текст строкой}. Возвращает процент прилагательных в тексте. Используется нормализованный корпус.
+    # Метка: adjperc
+    pos_tags = [word.split(',')[2] for word in text.split('|')]
+    noun_count = pos_tags.count('ADJ')
+    return key, round(noun_count / len(pos_tags), 5)
+
+
+def percent_of_pronouns(key, text):
+    # Получает {ключ:текст строкой}. Возвращает процент местоимений в тексте. Используется нормализованный корпус.
+    # Метка: pronperc
+    pos_tags = [word.split(',')[2] for word in text.split('|')]
+    noun_count = pos_tags.count('PRON')
+    return key, round(noun_count / len(pos_tags), 5)
+
+
+def percent_of_conjugations(key, text):
+    # Получает {ключ:текст строкой}. Возвращает процент союзов в тексте. Используется нормализованный корпус.
+    # Метка: conjperc
+    pos_tags = [word.split(',')[2] for word in text.split('|')]
+    noun_count = pos_tags.count('CONJ')
+    return key, round(noun_count / len(pos_tags), 5)
+
+
+def text_entropy(key, text):
+    # Получает {ключ:текст строкой}. Возвращает энтропию текста. Используется нормализованный корпус.
+    # Метка: entropy
+    normalized_words = [word.split(',')[1] for word in text.split('|')]
+    freq_dict = {}
+    for word in normalized_words:
+        if word in freq_dict:
+            freq_dict[word] += 1
+        else:
+            freq_dict[word] = 1
+    entropy = 0
+    n = len(normalized_words)
+    for _, value in freq_dict.items():
+        entropy += (value / n) * math.log2(value / n)
+    return key, round(-entropy, 5)
+
+
+def text_surprisal(key, text):
+    # Получает {ключ:текст строкой}. Возвращает метрику surprisal текста. Используется нормализованный корпус.
+    # Метка: surpri
+    normalized_context = [word.split(',')[1] for word in text.split('|')]
+    normalized_words = normalized_context[1:]
+    freq_dict = {}
+    bigr_freq_dict = {}
+    for context, word in zip(normalized_context, normalized_words):
+        if context in freq_dict:
+            freq_dict[context] += 1
+        else:
+            freq_dict[context] = 1
+        if (context, word) in bigr_freq_dict:
+            bigr_freq_dict[(context, word)] += 1
+        else:
+            bigr_freq_dict[(context, word)] = 1
+    surprisal = 0
+    n = len(normalized_words)
+    for (context, word), value in bigr_freq_dict:
+        surprisal += math.log2(freq_dict[context] * (n - 1) / value * n)
+    return key, round(surprisal, 5)
 
 
 def lose_non_russian_alphabet(text):
@@ -122,10 +158,6 @@ def lose_non_russian_alphabet(text):
 
 
 if __name__ == '__main__':
-    result = eval_metric_multithread(func=percent_of_pos, data=crawl.get_texts('Corpus'), t=4)
-    # metricio.add_new_metric('data.txt', 'nounperc', {key: value[0] for key, value in result.items()})
-    # metricio.add_new_metric('data.txt', 'verbperc', {key: value[1] for key, value in result.items()})
-    # metricio.add_new_metric('data.txt', 'pronperc', {key: value[2] for key, value in result.items()})
-    # metricio.add_new_metric('data.txt', 'adjperc', {key: value[3] for key, value in result.items()})
-    # metricio.add_new_metric('data.txt', 'advperc', {key: value[4] for key, value in result.items()})
-    # metricio.add_new_metric('data.txt', 'conjperc', {key: value[5] for key, value in result.items()})
+    result = eval_metric_multithread(func=percent_of_verbs, data=crawl.get_texts('Normalized Corpus'))
+    metricio.change_existed_metric('data.txt', 'verbperc', result)
+

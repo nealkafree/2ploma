@@ -34,7 +34,3 @@ def create_normalized_corpus(path):
     for key, value in result.items():
         with open(os.path.join(path, key), 'w', encoding='UTF-8') as file:
             file.write(value)
-
-
-if __name__ == '__main__':
-    create_normalized_corpus('Normalized Corpus')
