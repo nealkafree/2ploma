@@ -131,7 +131,7 @@ def text_entropy(key, text):
 
 def text_surprisal(key, text):
     # Получает {ключ:текст строкой}. Возвращает метрику surprisal текста. Используется нормализованный корпус.
-    # Метка: surpri
+    # Метка: surprisal
     normalized_context = [word.split(',')[1] for word in text.split('|')]
     normalized_words = normalized_context[1:]
     freq_dict = {}
@@ -147,8 +147,8 @@ def text_surprisal(key, text):
             bigr_freq_dict[(context, word)] = 1
     surprisal = 0
     n = len(normalized_words)
-    for (context, word), value in bigr_freq_dict:
-        surprisal += math.log2(freq_dict[context] * (n - 1) / value * n)
+    for bigr, value in bigr_freq_dict:
+        surprisal += math.log2(freq_dict[bigr[0]] * (n - 1) / value * n)
     return key, round(surprisal, 5)
 
 
@@ -158,6 +158,6 @@ def lose_non_russian_alphabet(text):
 
 
 if __name__ == '__main__':
-    result = eval_metric_multithread(func=percent_of_conjugations, data=crawl.get_texts('Normalized Corpus'))
-    metricio.change_existed_metric('data.txt', 'conjperc', result)
+    result = eval_metric_multithread(func=text_surprisal, data=crawl.get_texts('Normalized Corpus'))
+    metricio.add_new_metric('data.txt', 'surprisal', result)
 
