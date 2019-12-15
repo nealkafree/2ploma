@@ -158,6 +158,6 @@ def lose_non_russian_alphabet(text):
 
 
 if __name__ == '__main__':
-    result = eval_metric_multithread(func=percent_of_verbs, data=crawl.get_texts('Normalized Corpus'))
-    metricio.change_existed_metric('data.txt', 'verbperc', result)
+    result = eval_metric_multithread(func=percent_of_conjugations, data=crawl.get_texts('Normalized Corpus'))
+    metricio.change_existed_metric('data.txt', 'conjperc', result)
 
