@@ -5,7 +5,6 @@ import re
 
 from nltk.tokenize import word_tokenize, sent_tokenize
 from tqdm import tqdm
-from pymorphy2 import MorphAnalyzer
 
 import corpcrawler as crawl
 import metricio
@@ -147,9 +146,9 @@ def text_surprisal(key, text):
             bigr_freq_dict[(context, word)] = 1
     surprisal = 0
     n = len(normalized_words)
-    for bigr, value in bigr_freq_dict:
-        surprisal += math.log2(freq_dict[bigr[0]] * (n - 1) / value * n)
-    return key, round(surprisal, 5)
+    for (context, word), value in bigr_freq_dict.items():
+        surprisal += math.log2(freq_dict[context] * (n - 1) / value * n)
+    return key, round(surprisal / n, 5)
 
 
 def lose_non_russian_alphabet(text):
