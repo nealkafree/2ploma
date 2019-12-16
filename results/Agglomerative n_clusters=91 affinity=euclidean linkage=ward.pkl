@@ -1,0 +1,917 @@
+0 cluster: Tiemnym-tiemno bylo v tunnieliakh - Dzhordzh Martin.txt
+0 cluster: Linkor v naftalinie - Garri Garrison.txt
+0 cluster: Chto eto za shtuka - liubov__ - Aiziek Azimov.txt
+0 cluster: Glubina - Aiziek Azimov.txt
+0 cluster: Godovshchina - Aiziek Azimov.txt
+0 cluster: Govoriashchii kamien_ - Aiziek Azimov.txt
+0 cluster: Kak poimat_ krolika - Aiziek Azimov.txt
+0 cluster: Blaghoustroiennaia planieta - Arkadii i Boris Strughatskiie.txt
+0 cluster: Chriezvychainoie proisshiestviie - Arkadii Strughatskii _ Boris Strughatskii.txt
+0 cluster: Glubokii poisk - Arkadii Strughatskii _ Boris Strughatskii.txt
+0 cluster: God tridtsat_ sied_moi - Arkadii Strughatskii _ Boris Strughatskii.txt
+0 cluster: Ispytaniie __SKIBR__ - Arkadii Strughatskii _ Boris Strughatskii.txt
+0 cluster: Pochti takiie zhie - Arkadii Strughatskii _ Boris Strughatskii.txt
+0 cluster: ZABYTYI EKSPIeRIMIeNT - Arkadii Strughatskii _ Boris Strughatskii.txt
+0 cluster: Ostavaities_ s nami - Anna Sierghieievna Gavrilova.txt
+1 cluster: Tarzan i chiempion - Edghar Rais Bierrouz.txt
+1 cluster: Dorogha v San-Brieta - Dzhordzh Martin.txt
+1 cluster: Put_ kriesta i drakona - Dzhordzh Martin.txt
+1 cluster: V osadie - Dzhordzh Martin.txt
+1 cluster: Zvier_ dlia Norna - Dzhordzh Martin.txt
+1 cluster: Bill, ghieroi Galaktiki, otpravliaietsia v svoi piervyi otpusk - Garri Garrison.txt
+1 cluster: Ia tiebia vizhu - Garri Garrison.txt
+1 cluster: Ni voiny, ni zvukov boia - Garri Garrison.txt
+1 cluster: Otvierzhiennyi - Garri Garrison.txt
+1 cluster: Ruka zakona - Garri Garrison.txt
+1 cluster: Sosiedi - Garri Garrison.txt
+1 cluster: Trienirovochnyi poliet - Garri Maksviell Garrison.txt
+1 cluster: Zhizn_ khudozhnika - Garri Garrison.txt
+1 cluster: Zolotyie ghody Stal_noi Krysy - Garri Garrison.txt
+1 cluster: Tysiacha smiertiei - Orson Skott Kard.txt
+1 cluster: Garantirovannoie udovol_stviie [Budietie dovol_ny] - Aiziek Azimov.txt
+1 cluster: Khomo sol - Aiziek Azimov.txt
+1 cluster: Kisieinyie ghrify - Aiziek Azimov.txt
+1 cluster: Sovriemiennyi volshiebnik - Aiziek Azimov.txt
+1 cluster: Tupik - Aiziek Azimov.txt
+1 cluster: V plienu u Viesty - Aiziek Azimov.txt
+1 cluster: Vybory [Naznachaiet Mul_tivak] - Aiziek Azimov.txt
+1 cluster: Zatieriannyie u Viesty - Aiziek Azimov.txt
+1 cluster: Zierkal_noie otrazhieniie - Aiziek Azimov.txt
+2 cluster: Pozhiratieli miertvykh (13-i voin) - Maikl Kraiton.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 10 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 13 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 14 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 15 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 17 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 18 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 4 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 7 - Lit-oboz.ru.txt
+2 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 9 - Lit-oboz.ru.txt
+2 cluster: Chiernyie kholmy - Den Simmons.txt
+3 cluster: Катаев Цветик-семицветик
+3 cluster: Сказка $ Шарль Перро $ Красная шапочка
+3 cluster: Skorost_ ghieparda, ryk l_va - Garri Garrison.txt
+3 cluster: Tochka zrieniia - Aiziek Azimov.txt
+3 cluster: Trinadtsatyi dien_ rozhdiestva - Aiziek Azimov.txt
+4 cluster: Cказка $ Роальд Даль $ Чарли и шоколадная фабрика.txt
+4 cluster: Lakki Starr i piraty s astieroidov (pier. A.Anpilov) - Aiziek Azimov.txt
+4 cluster: Davaitie vsie ub_iom Konstantsiiu - Rei Dughlas Bredbieri.txt
+4 cluster: Dolzhien zhit_ - Arkadii Strughatskii _ Boris Strughatskii.txt
+4 cluster: Popytka k bieghstvu - Arkadii Strughatskii _ Boris Strughatskii.txt
+4 cluster: Dzhonni i bomba - Tierri Pratchiett.txt
+4 cluster: Dzhonni i miertvietsy - Tierri Pratchiett.txt
+4 cluster: Kryl_ia - Tierri Devid Dzhon Pratchiett.txt
+4 cluster: Tol_ko ty mozhiesh_ spasti chieloviechiestvo - Tierri Pratchiett.txt
+5 cluster: Сказка $ Линдгрен $ Малыш и Карлсон.txt
+5 cluster: Stiertyie miry - Garri Garrison.txt
+5 cluster: Golos tiekh, kogho niet - Orson Skott Kard.txt
+5 cluster: Govoriashchii ot imieni miertvykh (Golos tiekh, kogho niet) - Orson Skott Kard.txt
+5 cluster: Ksienotsid - Orson Skott Kard.txt
+5 cluster: Tieatr Tieniei - Orson Skott Kard.txt
+5 cluster: Tien_ Endiera - Orson Skott Kard.txt
+5 cluster: Tien_ Gieghiemona - Orson Skott Kard.txt
+5 cluster: Akadiemiia i Ziemlia - Aiziek Azimov.txt
+5 cluster: Krai Osnovaniia [Akadiemiia na kraiu ghibieli] - Aiziek Azimov.txt
+5 cluster: Na puti k Akadiemii - Aiziek Azimov.txt
+5 cluster: Na puti k Osnovaniiu [Na puti k Akadiemii] - Aiziek Azimov.txt
+5 cluster: Osnovaniie i Ziemlia - Aiziek Azimov.txt
+5 cluster: Roboty i impieriia - Aiziek Azimov.txt
+5 cluster: Roboty utrienniei zari - Aiziek Azimov.txt
+5 cluster: Korolieva el_fov Shannary - Tierri Bruks.txt
+5 cluster: Potomki Shannary - Tierri Bruks.txt
+5 cluster: Alieta - Miliena Zavoichinskaia.txt
+6 cluster: Ян Ларри Необыкновенные приключения Карика и Вали
+6 cluster: Ekstriennyi sluchai - Maikl Kraiton.txt
+6 cluster: Kryl_ia - Maikl Kraiton.txt
+6 cluster: Sfiera - Maikl Kraiton.txt
+6 cluster: Zatieriannyi mir - Maikl Kraiton.txt
+6 cluster: Bill, Gieroi Galaktiki, na planietie diesiati tysiach barov - Garri Garrison.txt
+6 cluster: Stal_naia Krysa idiet v armiiu - Garri Garrison.txt
+6 cluster: Stal_naia Krysa na maniezhie - Garri Garrison.txt
+6 cluster: Stal_naia krysa otpravliaietsia v ad [= Stalysa v ghostiakh u d_iavola] - Garri Garrison.txt
+6 cluster: Stal_naia krysa poiot bliuz - Garri Garrison.txt
+6 cluster: Marsianskiie khroniki - Rei Dughlas Bredbieri.txt
+6 cluster: Nadvighaietsia bieda - Rei Briedbieri.txt
+6 cluster: Sbornik 12. Na pososhok - Rei Dughlas Bredbieri.txt
+6 cluster: Sbornik 2 ChIeLOVIeK V KARTINKAKh - Rei Dughlas Bredbieri.txt
+6 cluster: Vospominaniie ob ubiistvie - Rei Dughlas Bredbieri.txt
+6 cluster: Poldien_, XXII viek - Arkadii i Boris Strughatskiie.txt
+6 cluster: Stazhiery - Arkadii Strughatskii _ Boris Strughatskii.txt
+6 cluster: Ushi nie troghat_! - Anna Sierghieievna Gavrilova.txt
+6 cluster: K oruzhiiu! K oruzhiiu! - Terry David John Pratchett.txt
+6 cluster: Mielkiie boghi (pier. N.Bierdiennikov pod rihikarientsieva) - Terry David John Pratchett.txt
+6 cluster: Mrachnyi Zhniets (pierievod N.Bierdiennikovahikarientsieva) - Terry David John Pratchett.txt
+6 cluster: Piekhotnaia ballada - Tierri Pratchiett.txt
+6 cluster: Rokovaia muzyka - Tierri Devid Dzhon Pratchiett.txt
+7 cluster: Tarzan nieukrotimyi - Edghar Rais Bierrouz.txt
+7 cluster: Kongho - Maikl Kraiton.txt
+7 cluster: Bill - Gieroi Galaktiki - Garri Garrison.txt
+7 cluster: Liutaia zima [Otmorozhiennyi] - Den Simmons.txt
+7 cluster: Zimniie prizraki - Den Simmons.txt
+7 cluster: Ekspieditsiia v prieispodniuiu - Arkadii NatStrughatskii _ Boris Natanovich Strughatskii.txt
+7 cluster: Obitaiemyi ostrov (Vosstanovliennyi polnyi trughatskii _ Boris Natanovich Strughatskii.txt
+7 cluster: Otiaghoshchiennyie zlom, ili Sorok liet spustia - Arkadii i Boris Strughatskiie.txt
+7 cluster: 2-Vied_ma-khranitiel_nitsa - Nieizviestnyi.txt
+7 cluster: 17. Желязны Р. - Том 17. Коль в роли Фауста тебе не преуспеть (Миры Роджера Желязны) - 1996.txt
+7 cluster: Dielo tabak - Tierri Pratchiett.txt
+8 cluster: Tarzan i liudi-lieopardy - Edghar Rais Bierrouz.txt
+8 cluster: Tarzan i potieriannaia impieriia - Edghar Bierrouz.txt
+8 cluster: Tarzan i potierpievshiie korabliekrushieniie - Edghar Rais Bierrouz.txt
+8 cluster: Dietiektivnoie aghientstvo Dirka Dzhientli - Dughlas Noel_ Adams.txt
+8 cluster: Etichieskii inzhienier [Spietsialist po etikie_ Moralist] - Garri Garrison.txt
+8 cluster: Fantastichieskaia sagha - Garri Garrison.txt
+8 cluster: Krysa iz nierzhavieiushchiei stali - Garri Garrison.txt
+8 cluster: Krysa iz nierzhavieiushchiei stali poiavliaietsia na sviet - Garri Garrison.txt
+8 cluster: Krysa iz nierzhavieiushchiei stali spasaiet mir - Garri Garrison.txt
+8 cluster: Lakki Starr i kol_tsa Saturna - Aiziek Azimov.txt
+8 cluster: Iz prakha vosstavshiie - Rei Dughlas Bredbieri.txt
+8 cluster: Biespokoinoie schast_ie, ili Siekriety malien_kogho drakona - Anna Gavrilova.txt
+8 cluster: Blaghoslovitie korolia, ili Kharaktier skvie nie zhienat! - Anna Sierghieievna Gavrilova.txt
+8 cluster: 25. Желязны Р. - Том 25. Наглядный путеводитель по замку Амбер. Рассказы (Миры Роджера Желязны) - 1997.txt
+8 cluster: 27. Желязны Р. - Том 27. Хрономастер (Миры Роджера Желязны) - 1997.txt
+8 cluster: 29.-Желязны-Р.-Том-29.-После-победы-_Миры-Роджера-Желязны_-1997.txt
+9 cluster: Фэнтези $ Роулинг $ Гарри Поттер и Философский камень
+9 cluster: Marsianskiie shakhmaty - Edghar Rais Bierrouz.txt
+9 cluster: Syn Tarzana - Edghar Bierrouz.txt
+9 cluster: Zatieriannyie na Vienierie - Edghar Bierrouz.txt
+9 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 2 - DzhiekLondon.txt
+9 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 9 - Lit-Classic.Com.txt
+9 cluster: Plieniennaia Vsieliennaia - Garri Garrison.txt
+9 cluster: Dieti Razuma - Orson Skott Kard.txt
+9 cluster: Khroniki Vortingha - Orson Skott Kard.txt
+9 cluster: Krasnokozhii prorok - Orson Skott Kard.txt
+9 cluster: Liudi na kraiu pustyni - Orson Skott Kard.txt
+9 cluster: Sied_moi syn - Orson Skott Kard.txt
+9 cluster: Akadiemiia na kraiu ghibieli - Aiziek Azimov.txt
+9 cluster: Khromaia sud_ba - Arkadii i Boris Strughatskiie.txt
+9 cluster: Ulitka na sklonie - Arkadii i Boris Strughatskiie.txt
+9 cluster: Piervyi korol_ Shannary - Tierri Bruks.txt
+9 cluster: Talismany Shannary - Tierri Bruks.txt
+9 cluster: 05. Желязны Р. - Том 05. Валет из Страны Теней. Князь Света (Миры Роджера Желязны) - 1995.txt
+9 cluster: 21. Желязны Р. - Том 21. Знак единорога. Рука Оберона (Миры Роджера Желязны) - 1996.txt
+10 cluster: I smiert_ iegho nasliediie - Dzhordzh Martin.txt
+10 cluster: Liedianoi drakon - Dzhordzh Martin.txt
+10 cluster: Boievoi rieid - Garri Garrison.txt
+10 cluster: Chuzhaia aghoniia - Garri Garrison.txt
+10 cluster: Kosmichieskiie krysy DDD - Garri Maksviell Garrison.txt
+10 cluster: Mastier na vsie ruki - Garri Garrison.txt
+10 cluster: Ot kazhdogho po sposobnostiam - Garri Garrison.txt
+10 cluster: Pliushievyi mishka - Garri Garrison.txt
+10 cluster: Pronikshii v skaly - Garri Garrison.txt
+10 cluster: Smiertnyie muki prishiel_tsa - Garri Garrison.txt
+10 cluster: Vy liudi nasiliia - Garri Garrison.txt
+10 cluster: Miechty robotov - Aiziek Azimov.txt
+10 cluster: Siekrietnaia missiia - Aiziek Azimov.txt
+11 cluster: фэнтези $ Роулинг $ Гарри Поттер и узник Азкабана
+11 cluster: Golodnyie ighry - S_iuzien Kollinz.txt
+11 cluster: I vspykhniet plamia - Siuzien Kollinz.txt
+11 cluster: Soika-pieriesmieshnitsa - S_iuzien Kollinz.txt
+11 cluster: Ighra Endiera - Orson Skott Kard.txt
+11 cluster: Gniev Tiamat - Dzhieims S. A. Kori.txt
+11 cluster: Piepiel Vavilona (LP) - Dzhieims S. A. Kori.txt
+11 cluster: Voina Kalibana - Dzhieims Kori.txt
+11 cluster: Cchastlivchik Starr (Lucky Starr) - Aiziek Azimov.txt
+11 cluster: Prieliudiia k Osnovaniiu [Prieliudiia k Akadiemii] - Aiziek Azimov.txt
+11 cluster: Tiemnyi karnaval - Rei Dughlas Bredbieri.txt
+11 cluster: Ispytaniie Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt
+11 cluster: Taniets Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt
+11 cluster: Trizna po kniaziu Riuriku. Krov_ za krov_! (a Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt
+11 cluster: Zolotoi kliuchik dlia Nasti. Knigha vtoraia - Anna Gavrilova.txt
+11 cluster: Mar_ia Biessmiertnaia - Natal_ia Zhil_tsova.txt
+11 cluster: Irzhina. Sluchainoie - nie sluchaino - Miliena V. Zavoichinskaia.txt
+11 cluster: Mistier Smiert_ i choknutaia vied_ma - Miliena Valier_ievna Zavoichinskaia.txt
+11 cluster: Trinadtsataia nieviesta - Miliena Zavoichinskaia.txt
+11 cluster: Vysshaia Shkola Bibliotiekariei. Maghiia knighokhodtsiev - Miliena V. Zavoichinskaia.txt
+11 cluster: 02. Желязны Р. - Том 02. Творец снов. Долина Проклятий. Порождения Света и Тьмы (Миры Роджера Желязны) - 1995.txt
+11 cluster: 03. Желязны Р. - Том 03. Дорожные знаки. Двери в песке (Миры Роджера Желязны) - 1995.txt
+11 cluster: 08. Желязны Р. - Том 08. Подменённый. Одержимый магией (Миры Роджера Желязны) - 1995.txt
+11 cluster: 11. Желязны Р. - Том 11. Тоскливой октябрьской ночью... Кладбище слонов. Спящий (Миры Роджера Желязны) - 1996.txt
+11 cluster: 13. Желязны Р. - Том 13. Двери лица его, пламенники пасти его. Последний защитник Камелота (Миры Роджера Желязны) - 1995.txt
+11 cluster: 14. Желязны Р. - Том 14. Вариант единорога. Мороз и пламя (Миры Роджера Желязны) - 1995.txt
+11 cluster: 23. Желязны Р. - Том 23. Кровь Амбера. Знак Хаоса (Миры Роджера Желязны) - 1996.txt
+11 cluster: Bats! - Tierri Pratchiett.txt
+11 cluster: Dielai dien_ghi! - Tierri Pratchiett.txt
+11 cluster: Dierzhi marku! - Tierri Pratchiett.txt
+11 cluster: Nievidimyie akadiemiki - Tierri Pratchiett.txt
+11 cluster: Dvie krieposti - Dzhon Ronal_d Ruel Tolkin.txt
+12 cluster: Intsidient - Garri Garrison.txt
+12 cluster: Maghazin ighrushiek - Garri Garrison.txt
+12 cluster: Robot, kotoryi khotiel vsie znat_ - Garri Garrison.txt
+12 cluster: Pamiati ottsa - Aiziek Azimov.txt
+12 cluster: Piervyi Zakon - Aiziek Azimov.txt
+12 cluster: Rozhdiestvo biez Rodni - Aiziek Azimov.txt
+12 cluster: Svietovirshi - Aiziek Azimov.txt
+12 cluster: Tri-chietyrie - Aiziek Azimov.txt
+12 cluster: Biednyie zlyie liudi - Arkadii Strughatskii _ Boris Strughatskii.txt
+13 cluster: Tarzan Uzhasnyi - Edghar Rais Bierrouz.txt
+13 cluster: Konnyie varvary - Garri Garrison.txt
+13 cluster: Zviezdnyie pokhozhdieniia ghalaktichieskikh rieindzhierov - Garri Garrison.txt
+13 cluster: Koniets viechnosti - Aiziek Azimov.txt
+13 cluster: Osnovaniie [Akadiemiia] - Aiziek Azimov.txt
+13 cluster: Vtoraia Akadiemiia - Aiziek Azimov.txt
+13 cluster: Vino iz oduvanchikov - Rei Dughlas Bredbieri.txt
+13 cluster: Nieghlubokaia moghila - Den Simmons.txt
+13 cluster: Piesn_ Kali - Den Simmons.txt
+13 cluster: Piknik na obochinie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt
+13 cluster: Kanikuly v Ravanshirie, ili Svad_by nie budiet! (SI) - Anna Sierghieievna Gavrilova.txt
+13 cluster: Primanka - Anna Sierghieievna Gavrilova.txt
+13 cluster: Upriamoie schast_ie, ili Vospitaniie malien_kogho drakona - Anna Gavrilova.txt
+13 cluster: Vied_ma na diesiert - Anna Sierghieievna Gavrilova.txt
+13 cluster: Otbor - Natal_ia Sierghieievna Zhil_tsova.txt
+13 cluster: Polunochnyi zamok - Natal_ia Sierghieievna Zhil_tsova.txt
+13 cluster: 16. Желязны Р. - Том 16. Принеси мне голову Прекрасного принца (Миры Роджера Желязны) - 1996.txt
+13 cluster: Strata - Tierri Pratchiett.txt
+13 cluster: Tsviet volshiebstva (pier. I.Kravtsova pod rhikarientsieva) - Terry David John Pratchett.txt
+13 cluster: Tvortsy zaklinanii - Tierri Pratchiett.txt
+13 cluster: Khobbit, ili Tuda i obratno - Dzhon Ronald Ruel Tolkiien.txt
+14 cluster: Doch_ tysiachi dzhieddakov - Edghar Rais Bierrouz.txt
+14 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 1 - Lit-oboz.ru.txt
+14 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 12 - Lit-oboz.ru.txt
+14 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 20 - Lit-oboz.ru.txt
+14 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 5 - Lit-oboz.ru.txt
+14 cluster: Bibliotieka XXI vieka (sbornik) - Stanislav Liem.txt
+15 cluster: Bashnia Piepla - Dzhordzh Martin.txt
+15 cluster: Domoi, na Ziemliu - Garri Garrison.txt
+15 cluster: Kapitan Gonario Kharpplieiier - Garri Garrison.txt
+15 cluster: Samyi zamiechatiel_nyi avtomobil_ v mirie - Garri Garrison.txt
+15 cluster: Znachieniie nabliudatiel_nosti - Garri Garrison.txt
+15 cluster: Na chuzhbinie - Orson Skott Kard _ Dzhiei Parri.txt
+15 cluster: Bil_iardnyi shar - Aiziek Azimov.txt
+16 cluster: V Potieriannykh ziemliakh - Dzhordzh Martin.txt
+16 cluster: Eskadril_ia vampirov - Garri Garrison.txt
+16 cluster: Kapitan Bork - Garri Garrison.txt
+16 cluster: Priestuplieniie - Garri Garrison.txt
+16 cluster: Spasatiel_naia opieratsiia - Garri Garrison.txt
+16 cluster: Spietsialist po kontaktam - Garri Garrison.txt
+16 cluster: Lenni - Aiziek Azimov.txt
+16 cluster: Nashli! - Aiziek Azimov.txt
+16 cluster: On priblizhaietsia! - Aiziek Azimov.txt
+16 cluster: Pashtiet iz ghusinoi piechienki - Aiziek Azimov.txt
+16 cluster: Posliednii vopros [Posliedniaia probliema] - Aiziek Azimov.txt
+16 cluster: Robot EL-76 popadaiet nie tuda - Aiziek Azimov.txt
+16 cluster: Sierdobol_nyie stierviatniki - Aiziek Azimov.txt
+16 cluster: Vsie ghriekhi mira - Aiziek Azimov.txt
+16 cluster: Zaminka na prazdnovanii Triekhsotlietiia - Aiziek Azimov.txt
+16 cluster: Zdies_ niet nikogho, kromie - Aiziek Azimov.txt
+16 cluster: Piervyie liudi na piervom plotu - Arkadii Strughatskii _ Boris Strughatskii.txt
+17 cluster: Posliednieie srazhieniie - Garri Garrison.txt
+17 cluster: _.Vstav_tie shplint A v ghniezdo B_. - Aiziek Azimov.txt
+18 cluster: Krasnyi iastrieb - Edghar Rais Bierrouz.txt
+18 cluster: Liudi s Luny - Edghar Rais Bierrouz.txt
+18 cluster: Sviriepyi Pielliusidar - Edghar Bierrouz.txt
+18 cluster: Zakorienielyi priestupnik - Edghar Rais Bierrouz.txt
+18 cluster: Miezhievoi Rytsar_ - Dzhordzh Martin.txt
+18 cluster: Liev, Koldun_ia i platianoi shkaf - Klaiv Stieiplz L_iuis.txt
+18 cluster: Posliedniaia bitva - Klaiv Stieiplz L_iuis.txt
+18 cluster: Prints Kaspian - Klaiv Stieiplz L_iuis.txt
+18 cluster: __Pokoritiel_ Zari__, ili Plavaniie na krai svieta - Klaiv Stieiplz L_iuis.txt
+19 cluster: Pozolochiennyi viek - Mark Tvien _ Charl_z Dedli Uornier.txt
+19 cluster: Tom 10. Rasskazy. Ochierki. Publitsistika. 1863-1893. - Mark Tvien.txt
+19 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 9 - Lit-Classic.Com.txt
+19 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 3 - Lit-Classic.ComLondon.txt
+19 cluster: Sobraniie sochinienii, tom 4. V diebriakh Iuzotniki za zhirafami. ssv6t-4 - Tomas Main Rid.txt
+19 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 3 - Lit-oboz.ru.txt
+19 cluster: Skazki robotov. Kibieriada - Stanislav Liem.txt
+19 cluster: Drud, ili Chieloviek v chiernom - Den Simmons.txt
+19 cluster: Mierzost_ - Den Simmons.txt
+19 cluster: Skazaniia Ziemnomor_ia - Ursula Lie Guin.txt
+20 cluster: Янссон Муми-тролль и комета
+20 cluster: Kamiennyi ghorod - Dzhordzh Martin.txt
+20 cluster: Khranitieli - Dzhordzh Martin.txt
+20 cluster: Manna niebiesnaia - Dzhordzh Martin.txt
+20 cluster: Ryvok k zviezdnomu svietu - Dzhordzh Martin.txt
+20 cluster: Dvukhsotlietnii chieloviek - Aiziek Azimov.txt
+20 cluster: Khoziaika - Aiziek Azimov.txt
+20 cluster: Lovushka dlia prostakov - Aiziek Azimov.txt
+20 cluster: Profiessiia - Aiziek Azimov.txt
+21 cluster: Pieschanyie koroli - Dzhordzh Martin.txt
+21 cluster: Piesn_ o Lii - Dzhordzh Martin.txt
+21 cluster: Portriety iegho dietiei - Dzhordzh Martin.txt
+21 cluster: Lieto, proshchai - Rei Dughlas Bredbieri.txt
+21 cluster: Oghniennyi stolp - Rei Bredbieri.txt
+21 cluster: R -- znachit rakieta - Rei Dughlas Bredbieri.txt
+21 cluster: Piat_ lozhiek eliksira - Arkadii Strughatskii _ Boris Strughatskii.txt
+21 cluster: Put_ na Amal_tieiu - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt
+22 cluster: Sovietnik po inviestitsiiam - Orson Skott Kard.txt
+22 cluster: Fotoghrafiia klassa za etot ghod - Den Simmons.txt
+22 cluster: V poiskakh Kielli Dieil - Den Simmons.txt
+22 cluster: Kot biez prikras - Tierri Devid Dzhon Pratchiett.txt
+23 cluster: фэнтези $ Роулинг $ Гарри Поттер и Тайная комната
+23 cluster: Padaiushchaia Zviezda - Garri Garrison.txt
+23 cluster: Akadiemiia i Impieriia - Aiziek Azimov.txt
+23 cluster: Tri Zakona robotiekhniki - Aiziek Azimov.txt
+23 cluster: Dalieko za polnoch_ - Rei Dughlas Bredbieri.txt
+23 cluster: Miekhanizmy radosti - Rei Dughlas Bredbieri.txt
+23 cluster: Sbornik 6 ELIeKTRIChIeSKOIe TIeLO POIu! - Rei Dughlas Bredbieri.txt
+23 cluster: Zolotyie iabloki Solntsa - Rei Dughlas Bredbieri.txt
+23 cluster: Kostry Ediema - Den Simmons.txt
+23 cluster: Kruchie niekuda - Den Simmons.txt
+23 cluster: Dni Krakiena - Arkadii Strughatskii _ Boris Strughatskii.txt
+23 cluster: Dusha Oghnia - Anna Gavrilova _ Natal_ia Zhil_tsova.txt
+23 cluster: Masha i Pozitivnyi mir - Anna Sierghieievna Gavrilova.txt
+23 cluster: Masha i Riektor v shokie - Anna Sierghieievna Gavrilova.txt
+23 cluster: Masha i Tiemnyi Vlastielin - Anna Gavrilova.txt
+23 cluster: Akadiemiia chiernogho drakona. Stavka na vied_mu - Natal_ia Sierghieievna Zhil_tsova.txt
+23 cluster: Akadiemiia maghichieskogho prava. Briunietka- Natal_ia Zhil_tsova _ Azaliia Ieriemieieva.txt
+23 cluster: Akadiemiia maghichieskogho prava. Briunietkarghieievna Zhil_tsova _ Azaliia Ieriemieieva.txt
+23 cluster: Antimagh - Natal_ia Zhil_tsova.txt
+23 cluster: Ariia dlia boghov - Natal_ia Sierghieievna Zhil_tsova.txt
+23 cluster: Obruchiennyie krov_iu. Vybor - Natal_ia Sierghieievna Zhil_tsova.txt
+23 cluster: Piat_ sierdiets t_my - Natal_ia Zhil_tsova.txt
+23 cluster: Sila vied_my - Natal_ia S. Zhil_tsova.txt
+23 cluster: Tri znaka smierti - Natal_ia Zhil_tsova.txt
+23 cluster: Boievaia praktika knighokhodtsiev - Miliena Valier_ievna Zavoichinskaia.txt
+23 cluster: Khroniki knighokhodtsiev - Miliena Zavoichinskaia.txt
+23 cluster: Knighokhodtsy i taina miekhanichieskogho bogha - Miliena Zavoichinskaia.txt
+23 cluster: 07. Желязны Р. - Том 07. Мост из пепла. Глаз кота (Миры Роджера Желязны) - 1995.txt
+23 cluster: 15. Желязны Р. - Том 15. Маска Локи (Миры Роджера Желязны) - 1996.txt
+23 cluster: Biezumnaia zviezda - Tierri Pratchiett.txt
+23 cluster: Erik, a takzhie Nochnaia Strazha, vied_my i Koen-Varvar - Tierri Pratchiett.txt
+23 cluster: Mor, uchienik Smierti - Tierri Pratchiett.txt
+23 cluster: Piramidy - Tierri Pratchiett.txt
+23 cluster: Posokh i shliapa - Terry David John Pratchett.txt
+23 cluster: Strazha! Strazha! (pier. S. Zhuzhunavy pod rhikarientsieva) - Terry David John Pratchett.txt
+24 cluster: Винни Пух и все все все.txt
+24 cluster: Сказка $ Джоэль $ Сказки дядюшки Римуса
+24 cluster: Prisiazhnyi rytsar_ - Dzhordzh Martin.txt
+24 cluster: Ubiistvo v Ei-Bi-Ei - Aiziek Azimov.txt
+24 cluster: Parien_ iz prieispodniei - Arkadii i Boris Strughatskiie.txt
+24 cluster: Sniezhnyie skazki (sbornik) - Miliena V. Zavoichinskaia.txt
+24 cluster: Kon_ i iegho mal_chik - Klaiv Stieiplz L_iuis.txt
+24 cluster: Pliemiannik charodieia - Klaiv Stieiplz L_iuis.txt
+24 cluster: Sieriebrianoie krieslo - Klaiv Stieiplz L_iuis.txt
+25 cluster: Сказка $ Линдгрен $ Пиппи длинный чулок
+25 cluster: Bieghstvo na Vienieru - Edghar Bierrouz.txt
+25 cluster: Boievoi chieloviek Marsa - Edghar Rais Bierrouz.txt
+25 cluster: Iskusstviennyie liudi Marsa - Edghar Rais Bierrouz.txt
+25 cluster: Karson Vienierianskii - Edghar Bierrouz.txt
+25 cluster: Miechi Marsa - Edghar Rais Bierrouz.txt
+25 cluster: Obratno v kamiennyi viek - Edghar Rais Bierrouz.txt
+25 cluster: Tarzan i zaprietnyi ghorod - Edghar Bierrouz.txt
+25 cluster: Tarzan i __Inostrannyi lieghion__ - Edghar Rais Bierrouz.txt
+25 cluster: Tarzan torzhiestvuiushchii - Edghar Bierrouz.txt
+26 cluster: Iesli - Garri Garrison.txt
+26 cluster: Na ghosudarstviennoi sluzhbie - Garri Garrison.txt
+26 cluster: Pri vodopadie - Garri Garrison.txt
+26 cluster: Prishiel_tsy i K - Garri Garrison.txt
+26 cluster: Radushnaia vstriecha - Garri Garrison.txt
+26 cluster: Mashina - pobieditiel_ - Aiziek Azimov.txt
+26 cluster: Mukhi - Aiziek Azimov.txt
+26 cluster: Storonnik sieghrieghatsii - Aiziek Azimov.txt
+26 cluster: Pieschanaia ghoriachka - Arkadii Strughatskii _ Boris Strughatskii.txt
+26 cluster: V nashie intieriesnoie vriemia - Arkadii Strughatskii _ Boris Strughatskii.txt
+27 cluster: Волков Волшебник Изумрудного города
+27 cluster: Prikliuchieniia v niedrakh Ziemli - Edghar Bierrouz.txt
+27 cluster: Tarzan - povielitiel_ dzhunghliei - Edghar Rais Bierrouz.txt
+27 cluster: Tarzan i liudi-murav_i - Edghar Rais Bierrouz.txt
+27 cluster: Tarzan i sumasshiedshii - Edghar Rais Bierrouz.txt
+27 cluster: Zuby drakona - Maikl Kraiton.txt
+27 cluster: Lietiashchiie skvoz_ noch_ - Dzhordzh Martin.txt
+27 cluster: Putievoditiel_ khitch-khaikiera po Galaktikie - Dughlas Noel_ Adams.txt
+27 cluster: Riestoran na kraiu Vsieliennoi - Dughlas Noel_ Adams.txt
+27 cluster: V osnovnom biezvriedna - Dughlas Adams.txt
+27 cluster: Chuma iz kosmosa - Garri Garrison.txt
+27 cluster: Chuvstvo dolgha (Planieta prokliatykh) - Garri Garrison.txt
+27 cluster: Daliet-effiekt - Garri Garrison.txt
+27 cluster: Kosmichieskii vrach - Garri Garrison.txt
+27 cluster: Nieukrotimaia planieta - Garri Garrison.txt
+27 cluster: Parni iz S.V.I.N. i R.O.B.O.T. - Garri Garrison.txt
+27 cluster: Podvin_ties_! Podvin_ties_! - Garri Garrison.txt
+27 cluster: Kapitolii - Orson Skott Kard.txt
+27 cluster: Oskolok Vsieliennoi [Pieschinka v niebie] - Aiziek Azimov.txt
+27 cluster: Postoiannaia dolzhnost_ - Aiziek Azimov.txt
+27 cluster: 451 ghradus po Farienghieitu - Rei Dughlas Bredbieri.txt
+27 cluster: Gadkiie liebiedi - Arkadii Strughatskii _ Boris Strughatskii.txt
+27 cluster: Malysh - Arkadii Strughatskii _ Boris Strughatskii.txt
+27 cluster: Trudno byt_ boghom - Arkadii Strughatskii _ Boris Strughatskii.txt
+27 cluster: Za milliard liet do kontsa svieta - Arkadii Strughatskii _ Boris Strughatskii.txt
+28 cluster: Liudi iz zabytogho vriemieni - Edghar Rais Bierrouz.txt
+28 cluster: Potieriannyi kontinient - Edghar Rais Bierrouz.txt
+28 cluster: Printsiessa i korolieva, ili Chiernyie i zielienyie - Dzhordzh Martin.txt
+28 cluster: Da zdravstvuiet transatlantichieskii tuniel_! Ura! - Garri Garrison.txt
+28 cluster: Povariennaia knigha Nianiushki Oghgh - Tierri Pratchiett.txt
+28 cluster: Dieti Khurina - Dzhon Ronal_d Ruel Tolkiien.txt
+29 cluster: фэнтези $ Роулинг $ Гарри Поттер и Принц полукровка
+29 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 1 - Lit-Classic.Com.txt
+29 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 10 - Lit-Classic.Com.txt
+29 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 7 - Lit-Classic.Com.txt
+29 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 12 - Lit-Classic.Com.txt
+29 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 5 - Lit-Classic.Com.txt
+29 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 7 - Lit-Classic.Com.txt
+29 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 8 - Lit-Classic.Com.txt
+29 cluster: Sobraniie sochinienii, tom 1. Bielyi vozhd_. Kvartieronka. ssv6t-1 - Tomas Main Rid.txt
+29 cluster: Sobraniie sochinienii, tom 2. Otsieola, vozhdv. Morskoi volchonok ssv6t-2 - Tomas Main Rid.txt
+29 cluster: Iskuplieniie Khristofora Kolumba - Orson Skott Kard.txt
+29 cluster: Maghiellanovo Oblako. Chieloviek s Marsa. Astronavty - Stanislav Liem.txt
+29 cluster: Vozvrashchieniie so zviezd. Glas Gospoda. Poviesti - Stanislav Liem.txt
+29 cluster: Lieto nochi - Den Simmons.txt
+29 cluster: Printsiessa Zaziemiel_ia - Tierri Bruks.txt
+29 cluster: Rokannon - Ursula Lie Guin.txt
+29 cluster: Roza vietrov - Ursula Lie Guin.txt
+29 cluster: Tolkovatieli - Ursula Lie Guin.txt
+30 cluster: Gieroi - Dzhordzh Martin.txt
+30 cluster: Bieghliets - Garri Garrison.txt
+30 cluster: Gosudarstviennyi sluzhashchii - Garri Garrison.txt
+30 cluster: Iz fanatizma ili za voznaghrazhdieniie - Garri Garrison.txt
+30 cluster: Niemoi Milton - Garri Garrison.txt
+30 cluster: Rabota na soviest_ - Garri Garrison.txt
+30 cluster: Vietvistoie drievo evoliutsii - Garri Garrison.txt
+30 cluster: Chuvstvo sily - Aiziek Azimov.txt
+30 cluster: Kak ryby v vodie - Aiziek Azimov.txt
+30 cluster: Sila privychki - Aiziek Azimov.txt
+30 cluster: V chietviertom pokolienii - Aiziek Azimov.txt
+31 cluster: Piratskiie shiroty - Maikl Kraiton.txt
+31 cluster: Novyie prikliuchieniia Stal_noi Krysy - Garri Garrison.txt
+31 cluster: Stal_nuiu Krysu -- v priezidienty - Garri Garrison.txt
+31 cluster: Konviektor Toinbi - Rei Dughlas Bredbieri.txt
+31 cluster: V mghnovieniie oka - Rei Dughlas Bredbieri.txt
+31 cluster: Vozhdieniie vsliepuiu - Rei Dughlas Bredbieri.txt
+31 cluster: Zielienyie tieni, Bielyi Kit - Rei Dughlas Bredbieri.txt
+31 cluster: Vozvrashchieniie - Arkadii Natanovich Strughatskii _ Boris Natanovich Strughatskii.txt
+31 cluster: Krov_ na miechakh. Nas rassudiat boghi - Anna Gavrilova _ Dmitrii Anatol_ievich Gavrilov.txt
+31 cluster: Put_ maghii i sierdtsa - Anna Gavrilova.txt
+31 cluster: Smiert_ za smiert_. Kara ghroznykh boghov - vich Gavrilov _ Anna Sierghieievna Gavrilova.txt
+31 cluster: Zolotoi kliuchik dlia Nasti - Anna Gavrilova.txt
+31 cluster: Gloriia. Kapkan na chietviertogho - Natal_ia Sierghieievna Zhil_tsova.txt
+31 cluster: Kolodiets Mraka - Natal_ia Zhil_tsova.txt
+31 cluster: Nasliednitsa magha smierti - Natal_ia Sierghieievna Zhil_tsova.txt
+31 cluster: 18. Желязны Р. - Том 18. Театр одного демона (Миры Роджера Желязны) - 1996.txt
+31 cluster: Dvizhushchiiesia kartinki - Tierri Pratchiett.txt
+31 cluster: Posliednii kontinient - Tierri Pratchiett.txt
+31 cluster: Tierri Pratchiett.Intieriesnyie vriemiena - Tierri Pratchiett.txt
+31 cluster: Vied_my za ghranitsiei - Terry David John Pratchett.txt
+32 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 10 - Lit-Classic.Com.txt
+32 cluster: Kozyrnyie tuzy - Dzhordzh Martin.txt
+32 cluster: Kol_tsa anakondy - Garri Garrison.txt
+32 cluster: Vragh u porogha - Garri Garrison.txt
+32 cluster: Soliaris. Ediem. Niepobiedimyi - Stanislav Liem.txt
+32 cluster: Endimion - Den Simmons.txt
+32 cluster: Gipierion - Den Simmons.txt
+32 cluster: Ilion - Den Simmons.txt
+32 cluster: Molitvy razbitomu kamniu - Den Simmons.txt
+32 cluster: Grad obriechiennyi - Arkadii Strughatskii _ Boris Strughatskii.txt
+32 cluster: Esmi Solniechnyi Vietier - Anna Sierghieievna (SI) Gavrilova.txt
+32 cluster: Raskolduitie eto niemiedlienno! - Anna Sierghieievna Gavrilova.txt
+32 cluster: Bielorskiie khroniki - Nieizviestnyi.txt
+32 cluster: 01. Желязны Р. - Том 01. Витки. Чёрный трон (Миры Роджера Желязны) - 1995.txt
+32 cluster: 06. Желязны Р. - Том 06. Сегодня мы выбираем лица. Господь гнева (Миры Роджера Желязны) - 1995.txt
+32 cluster: Vozvrashchieniie Korolia - Dzhon Ronal_d Ruel Tolkin.txt
+33 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 5 - Lit-Classic.Com.txt
+33 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 8 - Lit-Classic.Com.txt
+33 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 1 - Lit-Classic.Com.txt
+33 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 14 - Lit-Classic.Com.txt
+33 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 4 - Lit-Oboz.Ru.txt
+33 cluster: Sobraniie sochinienii, tom 5. Bielaia pierchaakh bielogho bizona. ssv6t-5 - Tomas Main Rid.txt
+33 cluster: Podmastier_ie Elvin - Orson Skott Kard.txt
+33 cluster: Orsiniia - Ursula Lie Guin.txt
+33 cluster: Porogh - Ursula Lie Guin.txt
+33 cluster: Volshiebnik Ziemnomor_ia. Grobnitsy Atuana. ierieghu. Tiekhanu_ Romany - Ursula Lie Guin.txt
+34 cluster: фэнтези $ Роулинг $ Гарри Поттер и Кубок огня
+34 cluster: Striela vriemieni - Maikl Kraiton.txt
+34 cluster: Griezy Fievra - Dzhordzh Martin.txt
+34 cluster: Nieistovyie dzhokiery - Dzhordzh Martin.txt
+34 cluster: Pir stierviatnikov - Dzhordzh Martin.txt
+34 cluster: Zhiertva vtorzhieniia_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt
+34 cluster: Vosstaniie Piersiepolisa - Dzhieims S. A. Kori.txt
+34 cluster: El_fiiskiie kamni Shannary - Tierri Bruks.txt
+34 cluster: Piesn_ Shannary - Tierri Bruks.txt
+34 cluster: 02.God Krysy. Putnitsa - Nieizviestnyi.txt
+34 cluster: 28.-Желязны-Р.-Том-28.-Дикие-земли.-Рассказы-_Миры-Роджера-Желязны_-1997.txt
+34 cluster: Bratstvo Kol_tsa - Dzhon Ronal_d Ruel Tolkin.txt
+35 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 6 - Lit-Classic.Com.txt
+35 cluster: Bol_nitsa prieobrazhieniia. Vysokii zamok. Rasskazy - Stanislav Liem.txt
+35 cluster: Fleshbek - Den Simmons.txt
+35 cluster: Kolokol po Khemu - Den Simmons.txt
+35 cluster: Olimp - Den Simmons.txt
+35 cluster: Tiemnaia ighra smierti. Tom 1 - Den Simmons.txt
+35 cluster: Voskhod Endimiona - Den Simmons.txt
+35 cluster: Korol_ planiety Zima - Ursula Lie Guin.txt
+36 cluster: Liudi-monstry - Edghar Rais Bierrouz.txt
+36 cluster: Pielliusidar - Edghar Rais Bierrouz.txt
+36 cluster: Pieshchiernaia dievushka - Edghar Rais Bierrouz.txt
+36 cluster: Prikliuchieniia Tarzana v dzhunghliakh - Edghar Rais Bierrouz.txt
+36 cluster: Tarzan -- priiemysh obiez_ian - Edghar Rais Bierrouz.txt
+36 cluster: Tarzan i iegho zvieri - Edghar Rais Bierrouz.txt
+36 cluster: Tarzan i sokrovishcha Opara - Edghar Rais Bierrouz.txt
+36 cluster: V sierdtsie Ziemli - Edghar Rais Bierrouz.txt
+36 cluster: Vielikii um Marsa - Edghar Rais Bierrouz.txt
+36 cluster: Vladyka Marsa - Edghar Rais Bierrouz.txt
+36 cluster: Vozvrashchieniie v dzhunghli - Edghar Rais Bierrouz.txt
+36 cluster: Ziemlia, pozabytaia vriemieniem - Edghar Rais Bierrouz.txt
+37 cluster: Янссон Мемуары папы Муми Тролля
+37 cluster: Tupikovyi variant - Dzhordzh Martin.txt
+37 cluster: Planieta, s kotoroi nie vozvrashchaiutsia - Garri Garrison.txt
+37 cluster: Devid Starr - kosmichieskii rieindzhier (pier. A.Lievkin) - Aiziek Azimov.txt
+37 cluster: Lakki Starr i bol_shoie solntsie Mierkuriia - Aiziek Azimov.txt
+37 cluster: Kanun vsiekh sviatykh - Rei Dughlas Bredbieri.txt
+37 cluster: Ziemliekopy - Tierri Devid Dzhon Pratchiett.txt
+38 cluster: Сказка $ Алексей Толстой $ Золотой ключик, или приключения Буратино
+38 cluster: Gighant s Marsa - Edghar Rais Bierrouz.txt
+38 cluster: Skielietoidy s Iupitiera - Edghar Rais Bierrouz.txt
+38 cluster: Skazaniia Liesa Vod - Orson Skott Kard.txt
+38 cluster: Urodlivyi mal_chughan [Biezobraznyi malysh] - Aiziek Azimov.txt
+38 cluster: Siroty Spirali - Den Simmons.txt
+38 cluster: Izvnie - Arkadii Strughatskii _ Boris Strughatskii.txt
+38 cluster: Poviest_ o druzhbie i niedruzhbie - Arkadii Strughatskii _ Boris Strughatskii.txt
+39 cluster: Posliednii iz plieistotsiena - Edghar Bierrouz.txt
+39 cluster: Chieloviek s miasnoi fabriki - Dzhordzh Martin.txt
+39 cluster: Liechieniie martyshkami - Dzhordzh Martin.txt
+39 cluster: Povtornaia pomoshch_ - Dzhordzh Martin.txt
+39 cluster: Vozvrashchieniie na S_Atlem - Dzhordzh Martin.txt
+39 cluster: Davlieniie - Garri Garrison.txt
+39 cluster: Istochnik opasnosti - Garri Garrison.txt
+39 cluster: Odin shagh ot ziemli - Garri Garrison.txt
+39 cluster: Posliedniaia vstriecha - Garri Garrison.txt
+39 cluster: Rassliedovaniie - Garri Garrison.txt
+39 cluster: Trudnaia rabota - Garri Garrison.txt
+39 cluster: Voina s robotami - Garri Garrison.txt
+39 cluster: Mnimyie vielichiny - Aiziek Azimov.txt
+39 cluster: Nieozhidannaia pobieda - Aiziek Azimov.txt
+39 cluster: Noch_, kotoraia umiraiet - Aiziek Azimov.txt
+39 cluster: Rab korriektury - Aiziek Azimov.txt
+39 cluster: Razrieshimoie protivoriechiie - Aiziek Azimov.txt
+39 cluster: Strannik v raiu - Aiziek Azimov.txt
+39 cluster: Takoi priekrasnyi dien_ - Aiziek Azimov.txt
+39 cluster: Zhienskaia intuitsiia - Aiziek Azimov.txt
+39 cluster: ___.Iako pomnishi iegho__ - Aiziek Azimov.txt
+39 cluster: Mobi Dik - Arkadii Strughatskii _ Boris Strughatskii.txt
+40 cluster: Absoliutnoie oruzhiie - Garri Garrison.txt
+40 cluster: Pokupaiem Iupitier - Aiziek Azimov.txt
+41 cluster: Marsianin - Endi Vieiier.txt
+41 cluster: Gosudarstvo strakha - Maikl Kraiton.txt
+41 cluster: Park iurskogho pierioda - Maikl Kraiton.txt
+41 cluster: Roi - Maikl Kraiton.txt
+41 cluster: Dikiie karty. Knigha 6. Tuz v trudnom polozhienii - Dzhordzh Martin.txt
+41 cluster: Ruka miertvietsa - Dzhordzh Martin.txt
+41 cluster: Propavshii lainier - Garri Garrison.txt
+41 cluster: Vriemia dlia miatiezhnika - Garri Garrison.txt
+41 cluster: Pozhar Siboly - Dzhieims S. A. Kori.txt
+41 cluster: Probuzhdieniie Lieviafana - Dzhieims Kori.txt
+41 cluster: Vrata Abaddona - Dzhieims Kori.txt
+41 cluster: Kladbische dlya bezumtcev - Rei Dughlas Bredbieri.txt
+41 cluster: Bol_shaia i ghriaznaia liubov_ - Anna Sierghieievna Gavrilova.txt
+41 cluster: Schast_ie vdrugh, ili Istoriia malien_kogho drakona - Anna Gavrilova.txt
+41 cluster: Souli. Dievushka iz ghrioz - Anna Sierghieievna Gavrilova.txt
+41 cluster: Souli. V obiatiiakh miechty - Anna Sierghieievna Gavrilova.txt
+41 cluster: Irzhina. Vsio nie tak, kak kazhietsia_. - Miliena V. Zavoichinskaia.txt
+41 cluster: Primorskaia akadiemiia, ili Ty prosto poka nprivyk - Miliena Valier_ievna Zavoichinskaia.txt
+41 cluster: 24. Желязны Р. - Том 24. Рыцарь Теней. Принц Хаоса (Миры Роджера Желязны) - 1997.txt
+41 cluster: Carpe Jugulum. Khvatai za ghorlo! - Tierri Pratchiett.txt
+41 cluster: Damy i Gospoda - Terry David John Pratchett.txt
+41 cluster: Maskarad (pier. S.Uvbarkh pod ried. A.Zhikarientsieva) - Terry David John Pratchett.txt
+41 cluster: Nochnaia strazha - Tierri Pratchiett.txt
+41 cluster: Noghi iz ghliny - Tierri Pratchiett.txt
+41 cluster: Patriot - Tierri Pratchiett.txt
+41 cluster: Piatyi eliefant - Tierri Pratchiett.txt
+41 cluster: Pravda - Tierri Pratchiett.txt
+41 cluster: Santa-Khriakus - Terry David John Pratchett.txt
+41 cluster: Shmiak - Tierri Pratchiett.txt
+41 cluster: Vor vriemieni - Tierri Pratchiett.txt
+42 cluster: Boghi Marsa - Edghar Rais Bierrouz.txt
+42 cluster: Lunnaia dievushka - Edghar Rais Bierrouz.txt
+42 cluster: Piraty Vieniery - Edghar Bierrouz.txt
+42 cluster: Tarzan Niepobiedimyi - Edghar Rais Bierrouz.txt
+42 cluster: Tarzan v Pielliusidarie - Edghar Rais Bierrouz.txt
+42 cluster: Tuviia, dieva Marsa - Edghar Rais Bierrouz.txt
+42 cluster: Viechnyi dikar_ - Edghar Rais Bierrouz.txt
+42 cluster: Ziemlia potieriannykh liudiei - Edghar Rais Bierrouz.txt
+42 cluster: Dolghoie chaiepitiie - Dughlas Noel_ Adams.txt
+43 cluster: Pora zakryvat_sia - Dzhordzh Martin.txt
+43 cluster: Sumieriechnaia zona - Dzhordzh Martin.txt
+43 cluster: Vspominaia Mielodi - Dzhordzh Martin.txt
+43 cluster: Vtoroi rod odinochiestva - Dzhordzh Martin.txt
+43 cluster: Vtoroi vid odinochiestva - Dzhordzh Martin.txt
+43 cluster: Dien_ poslie kontsa svieta - Garri Garrison.txt
+43 cluster: Molodost_ - Aiziek Azimov.txt
+43 cluster: Pauza - Aiziek Azimov.txt
+43 cluster: Krichashchaia zhienshchina - Rei Bredbieri.txt
+43 cluster: Most trolliei - Tierri Pratchiett.txt
+44 cluster: Alisa i drakon_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt
+44 cluster: Kosmichieskii diesant_ Fantastichieskiie poviesti i rasskazy - Kir Bulychiev.txt
+44 cluster: Million prikliuchienii_ Fantastichieskiie poviesti - Kir Bulychiev.txt
+44 cluster: Monumienty Marsa_ Fantastichieskiie rasskazy i p_iesy - Kir Bulychiev.txt
+44 cluster: Opieratsiia __Gadiuka___ Fantastichieskiie romany - Kir Bulychiev.txt
+44 cluster: Pokhishchieniie charodieia_ Fantastichieskiie poviesti - Kir Bulychiev.txt
+44 cluster: Sto liet tomu vpieried_ Fantastichieskiie proizviedieniia - Kir Bulychiev.txt
+45 cluster: Nakoniets-to pravdivaia istoriia Frankienshtieina - Garri Garrison.txt
+45 cluster: Sluchai v podziemkie - Garri Maksviell Garrison.txt
+45 cluster: Taina Stounkhiedzha - Garri Garrison.txt
+45 cluster: Smiertnyie boghi - Orson Skott Kard.txt
+45 cluster: Alieksandr Bogh - Aiziek Azimov.txt
+45 cluster: Dumaitie! [Dumai!] - Aiziek Azimov.txt
+45 cluster: Dvizhushchaia sila - Aiziek Azimov.txt
+45 cluster: Kak zhal_! - Aiziek Azimov.txt
+45 cluster: Akadiemichieskii ekzortsizm v otdiel_no vziatom Univiersitietie - Tierri Pratchiett.txt
+46 cluster: Гавальда А. 35 кило надежды.txt
+46 cluster: Крот в городе.txt
+46 cluster: Mistfal_ prikhodit utrom - Dzhordzh Martin.txt
+46 cluster: Utsielievshaia planieta - Garri Garrison.txt
+46 cluster: Chtoby my nie pomnili - Aiziek Azimov.txt
+46 cluster: Kak potierialsia robot - Aiziek Azimov.txt
+46 cluster: Kazhdyi - issliedovatiel_ - Aiziek Azimov.txt
+46 cluster: Niekrologh - Aiziek Azimov.txt
+46 cluster: Pishitie moie imia chieriez bukvu _S_ - Aiziek Azimov.txt
+46 cluster: Robbi - Aiziek Azimov.txt
+46 cluster: Salli - Aiziek Azimov.txt
+46 cluster: Uliki - Aiziek Azimov.txt
+46 cluster: Voz_mitie spichku - Aiziek Azimov.txt
+46 cluster: LIeTIT K TIeBIe V NOChI MOI GOLOS - Miliena Zavoichunskaia.txt
+47 cluster: Futurologhichieskii konghriess. Osmotr na miestie. Mir na ziemlie - Stanislav Liem.txt
+47 cluster: Rasskazy o pilotie Pirksie. Fiasko - Stanislav Liem.txt
+47 cluster: Dvulikii diemon Mara. Smiert_ v liubvi - Den Simmons.txt
+47 cluster: Piatoie sierdtsie - Den Simmons.txt
+47 cluster: Polyi chieloviek - Den Simmons.txt
+47 cluster: 3-Vierkhovnaia Vied_ma - Nieizviestnyi.txt
+47 cluster: 12. Желязны Р. - Том 12. Вспышка (Миры Роджера Желязны) - 1996.txt
+48 cluster: Kak umiral staryi mir - Garri Garrison.txt
+48 cluster: U vodopada - Garri Garrison.txt
+48 cluster: Diedovskii sposob - Aiziek Azimov.txt
+48 cluster: Dien_ okhotnikov - Aiziek Azimov.txt
+48 cluster: Koghda-nibud_ - Aiziek Azimov.txt
+48 cluster: Posliednii otviet - Aiziek Azimov.txt
+48 cluster: Robot, kotoryi vidiel sny [Sny robotov] - Aiziek Azimov.txt
+48 cluster: Malchik nevidimka - Rei Dughlas Bredbieri.txt
+48 cluster: O stranstvuiushchikh i putieshiestvuiushchik - Arkadii Strughatskii _ Boris Strughatskii.txt
+48 cluster: Viertushki nochi - Tierri Devid Dzhon Pratchiett.txt
+49 cluster: Bratishka - Aiziek Azimov.txt
+49 cluster: Chto, iesli_. - Aiziek Azimov.txt
+49 cluster: Ia v marsoportie biez Khil_dy - Aiziek Azimov.txt
+49 cluster: Miechty - lichnoie dielo kazhdogho - Aiziek Azimov.txt
+49 cluster: K voprosu o tsiklotatsii - Arkadii Strughatskii _ Boris Strughatskii.txt
+50 cluster: Янссон Опасное лето
+50 cluster: Opasnyi patsiient - Maikl Kraiton.txt
+50 cluster: Bill - Gieroi Galaktiki, na planietie zombi-vampirov - Garri Garrison.txt
+50 cluster: Ty nuzhien stal_noi krysie! - Garri Garrison.txt
+50 cluster: Ia - robot - Aiziek Azimov.txt
+50 cluster: Kosmichieskiie tiechieniia - Aiziek Azimov.txt
+50 cluster: Lakki Starr i luny Iupitiera - Aiziek Azimov.txt
+50 cluster: Lakki Starr i okieany Vieniery - Aiziek Azimov.txt
+50 cluster: Zviezdy kak pyl_ - Aiziek Azimov.txt
+50 cluster: Daliokaia Radugha - Arkadii Strughatskii _ Boris Strughatskii.txt
+50 cluster: Liudi Kovra - Tierri Devid Dzhon Pratchiett.txt
+50 cluster: Posliednii ghieroi. Skazaniie o Ploskom mirie - Tierri Pratchiett.txt
+50 cluster: Ughonshchiki - Tierri Devid Dzhon Pratchiett.txt
+51 cluster: Prints-nieghodiai, brat korolia - Dzhordzh Martin.txt
+52 cluster: Adskii oghon_ - Aiziek Azimov.txt
+52 cluster: Oni nie prilietiat - Aiziek Azimov.txt
+52 cluster: Ochien_ vieskaia prichina povierit_ v Santa-Klausa - Tierri Pretchiett.txt
+52 cluster: Smiert_ i Chto Sluchaietsia Poslie - Tierri Pratchiett.txt
+53 cluster: Bor_ba chieloviechieskogho sierdtsa s samim soboi - Dzhordzh Martin.txt
+53 cluster: Chietyriekhtsvietnyi mal_chik-fanat - Dzhordzh Martin.txt
+53 cluster: Nasliedniki Chieriepash_iegho zamka - Dzhordzh Martin.txt
+53 cluster: Piesn_ ghollivudskoi sirieny - Dzhordzh Martin.txt
+53 cluster: Vkus Tafa - Dzhordzh Martin.txt
+54 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 3 - Lit-Classic.Com.txt
+54 cluster: Bitva koroliei - Dzhordzh Martin.txt
+54 cluster: Buria miechiei - Dzhordzh Martin.txt
+54 cluster: Ighra priestolov - Dzhordzh Martin.txt
+54 cluster: Taniets s drakonami - Dzhordzh Martin.txt
+54 cluster: Pokushieniie na Tiesieia_ Fantastichieskiie romany - Kir Bulychiev.txt
+54 cluster: Posliedniie drakony_ Fantastichieskii roman, poviesti - Kir Bulychiev.txt
+54 cluster: Vozvrashchieniie iz Trapiezunda_ Fantastichieskiie romany - Kir Bulychiev.txt
+54 cluster: Zapoviednik dlia akadiemikov_ Fantastichieskiie romany - Kir Bulychiev.txt
+55 cluster: Bukva zakona - Aiziek Azimov.txt
+56 cluster: Vstriechaiushchaia dielieghatsiia - Garri Garrison.txt
+56 cluster: Glazam dano nie tol_ko vidiet_ - Aiziek Azimov.txt
+56 cluster: Kakoie dielo pchielie_ - Aiziek Azimov.txt
+56 cluster: Miesto, ghdie mnogho vody - Aiziek Azimov.txt
+56 cluster: Novaia ighrushka - Aiziek Azimov.txt
+57 cluster: Lana iz Gatola - Edghar Rais Bierrouz.txt
+57 cluster: Poisk Tarzana - Edghar Bierrouz.txt
+57 cluster: Tarzan i chieloviek-liev - Edghar Rais Bierrouz.txt
+57 cluster: Bill, ghieroi Galaktiki, na planietie robotov-rabov - Garri Garrison.txt
+57 cluster: Mir na koliesakh - Garri Garrison.txt
+57 cluster: Mir Rodiny - Garri Garrison.txt
+57 cluster: Punkt vtorzhieniia_ Ziemlia - Garri Garrison.txt
+57 cluster: Vozvrashchieniie k zviezdam - Garri Garrison.txt
+57 cluster: Akadiemiia - Aiziek Azimov.txt
+57 cluster: Fantastichieskoie putieshiestviie - Aiziek Azimov.txt
+57 cluster: Obnazhiennoie solntsie (pier. N.Vilienskaia) - Aiziek Azimov.txt
+57 cluster: Obnazhiennoie solntsie - Aiziek Azimov.txt
+57 cluster: Osnovaniie i Impieriia [Akadiemiia i Impieriia] - Aiziek Azimov.txt
+57 cluster: Stal_nyie pieshchiery - Aiziek Azimov.txt
+57 cluster: Vtoroi Fond [Vtoraia Akadiemiia] - Aiziek Azimov.txt
+57 cluster: Koshkina pizhama - Rei Dughlas Bredbieri.txt
+57 cluster: Sbornik 4 LIeKARSTVO OT MIeLANKhOLII - Rei Dughlas Bredbieri.txt
+57 cluster: Dielo ob ubiistvie, ili Otiel_ __U poghibshi - Arkadii Strughatskii _ Boris Strughatskii.txt
+57 cluster: Khishchnyie vieshchi vieka - Arkadii Strughatskii _ Boris Strughatskii.txt
+57 cluster: Vied_ma tiemnogho plamieni - Natal_ia Sierghieievna Zhil_tsova.txt
+58 cluster: Lichnyie vospominaniia o Zhannie D`Ark s_ierietaria. Tom Soiier -- syshchik - Mark Tvien.txt
+58 cluster: Tom 11. Rasskazy. Ochierki. Publitsistika. 1894-1909 - Mark Tvien.txt
+58 cluster: Tom 7. Amierikanskii prietiendient.Tom Soiieranitsiei. Prostofilia Vil_son. - Mark Tvien.txt
+58 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 11 - Lit-Classic.Com.txt
+58 cluster: Dzhiek London. Sobraniie sochinienii v 14 tomakh. Tom 13 - Lit-Classic.Com.txt
+58 cluster: Sobraniie sochinienii, tom 3. Okhotniki za raeriannyie v okieanie ssv6t-3 - Tomas Main Rid.txt
+58 cluster: Gorod illiuzii - Ursula Lie Guin.txt
+58 cluster: Poddai paru! - Tierri Pratchiett.txt
+58 cluster: Sil_marillion - Dzhon Ronald Ruel Tolkin _ Kristofier Tolkin.txt
+59 cluster: Tol_ko dieti boiatsia tiemnoty - Dzhordzh Martin.txt
+59 cluster: Zafod dielaiet chistuiu rabotu - Dughlas Adams.txt
+59 cluster: Biezrabotnyi robot - Garri Garrison.txt
+59 cluster: Istoriia kontsa - Garri Garrison.txt
+59 cluster: Sluzhba _Vampir_ - Garri Garrison.txt
+59 cluster: Uvidiet_ zviozdy v Kosmosie - Garri Garrison.txt
+59 cluster: Poiushchii kolokol_chik - Aiziek Azimov.txt
+59 cluster: V lieto 2430 ot R. X. - Aiziek Azimov.txt
+60 cluster: Сказка $ Андерсен $ Сказки
+60 cluster: Biezumnyi korol_ - Edghar Rais Bierrouz.txt
+60 cluster: Boksier Billi - Edghar Rais Bierrouz.txt
+60 cluster: Tanar iz Pielliusidara - Edghar Bierrouz.txt
+60 cluster: Tarzan i Gorod Zolota - Edghar Rais Bierrouz.txt
+60 cluster: Tarzan i zolotoi liev - Edghar Rais Bierrouz.txt
+60 cluster: Za samoi daliekoi zviezdoi - Edghar Rais Bierrouz.txt
+60 cluster: Ziemlia uzhasa - Edghar Rais Bierrouz.txt
+61 cluster: Nalieghkie - Mark Tvien.txt
+61 cluster: Plamia i krov_ - Dzhordzh Martin.txt
+61 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 16 - Lit-oboz.ru.txt
+61 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 2 - Lit-oboz.ru.txt
+61 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 6 - Lit-oboz.ru.txt
+61 cluster: Fint - Tierri Pratchiett.txt
+62 cluster: Prostaki za ghranitsiei ili Put_ novykh palomnikov - Mark Tvien.txt
+62 cluster: Tom 12. Iz _Avtobioghrafii_. Iz zapisnykh knek 1865-1905. Izbrannyie pis_ma - Mark Tvien.txt
+62 cluster: Tom 5. Pieshkom po Ievropie. Prints i nishchii. - Mark Tvien.txt
+62 cluster: Tom 9. Po ekvatoru. Tainstviennyi nieznakomiets - Mark Tvien.txt
+62 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 11 - Lit-Classic.Com.txt
+62 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 19 - Lit-oboz.ru.txt
+62 cluster: Tierror - Den Simmons.txt
+62 cluster: Vsieghda vozvrashchaias_ domoi - Ursula Lie Guin.txt
+63 cluster: Bandit iz Chiertova Kan_ona - Edghar Rais Bierrouz.txt
+63 cluster: Sluchai nieobkhodimosti - Maikl Kraiton.txt
+63 cluster: Voskhodiashchieie solntsie - Maikl Kraiton.txt
+63 cluster: Umiraiushchii sviet - Dzhordzh Martin.txt
+63 cluster: Prieliudiia k Akadiemii - Aiziek Azimov.txt
+63 cluster: Chiernyi iedinorogh - Tierri Bruks.txt
+63 cluster: Koldovskoie ziel_ie - Tierri Bruks.txt
+63 cluster: Shkatulka khitrosplietienii - Tierri Bruks.txt
+63 cluster: Volshiebnik u vlasti - Tierri Bruks.txt
+63 cluster: Astra. Shustroie schast_ie, ili Okhota na makogho drakona - Anna Sierghieievna Gavrilova.txt
+63 cluster: Okhotniki na diemonov. Kapkan - Anna Sierghieievna Gavrilova.txt
+63 cluster: Pokorieniie Oghnia (litres) - Anna Sierghieievna Gavrilova.txt
+63 cluster: Put_ dolgha i liubvi - Anna Gavrilova.txt
+63 cluster: Irzhina. Priednachiertannogho nie izbiezhat_ - Miliena V. Zavoichinskaia.txt
+63 cluster: Knighokhodtsy osobogho naznachieniia - Miliena Zavoichinskaia.txt
+63 cluster: Strashnyie skazki zakrytogho korolievstva - Miliena Valier_ievna Zavoichinskaia.txt
+63 cluster: Tsvietnaia muzyka sidkhie - Miliena Valier_ievna Zavoichinskaia.txt
+63 cluster: 04. Желязны Р. - Том 04. Остров мёртвых. Умереть в Италбаре (Миры Роджера Желязны) - 1995.txt
+63 cluster: 10. Желязны Р. - Том 10. Этот бессмертный. Имя мне легион (Миры Роджера Желязны) - 1995.txt
+63 cluster: 19. Желязны Р. - Том 19. Тёмное путешествие и др. (Миры Роджера Желязны) - 1996.txt
+63 cluster: 22. Желязны Р. - Том 22. Владения Хаоса. Карты Судьбы (Миры Роджера Желязны) - 1996.txt
+64 cluster: Кир Булычев Сто лет тому вперед
+64 cluster: Приключения $ Носов $ Рассказы
+64 cluster: Tarzan vielikoliepnyi - Edghar Bierrouz.txt
+64 cluster: Monstriachii vzvod - Tierri Pratchiett.txt
+64 cluster: Udivitiel_nyi Moris i iegho uchienyie ghryzuny - Tierri Pratchiett.txt
+65 cluster: Portaly - Dzhordzh Martin.txt
+65 cluster: Biez oruzhiia - Arkadii Strughatskii _ Boris Strughatskii.txt
+66 cluster: Biessmiertnyi bard - Aiziek Azimov.txt
+66 cluster: Moi syn - fizik - Aiziek Azimov.txt
+66 cluster: I vriemieni pobiegh - Rei Bredbieri.txt
+67 cluster: Kriepost_ - Dzhordzh Martin.txt
+67 cluster: Amierikanskiie miertviaki - Garri Garrison.txt
+67 cluster: Chiernoie i bieloie - Garri Garrison.txt
+67 cluster: Koghda Boghi kuriat fimiam - Garri Garrison.txt
+67 cluster: Koniechnaia stantsiia - Garri Garrison.txt
+67 cluster: Poslie shtorma - Garri Garrison.txt
+67 cluster: Zaria bieskoniechnoi nochi - Garri Garrison.txt
+67 cluster: Zhiertvoprinoshieniie - Garri Garrison.txt
+67 cluster: Khorovod - Aiziek Azimov.txt
+67 cluster: Loghika - Aiziek Azimov.txt
+67 cluster: Ostriak - Aiziek Azimov.txt
+67 cluster: Pierst obiez_iany - Aiziek Azimov.txt
+67 cluster: Prikol - Aiziek Azimov.txt
+67 cluster: Shtrieikbriekhier - Aiziek Azimov.txt
+67 cluster: Sobieriemsia vmiestie [Davaitie obiedinimsia] - Aiziek Azimov.txt
+67 cluster: Bielyi konus Alaida - Arkadii Strughatskii _ Boris Strughatskii.txt
+67 cluster: Porazhieniie - Arkadii Strughatskii _ Boris Strughatskii.txt
+68 cluster: Vnie biezdny vriemieni - Edghar Rais Bierrouz.txt
+68 cluster: Zovitie iegho Moisieiem - Dzhordzh Martin.txt
+68 cluster: Voskhozhdieniie - Den Simmons.txt
+68 cluster: Vtoroie nashiestviie marsian - Arkadii Strughatskii _ Boris Strughatskii.txt
+69 cluster: Bill, ghieroi Galaktiki, na planietie niepoznannykh naslazhdienii - Garri Garrison.txt
+69 cluster: Fazy ghravitatsii - Den Simmons.txt
+69 cluster: Poniediel_nik nachinaietsia v subbotu - ArkaStrughatskii _ Boris Natanovich Strughatskii.txt
+69 cluster: Strana baghrovykh tuch (c illiustr.) - Arkadii Strughatskii _ Boris Strughatskii.txt
+69 cluster: 01.God krysy.Vidun_ia - Nieizviestnyi.txt
+69 cluster: 1-Profiessiia vied_ma - Nieizviestnyi.txt
+69 cluster: Blaghiie znamieniia - Tierri Pratchiett _ Nil Gieiman.txt
+69 cluster: Tiemnaia storona Solntsa - Tierri Pratchiett.txt
+69 cluster: Vieshchiie siestrichki - Tierri Pratchiett.txt
+70 cluster: братья Гримм Бременские музыканты
+70 cluster: Evieriest - Aiziek Azimov.txt
+70 cluster: Khellouin - Aiziek Azimov.txt
+70 cluster: Kotoryi chas - Aiziek Azimov.txt
+70 cluster: Nieobkhodimoie usloviie - Aiziek Azimov.txt
+70 cluster: Pustiak - Aiziek Azimov.txt
+70 cluster: Tieatr zhiestokosti - Tierri Pratchiett.txt
+71 cluster: Noch_ __Vampirov__ - Dzhordzh Martin.txt
+71 cluster: K-Faktor - Garri Garrison.txt
+71 cluster: Kvitzielientsiia - Garri Garrison.txt
+71 cluster: Blaghoie namierieniie - Aiziek Azimov.txt
+71 cluster: Tsiena riska [Risk] - Aiziek Azimov.txt
+71 cluster: Zielienyie piatna - Aiziek Azimov.txt
+71 cluster: ChIeLOVIeK IZ PASIFIDY - Arkadii Strughatskii _ Boris Strughatskii.txt
+71 cluster: Shiest_ spichiek - Arkadii Strughatskii _ Boris Strughatskii.txt
+71 cluster: Spontannyi rieflieks - Arkadii Strughatskii _ Boris Strughatskii.txt
+72 cluster: Dikiie karty - Dzhordzh Martin.txt
+72 cluster: Prikliuchieniia Iiona Tikhogho - Stanislav Liem.txt
+72 cluster: Rassliedovaniie. Rukopis_, naidiennaia v vannie. Nasmork - Stanislav Liem.txt
+72 cluster: Britva Darvina - Den Simmons.txt
+72 cluster: Dieti Nochi - Den Simmons.txt
+72 cluster: Padieniie Gipieriona - Den Simmons.txt
+72 cluster: Tiemnaia ighra smierti. Tom 2 - Den Simmons.txt
+73 cluster: Tom 4. Prikliuchieniia Toma Soiiera. Zhizn_ na Missisipi - Mark Tvien.txt
+73 cluster: Tom 6. Prikliuchieniia Giekl_bierri Finna. Iikuta pri dvorie korolia Artura - Mark Tvien.txt
+73 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 12 - Lit-Classic.Com.txt
+73 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 11 - Lit-oboz.ru.txt
+73 cluster: Val_tier Skott. Sobraniie sochinienii v dvadtsati tomakh. Tom 8 - Lit-oboz.ru.txt
+73 cluster: Miech Shannary - Tierri Bruks.txt
+73 cluster: Lieghiendy Zapadnogho pobieriezh_ia - Ursula Lie Guin.txt
+73 cluster: Prozrieniie - Ursula Lie Guin.txt
+73 cluster: Nieokonchiennyie skazaniia - Dzhon Ronal_d Ruel Tolkiien.txt
+74 cluster: Proisshiestviie v Okdieilie - Edghar Rais Bierrouz.txt
+74 cluster: Shiest_ sieriebrianykh pul_ - Dzhordzh Martin.txt
+74 cluster: Vsiegho khoroshiegho, i spasibo za rybu! - Dughlas Adams.txt
+74 cluster: Miest_ krysy iz nierzhavieiushchiei stali - Garri Garrison.txt
+74 cluster: Mir inoi - Grighorii Nikitich Griebniev _ Arkadii Natanovich Strughatskii.txt
+74 cluster: Volny ghasiat vietier - Arkadii Strughatskii _ Boris Strughatskii.txt
+74 cluster: Zhuk v muravieinikie - Arkadii Strughatskii _ Boris Strughatskii.txt
+75 cluster: Gdie moia korova_ - Tierri Pratchiett.txt
+76 cluster: Drievniie tainy_ Fantastichieskiie poviesti - Kir Bulychiev.txt
+76 cluster: Dva bilieta v Indiiu_ Fantastichieskiie poviesti - Kir Bulychiev.txt
+76 cluster: Podziemiel_ie vied_m_ Fantastichieskiie poviesti - Kir Bulychiev.txt
+76 cluster: Posielok_ Poviesti - Kir Bulychiev.txt
+76 cluster: Takikh nie ubivaiut_ Romany, poviest_ - Kir Bulychiev.txt
+76 cluster: _ Tom 16. Opasnyie skazki - Kir Bulychiev.txt
+76 cluster: Ediem [sbornik] - Garri Garrison.txt
+76 cluster: Tsikl _Prokliatiie niekromanta_. Tietraloghiia. - Natal_ia Zhil_tsova.txt
+76 cluster: Dom na pieriekriestkie (Triloghiia) - Miliena Zavoichinskaia.txt
+77 cluster: Tasuia Dikiie karty - Dzhordzh Martin.txt
+77 cluster: Znamienityie piervyie slova - Garri Garrison.txt
+77 cluster: Chto takoie kibierpankovskoie dvizhieniie - Den Simmons.txt
+78 cluster: Zlotsviety - Dzhordzh Martin.txt
+78 cluster: Chieloviek s ukhmylkoi na litsie - Orson Skott Kard.txt
+78 cluster: Sonata biez soprovozhdieniia - Orson Skott Kard.txt
+79 cluster: Shtamm __Andromieda__ - Maikl Kraiton.txt
+79 cluster: Zhizn_, Vsieliennaia i vsie ostal_noie - Dughlas Adams.txt
+79 cluster: Bill, ghieroi Galaktiki_ Posliednieie zlopoluchnoie prikliuchieniie - Garri Garrison.txt
+79 cluster: Miest_ Montiesumy - Garri Garrison.txt
+79 cluster: V loghovie L_va - Garri Garrison.txt
+79 cluster: Vozmiezdiie korolievy Viktorii - Garri Garrison.txt
+79 cluster: Skazka o Troikie - Arkadii Strughatskii _ Boris Strughatskii.txt
+80 cluster: Chieloviek-v-formie-ghrushi - Dzhordzh Martin.txt
+80 cluster: Koroli-pustynniki - Dzhordzh Martin.txt
+80 cluster: Mir smierti (Nieukrotimaia planieta) - Garri Garrison.txt
+80 cluster: Kel - Aiziek Azimov.txt
+80 cluster: Kliuch - Aiziek Azimov.txt
+80 cluster: Risk (pier. M.Nakhmanson) - Aiziek Azimov.txt
+80 cluster: Vykhod iz polozhieniia - Aiziek Azimov.txt
+80 cluster: I kamni zaghovorili - Rei Bredbieri.txt
+80 cluster: Tieoriia bol_shogho sboia - Anna Sierghieievna Gavrilova.txt
+80 cluster: Bielaia fieia - Natal_ia Sierghieievna Zhil_tsova.txt
+80 cluster: Morie i rybki - Tierri Pratchiett.txt
+81 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 2 - Lit-Classic.Com.txt
+81 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 4 - Lit-Classic.Com.txt
+81 cluster: Alieksandr Diuma. Sobraniie sochinienii v 12 tomakh. Tom 6 - Lit-Classic.Com.txt
+81 cluster: Sobraniie sochinienii, tom 6. Marony. Vsadnik biez gholovy. ssv6t-6 - Tomas Main Rid.txt
+82 cluster: Gibridy i uzhasy - Dzhordzh Martin.txt
+82 cluster: Griaznyi profiessional - Dzhordzh Martin.txt
+82 cluster: Sviet daliekikh zviezd - Dzhordzh Martin.txt
+82 cluster: Tiotimolin i kosmichieskii viek - Aiziek Azimov.txt
+83 cluster: Tarzan i ubiistvo v dzhunghliakh - Edghar Rais Bierrouz.txt
+83 cluster: Khlieba i ryby - Dzhordzh Martin.txt
+83 cluster: Stiekliannyi tsvietok - Dzhordzh Martin.txt
+83 cluster: Khranitieli zhizni - Garri Garrison.txt
+83 cluster: Obychnaia istoriia - Garri Garrison.txt
+83 cluster: Miortvoie proshloie - Aiziek Azimov.txt
+83 cluster: S-shliuz - Aiziek Azimov.txt
+84 cluster: Razoblachieniie - Maikl Kraiton.txt
+84 cluster: Ighry Niemiezidy - Dzhieims S.A. Kori.txt
+84 cluster: Niemiezida (pier. Iu.Sokolov) - Aiziek Azimov.txt
+84 cluster: Bieghushchaia s diemonom - Tierri Bruks.txt
+84 cluster: Druid Shannary - Tierri Bruks.txt
+84 cluster: Prodaietsia volshiebnoie korolievstvo - Tierri Bruks.txt
+84 cluster: Oranzhievyi tsviet radughi - Miliena Zavoichinskaia.txt
+84 cluster: 09. Желязны Р. - Том 09. Дилвиш Проклятый. Очарованная земля (Миры Роджера Желязны) - 1995.txt
+84 cluster: 20. Желязны Р. - Том 20. Девять принцев Амбера. Ружья  Авалона (Миры Роджера Желязны) - 1996.txt
+84 cluster: Narod, ili Koghda-to my byli diel_finami. - Tierri Pratchiett.txt
+85 cluster: Kaliforniiskii aisbiergh - Garri Garrison.txt
+85 cluster: Put_ marsian - Aiziek Azimov.txt
+85 cluster: Viera - Aiziek Azimov.txt
+85 cluster: Vyviedieniie Chielovieka - Aiziek Azimov.txt
+85 cluster: Dni zatmieniia - Paviel Kadochnikov _ Arkadii Strughatskii _ Boris Strughatskii.txt
+85 cluster: Popalas_, ptichka! - Miliena Valier_ievna Zavoichinskaia.txt
+86 cluster: Oko za Oko (Eye for Eye) - Orson Skott Kard.txt
+87 cluster: Dorogha v 3000 ghod - Garri Garrison.txt
+88 cluster: Ia vypolniaiu svoiu rabotu - Garri Garrison.txt
+88 cluster: Istinnaia liubov_ [Nastoiashchaia liubov_] - Aiziek Azimov.txt
+88 cluster: Kak im bylo viesielo - Aiziek Azimov.txt
+88 cluster: Luchshii drugh mal_chika - Aiziek Azimov.txt
+89 cluster: Odinokiie piesni Lariena Dora - Dzhordzh Martin.txt
+89 cluster: Batton, Batton - Aiziek Azimov.txt
+89 cluster: Chto v imieni - Aiziek Azimov.txt
+89 cluster: Lzhiets - Aiziek Azimov.txt
+89 cluster: Chastnyie priedpolozhieniia - Arkadii Strughatskii _ Boris Strughatskii.txt
+90 cluster: Krugh niedovieriia (Trienirovochnyi poliet) - Garri Garrison.txt
+90 cluster: Opravdaniie - Garri Garrison.txt
+90 cluster: Portriet khudozhnika - Garri Garrison.txt
+90 cluster: Tol_ko nie ia, nie Eimos Keibot! - Garri Garrison.txt

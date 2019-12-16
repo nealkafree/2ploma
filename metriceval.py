@@ -147,8 +147,8 @@ def text_surprisal(key, text):
     surprisal = 0
     n = len(normalized_words)
     for (context, word), value in bigr_freq_dict.items():
-        surprisal += math.log2(freq_dict[context] * (n - 1) / value * n)
-    return key, round(surprisal / n, 5)
+        surprisal += math.log2(freq_dict[context] / value)
+    return key, round(surprisal / len(bigr_freq_dict), 5)
 
 
 def lose_non_russian_alphabet(text):
@@ -158,5 +158,5 @@ def lose_non_russian_alphabet(text):
 
 if __name__ == '__main__':
     result = eval_metric_multithread(func=text_surprisal, data=crawl.get_texts('Normalized Corpus'))
-    metricio.add_new_metric('data.txt', 'surprisal', result)
+    metricio.change_existed_metric('data.txt', 'surprisal', result)
 

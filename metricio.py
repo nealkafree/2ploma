@@ -59,5 +59,3 @@ def delete_metric(path, label):
         for key, value in data.items():
             value.pop(i)
             file.write(key + ':' + '|'.join(value) + '\n')
-
-# delete_metric('data.txt', 'advperc')

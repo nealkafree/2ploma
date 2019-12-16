@@ -1,8 +1,10 @@
 from multiprocessing import Pool
+from os import path
 
 from sklearn.cluster import KMeans
 from rnnmorph.predictor import RNNMorphPredictor
 from nltk.tokenize import word_tokenize
+import joblib
 
 import metricio
 
@@ -17,8 +19,6 @@ import metricio
 #     for text in result:
 #         file.write(str(text) + '\n')
 
-
-#
 # if __name__ == '__main__':
 #     p = Pool()
 #     test = {1: 1, 2: 2, 3: 4, 5: 1, 4: 6}
@@ -35,3 +35,6 @@ import metricio
 # with open('Минутка философии', encoding='UTF-8') as file:
 #     print(predictor.predict(word_tokenize(file.read())))
 
+# clf = joblib.load(path.join('models', 'KMeans n_clusters=31.pkl'))
+# vec = range(10)
+# print(clf.predict([vec]))
