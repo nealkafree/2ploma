@@ -9,11 +9,11 @@ import metricio
 
 
 def train_kmean(dict_data, clusters):
-    kmeans = KMeans(n_clusters=clusters, n_jobs=4)
+    kmeans = KMeans(n_clusters=clusters)
     keys = dict_data.keys()
     result = kmeans.fit_predict([[float(val) for val in value] for value in dict_data.values()])
     joblib.dump(kmeans, path.join('models', 'KMeans n_clusters=' + str(clusters) + '.pkl'))
-    result = list(zip(keys, result))
+    result = dict(zip(keys, result))
     return result
 
 
@@ -22,7 +22,7 @@ def train_affinity_propagation(dict_data, preference=None):
     keys = dict_data.keys()
     result = afprop.fit_predict([[float(val) for val in value] for value in dict_data.values()])
     joblib.dump(afprop, path.join('models', 'Affinity Propagation preference=' + str(preference) + '.pkl'))
-    result = list(zip(keys, result))
+    result = dict(zip(keys, result))
     return result
 
 
@@ -31,7 +31,7 @@ def train_agglomerative(dict_data, clusters, affinity='euclidean', linkage='ward
     keys = dict_data.keys()
     result = aggl.fit_predict([[float(val) for val in value] for value in dict_data.values()])
     joblib.dump(aggl, path.join('models', 'Agglomerative n_clusters=' + str(clusters) + ' affinity=' + affinity + ' linkage=' + linkage + '.pkl'))
-    result = list(zip(keys, result))
+    result = dict(zip(keys, result))
     return result
 
 
@@ -40,7 +40,7 @@ def train_dbscan(dict_data, eps=0.5, min_samples=3):
     keys = dict_data.keys()
     result = dbscan.fit_predict([[float(val) for val in value] for value in dict_data.values()])
     joblib.dump(dbscan, path.join('models', 'DBSCAN eps=' + str(eps) + ' min_samples=' + str(min_samples) + '.pkl'))
-    result = list(zip(keys, result))
+    result = dict(zip(keys, result))
     return result
 
 
@@ -51,6 +51,6 @@ def save_predictions(result, filename=str(datetime.datetime.now())):
             file.write(str(value) + ' cluster: ' + key + '\n')
 
 
-_, data = metricio.read_metrics('data.txt')
-result = train_affinity_propagation(data, preference=-2)
-save_predictions(result, 'Affinity Propagation preference=-2')
+# _, data = metricio.read_metrics('data.txt')
+# result = train_affinity_propagation(data, preference=-2)
+# save_predictions(result, 'Affinity Propagation preference=-2')
