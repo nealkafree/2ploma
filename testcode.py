@@ -1,8 +1,8 @@
 from multiprocessing import Pool
 from os import path
+import re
 
 from sklearn.cluster import KMeans
-from rnnmorph.predictor import RNNMorphPredictor
 from nltk.tokenize import word_tokenize
 import joblib
 
@@ -38,3 +38,4 @@ import metricio
 # clf = joblib.load(path.join('models', 'KMeans n_clusters=31.pkl'))
 # vec = range(10)
 # print(clf.predict([vec]))
+

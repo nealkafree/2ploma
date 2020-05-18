@@ -93,5 +93,5 @@ def normalize_data(data):
 
 
 _, data = metricio.read_metrics('data.txt')
-result = train_kmean(data, clusters=91)
-save_predictions(result, 'K-mean clusters = 91, normalized')
+result = train_kmean(data, clusters=70)
+save_predictions(result, 'K-mean clusters = 70, normalized')
